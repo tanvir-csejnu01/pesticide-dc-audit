@@ -1,0 +1,970 @@
+Activity_ActivityIdentifier,Site_Abb,Activity_StartDate,variable,G_value,mine_value,difference_G_minus_mine,issue
+d29cc968-cfa9-4152-862b-9b5a5b26dc63,"Hudson R, NY",2019-04-16,Turbidity_FNU,12.2,,,G missing (mine has value)
+0e74f456-cda4-42e8-9b3a-557b5a1d1e44,"Maple Creek, NE",2012-10-17,Dissolved_Oxygen_mg_L,,10.0,,mine missing (G has value)
+0e74f456-cda4-42e8-9b3a-557b5a1d1e44,"Maple Creek, NE",2012-10-17,Specific_Conductance,,428.0,,mine missing (G has value)
+0e74f456-cda4-42e8-9b3a-557b5a1d1e44,"Maple Creek, NE",2012-10-17,Water_Temperature_C,,13.2,,mine missing (G has value)
+0e74f456-cda4-42e8-9b3a-557b5a1d1e44,"Maple Creek, NE",2012-10-17,pH,,7.7,,mine missing (G has value)
+30754441-8c59-4aa4-83e7-c1442d1d33f1,"Maple Creek, NE",2012-11-15,Dissolved_Oxygen_mg_L,,7.8,,mine missing (G has value)
+30754441-8c59-4aa4-83e7-c1442d1d33f1,"Maple Creek, NE",2012-11-15,Specific_Conductance,,625.0,,mine missing (G has value)
+30754441-8c59-4aa4-83e7-c1442d1d33f1,"Maple Creek, NE",2012-11-15,Water_Temperature_C,,6.1,,mine missing (G has value)
+30754441-8c59-4aa4-83e7-c1442d1d33f1,"Maple Creek, NE",2012-11-15,pH,,7.8,,mine missing (G has value)
+ba07dcd1-88e4-495c-85e4-7a3ecdb818e1,"Maple Creek, NE",2012-12-17,Dissolved_Oxygen_mg_L,,14.2,,mine missing (G has value)
+ba07dcd1-88e4-495c-85e4-7a3ecdb818e1,"Maple Creek, NE",2012-12-17,Specific_Conductance,,595.0,,mine missing (G has value)
+ba07dcd1-88e4-495c-85e4-7a3ecdb818e1,"Maple Creek, NE",2012-12-17,Water_Temperature_C,,0.9,,mine missing (G has value)
+ba07dcd1-88e4-495c-85e4-7a3ecdb818e1,"Maple Creek, NE",2012-12-17,pH,,7.9,,mine missing (G has value)
+cdaff6ed-b85e-43d6-ab4b-2fcc1faa2431,"Maple Creek, NE",2013-01-23,Dissolved_Oxygen_mg_L,,18.5,,mine missing (G has value)
+cdaff6ed-b85e-43d6-ab4b-2fcc1faa2431,"Maple Creek, NE",2013-01-23,Specific_Conductance,,586.0,,mine missing (G has value)
+cdaff6ed-b85e-43d6-ab4b-2fcc1faa2431,"Maple Creek, NE",2013-01-23,Water_Temperature_C,,1.6,,mine missing (G has value)
+cdaff6ed-b85e-43d6-ab4b-2fcc1faa2431,"Maple Creek, NE",2013-01-23,pH,,7.8,,mine missing (G has value)
+731737eb-422b-4281-9891-c745f90cb29f,"Maple Creek, NE",2013-02-12,Dissolved_Oxygen_mg_L,,18.6,,mine missing (G has value)
+731737eb-422b-4281-9891-c745f90cb29f,"Maple Creek, NE",2013-02-12,Specific_Conductance,,595.0,,mine missing (G has value)
+731737eb-422b-4281-9891-c745f90cb29f,"Maple Creek, NE",2013-02-12,Water_Temperature_C,,2.8,,mine missing (G has value)
+731737eb-422b-4281-9891-c745f90cb29f,"Maple Creek, NE",2013-02-12,pH,,7.9,,mine missing (G has value)
+65a369de-054c-4558-806b-70d560229547,"Maple Creek, NE",2013-02-26,Dissolved_Oxygen_mg_L,,12.6,,mine missing (G has value)
+65a369de-054c-4558-806b-70d560229547,"Maple Creek, NE",2013-02-26,Specific_Conductance,,626.0,,mine missing (G has value)
+65a369de-054c-4558-806b-70d560229547,"Maple Creek, NE",2013-02-26,Water_Temperature_C,,0.8,,mine missing (G has value)
+65a369de-054c-4558-806b-70d560229547,"Maple Creek, NE",2013-02-26,pH,,7.8,,mine missing (G has value)
+d8a3433d-bc1e-43f3-86d9-fcfbb0a74324,"Maple Creek, NE",2013-03-12,Dissolved_Oxygen_mg_L,,15.5,,mine missing (G has value)
+d8a3433d-bc1e-43f3-86d9-fcfbb0a74324,"Maple Creek, NE",2013-03-12,Specific_Conductance,,503.0,,mine missing (G has value)
+d8a3433d-bc1e-43f3-86d9-fcfbb0a74324,"Maple Creek, NE",2013-03-12,Water_Temperature_C,,1.8,,mine missing (G has value)
+d8a3433d-bc1e-43f3-86d9-fcfbb0a74324,"Maple Creek, NE",2013-03-12,pH,,7.7,,mine missing (G has value)
+8b4df8e7-f063-4ab3-9916-8e0a60707516,"Maple Creek, NE",2013-03-25,Dissolved_Oxygen_mg_L,,19.1,,mine missing (G has value)
+8b4df8e7-f063-4ab3-9916-8e0a60707516,"Maple Creek, NE",2013-03-25,Specific_Conductance,,702.0,,mine missing (G has value)
+8b4df8e7-f063-4ab3-9916-8e0a60707516,"Maple Creek, NE",2013-03-25,Water_Temperature_C,,0.0,,mine missing (G has value)
+8b4df8e7-f063-4ab3-9916-8e0a60707516,"Maple Creek, NE",2013-03-25,pH,,8.1,,mine missing (G has value)
+6bd55ba7-cba8-434a-b557-e3ed77e395ca,"Maple Creek, NE",2013-04-10,Dissolved_Oxygen_mg_L,,12.0,,mine missing (G has value)
+6bd55ba7-cba8-434a-b557-e3ed77e395ca,"Maple Creek, NE",2013-04-10,Specific_Conductance,,332.0,,mine missing (G has value)
+6bd55ba7-cba8-434a-b557-e3ed77e395ca,"Maple Creek, NE",2013-04-10,Water_Temperature_C,,1.7,,mine missing (G has value)
+6bd55ba7-cba8-434a-b557-e3ed77e395ca,"Maple Creek, NE",2013-04-10,pH,,7.8,,mine missing (G has value)
+d7a64184-00a7-4df7-9e56-d59f739da092,"Maple Creek, NE",2013-04-24,Dissolved_Oxygen_mg_L,,9.7,,mine missing (G has value)
+d7a64184-00a7-4df7-9e56-d59f739da092,"Maple Creek, NE",2013-04-24,Specific_Conductance,,840.0,,mine missing (G has value)
+d7a64184-00a7-4df7-9e56-d59f739da092,"Maple Creek, NE",2013-04-24,Water_Temperature_C,,3.7,,mine missing (G has value)
+d7a64184-00a7-4df7-9e56-d59f739da092,"Maple Creek, NE",2013-04-24,pH,,8.2,,mine missing (G has value)
+54d665f1-778c-4c8c-9bbe-b9ffc017fb25,"Maple Creek, NE",2013-05-06,Dissolved_Oxygen_mg_L,,14.9,,mine missing (G has value)
+54d665f1-778c-4c8c-9bbe-b9ffc017fb25,"Maple Creek, NE",2013-05-06,Specific_Conductance,,823.0,,mine missing (G has value)
+54d665f1-778c-4c8c-9bbe-b9ffc017fb25,"Maple Creek, NE",2013-05-06,Water_Temperature_C,,8.0,,mine missing (G has value)
+54d665f1-778c-4c8c-9bbe-b9ffc017fb25,"Maple Creek, NE",2013-05-06,pH,,8.2,,mine missing (G has value)
+751137f1-a8ca-4dfe-95de-ecd834d2f411,"Maple Creek, NE",2013-05-14,Dissolved_Oxygen_mg_L,,11.8,,mine missing (G has value)
+751137f1-a8ca-4dfe-95de-ecd834d2f411,"Maple Creek, NE",2013-05-14,Specific_Conductance,,681.0,,mine missing (G has value)
+751137f1-a8ca-4dfe-95de-ecd834d2f411,"Maple Creek, NE",2013-05-14,Water_Temperature_C,,21.5,,mine missing (G has value)
+751137f1-a8ca-4dfe-95de-ecd834d2f411,"Maple Creek, NE",2013-05-14,pH,,8.3,,mine missing (G has value)
+8f511748-9cd5-4275-a853-7126307ab95a,"Maple Creek, NE",2013-05-21,Dissolved_Oxygen_mg_L,,7.0,,mine missing (G has value)
+8f511748-9cd5-4275-a853-7126307ab95a,"Maple Creek, NE",2013-05-21,Specific_Conductance,,495.0,,mine missing (G has value)
+8f511748-9cd5-4275-a853-7126307ab95a,"Maple Creek, NE",2013-05-21,Water_Temperature_C,,14.9,,mine missing (G has value)
+8f511748-9cd5-4275-a853-7126307ab95a,"Maple Creek, NE",2013-05-21,pH,,7.8,,mine missing (G has value)
+a6a3981a-4fc6-4985-8686-77cdcbc1ee4b,"Maple Creek, NE",2013-06-03,Dissolved_Oxygen_mg_L,,8.1,,mine missing (G has value)
+a6a3981a-4fc6-4985-8686-77cdcbc1ee4b,"Maple Creek, NE",2013-06-03,Specific_Conductance,,803.0,,mine missing (G has value)
+a6a3981a-4fc6-4985-8686-77cdcbc1ee4b,"Maple Creek, NE",2013-06-03,Water_Temperature_C,,21.7,,mine missing (G has value)
+a6a3981a-4fc6-4985-8686-77cdcbc1ee4b,"Maple Creek, NE",2013-06-03,pH,,8.2,,mine missing (G has value)
+87e3c7ed-83ef-4b36-9972-acd7e88f5700,"Maple Creek, NE",2013-06-10,Dissolved_Oxygen_mg_L,,7.7,,mine missing (G has value)
+87e3c7ed-83ef-4b36-9972-acd7e88f5700,"Maple Creek, NE",2013-06-10,Specific_Conductance,,416.0,,mine missing (G has value)
+87e3c7ed-83ef-4b36-9972-acd7e88f5700,"Maple Creek, NE",2013-06-10,Water_Temperature_C,,20.8,,mine missing (G has value)
+87e3c7ed-83ef-4b36-9972-acd7e88f5700,"Maple Creek, NE",2013-06-10,pH,,7.6,,mine missing (G has value)
+7e58c2dc-16ed-4c92-a689-eb0abc525b2f,"Maple Creek, NE",2013-06-17,Dissolved_Oxygen_mg_L,,6.7,,mine missing (G has value)
+7e58c2dc-16ed-4c92-a689-eb0abc525b2f,"Maple Creek, NE",2013-06-17,Specific_Conductance,,752.0,,mine missing (G has value)
+7e58c2dc-16ed-4c92-a689-eb0abc525b2f,"Maple Creek, NE",2013-06-17,Water_Temperature_C,,29.9,,mine missing (G has value)
+7e58c2dc-16ed-4c92-a689-eb0abc525b2f,"Maple Creek, NE",2013-06-17,pH,,8.2,,mine missing (G has value)
+7e113f78-24b6-40f9-ba4f-fb744d158ec8,"Maple Creek, NE",2013-06-24,Dissolved_Oxygen_mg_L,,7.2,,mine missing (G has value)
+7e113f78-24b6-40f9-ba4f-fb744d158ec8,"Maple Creek, NE",2013-06-24,Specific_Conductance,,658.0,,mine missing (G has value)
+7e113f78-24b6-40f9-ba4f-fb744d158ec8,"Maple Creek, NE",2013-06-24,Water_Temperature_C,,22.6,,mine missing (G has value)
+7e113f78-24b6-40f9-ba4f-fb744d158ec8,"Maple Creek, NE",2013-06-24,pH,,8.2,,mine missing (G has value)
+f57c8fce-fee3-470c-be89-7e83028b0109,"Maple Creek, NE",2013-07-08,Dissolved_Oxygen_mg_L,,8.8,,mine missing (G has value)
+f57c8fce-fee3-470c-be89-7e83028b0109,"Maple Creek, NE",2013-07-08,Specific_Conductance,,660.0,,mine missing (G has value)
+f57c8fce-fee3-470c-be89-7e83028b0109,"Maple Creek, NE",2013-07-08,Water_Temperature_C,,28.0,,mine missing (G has value)
+f57c8fce-fee3-470c-be89-7e83028b0109,"Maple Creek, NE",2013-07-08,pH,,8.3,,mine missing (G has value)
+dcd009a9-eb8a-460a-a2be-88360d32cff5,"Maple Creek, NE",2013-07-15,Dissolved_Oxygen_mg_L,,7.8,,mine missing (G has value)
+dcd009a9-eb8a-460a-a2be-88360d32cff5,"Maple Creek, NE",2013-07-15,Specific_Conductance,,636.0,,mine missing (G has value)
+dcd009a9-eb8a-460a-a2be-88360d32cff5,"Maple Creek, NE",2013-07-15,Water_Temperature_C,,26.8,,mine missing (G has value)
+dcd009a9-eb8a-460a-a2be-88360d32cff5,"Maple Creek, NE",2013-07-15,pH,,8.3,,mine missing (G has value)
+d64c9a55-cc53-4da8-ba66-a4a0c5d297f0,"Maple Creek, NE",2013-07-22,Dissolved_Oxygen_mg_L,,9.5,,mine missing (G has value)
+d64c9a55-cc53-4da8-ba66-a4a0c5d297f0,"Maple Creek, NE",2013-07-22,Specific_Conductance,,561.0,,mine missing (G has value)
+d64c9a55-cc53-4da8-ba66-a4a0c5d297f0,"Maple Creek, NE",2013-07-22,Water_Temperature_C,,28.8,,mine missing (G has value)
+d64c9a55-cc53-4da8-ba66-a4a0c5d297f0,"Maple Creek, NE",2013-07-22,pH,,8.2,,mine missing (G has value)
+f013dbe4-8316-48e8-bb92-b73ceaf95703,"Maple Creek, NE",2013-07-29,Dissolved_Oxygen_mg_L,,8.9,,mine missing (G has value)
+f013dbe4-8316-48e8-bb92-b73ceaf95703,"Maple Creek, NE",2013-07-29,Specific_Conductance,,558.0,,mine missing (G has value)
+f013dbe4-8316-48e8-bb92-b73ceaf95703,"Maple Creek, NE",2013-07-29,Water_Temperature_C,,20.4,,mine missing (G has value)
+f013dbe4-8316-48e8-bb92-b73ceaf95703,"Maple Creek, NE",2013-07-29,pH,,8.3,,mine missing (G has value)
+379ebae4-00cd-40c6-ad1b-01f2f78b5e3f,"Maple Creek, NE",2013-08-05,Dissolved_Oxygen_mg_L,,7.6,,mine missing (G has value)
+379ebae4-00cd-40c6-ad1b-01f2f78b5e3f,"Maple Creek, NE",2013-08-05,Specific_Conductance,,493.0,,mine missing (G has value)
+379ebae4-00cd-40c6-ad1b-01f2f78b5e3f,"Maple Creek, NE",2013-08-05,Water_Temperature_C,,22.1,,mine missing (G has value)
+379ebae4-00cd-40c6-ad1b-01f2f78b5e3f,"Maple Creek, NE",2013-08-05,pH,,8.2,,mine missing (G has value)
+5c3312df-73e6-411f-b0d8-e89567332a62,"Maple Creek, NE",2013-08-14,Dissolved_Oxygen_mg_L,,9.6,,mine missing (G has value)
+5c3312df-73e6-411f-b0d8-e89567332a62,"Maple Creek, NE",2013-08-14,Specific_Conductance,,676.0,,mine missing (G has value)
+5c3312df-73e6-411f-b0d8-e89567332a62,"Maple Creek, NE",2013-08-14,Water_Temperature_C,,21.9,,mine missing (G has value)
+5c3312df-73e6-411f-b0d8-e89567332a62,"Maple Creek, NE",2013-08-14,pH,,8.3,,mine missing (G has value)
+8cd86a07-b020-47c6-be62-8e201188fbd1,"Maple Creek, NE",2013-08-27,Dissolved_Oxygen_mg_L,,8.2,,mine missing (G has value)
+8cd86a07-b020-47c6-be62-8e201188fbd1,"Maple Creek, NE",2013-08-27,Specific_Conductance,,634.0,,mine missing (G has value)
+8cd86a07-b020-47c6-be62-8e201188fbd1,"Maple Creek, NE",2013-08-27,Water_Temperature_C,,27.0,,mine missing (G has value)
+8cd86a07-b020-47c6-be62-8e201188fbd1,"Maple Creek, NE",2013-08-27,pH,,8.4,,mine missing (G has value)
+3f220663-78b0-4ab3-bccb-163eac015108,"Maple Creek, NE",2013-09-09,Dissolved_Oxygen_mg_L,,9.9,,mine missing (G has value)
+3f220663-78b0-4ab3-bccb-163eac015108,"Maple Creek, NE",2013-09-09,Specific_Conductance,,484.0,,mine missing (G has value)
+3f220663-78b0-4ab3-bccb-163eac015108,"Maple Creek, NE",2013-09-09,Water_Temperature_C,,27.3,,mine missing (G has value)
+3f220663-78b0-4ab3-bccb-163eac015108,"Maple Creek, NE",2013-09-09,pH,,8.4,,mine missing (G has value)
+95744d13-197f-413c-bb87-7d4915ce2651,"Maple Creek, NE",2013-09-26,Dissolved_Oxygen_mg_L,,20.7,,mine missing (G has value)
+95744d13-197f-413c-bb87-7d4915ce2651,"Maple Creek, NE",2013-09-26,Specific_Conductance,,415.0,,mine missing (G has value)
+95744d13-197f-413c-bb87-7d4915ce2651,"Maple Creek, NE",2013-09-26,Water_Temperature_C,,22.2,,mine missing (G has value)
+95744d13-197f-413c-bb87-7d4915ce2651,"Maple Creek, NE",2013-09-26,pH,,8.7,,mine missing (G has value)
+80940cb6-f25f-42ad-a5fd-04874df76d8e,"Maple Creek, NE",2013-10-21,Dissolved_Oxygen_mg_L,,13.8,,mine missing (G has value)
+80940cb6-f25f-42ad-a5fd-04874df76d8e,"Maple Creek, NE",2013-10-21,Specific_Conductance,,751.0,,mine missing (G has value)
+80940cb6-f25f-42ad-a5fd-04874df76d8e,"Maple Creek, NE",2013-10-21,Water_Temperature_C,,8.7,,mine missing (G has value)
+80940cb6-f25f-42ad-a5fd-04874df76d8e,"Maple Creek, NE",2013-10-21,pH,,8.4,,mine missing (G has value)
+21d1a81d-9981-44cb-a607-32696823d4bc,"Maple Creek, NE",2013-11-18,Dissolved_Oxygen_mg_L,,12.0,,mine missing (G has value)
+21d1a81d-9981-44cb-a607-32696823d4bc,"Maple Creek, NE",2013-11-18,Specific_Conductance,,796.0,,mine missing (G has value)
+21d1a81d-9981-44cb-a607-32696823d4bc,"Maple Creek, NE",2013-11-18,Water_Temperature_C,,5.6,,mine missing (G has value)
+21d1a81d-9981-44cb-a607-32696823d4bc,"Maple Creek, NE",2013-11-18,pH,,8.4,,mine missing (G has value)
+438e4d6e-b1b5-4309-a674-03cb7f0254e8,"Maple Creek, NE",2013-12-17,Dissolved_Oxygen_mg_L,,13.1,,mine missing (G has value)
+438e4d6e-b1b5-4309-a674-03cb7f0254e8,"Maple Creek, NE",2013-12-17,Specific_Conductance,,859.0,,mine missing (G has value)
+438e4d6e-b1b5-4309-a674-03cb7f0254e8,"Maple Creek, NE",2013-12-17,Water_Temperature_C,,1.5,,mine missing (G has value)
+438e4d6e-b1b5-4309-a674-03cb7f0254e8,"Maple Creek, NE",2013-12-17,pH,,7.8,,mine missing (G has value)
+5c0830d4-c7d8-47bb-8f8d-e61ae2ae431f,"Maple Creek, NE",2014-01-23,Dissolved_Oxygen_mg_L,,14.8,,mine missing (G has value)
+5c0830d4-c7d8-47bb-8f8d-e61ae2ae431f,"Maple Creek, NE",2014-01-23,Specific_Conductance,,867.0,,mine missing (G has value)
+5c0830d4-c7d8-47bb-8f8d-e61ae2ae431f,"Maple Creek, NE",2014-01-23,Water_Temperature_C,,0.2,,mine missing (G has value)
+063ec376-124d-4735-97d2-62be1374c1c0,"Maple Creek, NE",2014-02-27,Dissolved_Oxygen_mg_L,,13.0,,mine missing (G has value)
+063ec376-124d-4735-97d2-62be1374c1c0,"Maple Creek, NE",2014-02-27,Specific_Conductance,,763.0,,mine missing (G has value)
+063ec376-124d-4735-97d2-62be1374c1c0,"Maple Creek, NE",2014-02-27,Water_Temperature_C,,2.6,,mine missing (G has value)
+063ec376-124d-4735-97d2-62be1374c1c0,"Maple Creek, NE",2014-02-27,pH,,8.0,,mine missing (G has value)
+c7903d6f-4282-49ca-bdc3-29ddb144adb1,"Maple Creek, NE",2014-03-12,Dissolved_Oxygen_mg_L,,13.0,,mine missing (G has value)
+c7903d6f-4282-49ca-bdc3-29ddb144adb1,"Maple Creek, NE",2014-03-12,Specific_Conductance,,572.0,,mine missing (G has value)
+c7903d6f-4282-49ca-bdc3-29ddb144adb1,"Maple Creek, NE",2014-03-12,Water_Temperature_C,,2.5,,mine missing (G has value)
+c7903d6f-4282-49ca-bdc3-29ddb144adb1,"Maple Creek, NE",2014-03-12,pH,,8.1,,mine missing (G has value)
+2948974e-ad6e-4298-a875-1fcc444539d2,"Maple Creek, NE",2014-03-18,Dissolved_Oxygen_mg_L,,12.0,,mine missing (G has value)
+2948974e-ad6e-4298-a875-1fcc444539d2,"Maple Creek, NE",2014-03-18,Specific_Conductance,,663.0,,mine missing (G has value)
+2948974e-ad6e-4298-a875-1fcc444539d2,"Maple Creek, NE",2014-03-18,Water_Temperature_C,,4.3,,mine missing (G has value)
+2948974e-ad6e-4298-a875-1fcc444539d2,"Maple Creek, NE",2014-03-18,pH,,8.2,,mine missing (G has value)
+9855251e-ae0c-4318-bcea-8a92a6c6b1db,"Maple Creek, NE",2014-03-25,Dissolved_Oxygen_mg_L,,12.9,,mine missing (G has value)
+9855251e-ae0c-4318-bcea-8a92a6c6b1db,"Maple Creek, NE",2014-03-25,Specific_Conductance,,742.0,,mine missing (G has value)
+9855251e-ae0c-4318-bcea-8a92a6c6b1db,"Maple Creek, NE",2014-03-25,Water_Temperature_C,,4.8,,mine missing (G has value)
+9855251e-ae0c-4318-bcea-8a92a6c6b1db,"Maple Creek, NE",2014-03-25,pH,,8.3,,mine missing (G has value)
+0d319497-ef06-4f51-9246-d2718ed36bf8,"Maple Creek, NE",2014-04-10,Dissolved_Oxygen_mg_L,,10.9,,mine missing (G has value)
+0d319497-ef06-4f51-9246-d2718ed36bf8,"Maple Creek, NE",2014-04-10,Specific_Conductance,,708.0,,mine missing (G has value)
+0d319497-ef06-4f51-9246-d2718ed36bf8,"Maple Creek, NE",2014-04-10,Water_Temperature_C,,13.8,,mine missing (G has value)
+0d319497-ef06-4f51-9246-d2718ed36bf8,"Maple Creek, NE",2014-04-10,pH,,8.3,,mine missing (G has value)
+a4da2cf3-f6af-4842-9afd-b8bcbbe4c991,"Maple Creek, NE",2014-04-22,Dissolved_Oxygen_mg_L,,11.5,,mine missing (G has value)
+a4da2cf3-f6af-4842-9afd-b8bcbbe4c991,"Maple Creek, NE",2014-04-22,Specific_Conductance,,676.0,,mine missing (G has value)
+a4da2cf3-f6af-4842-9afd-b8bcbbe4c991,"Maple Creek, NE",2014-04-22,Water_Temperature_C,,14.0,,mine missing (G has value)
+a4da2cf3-f6af-4842-9afd-b8bcbbe4c991,"Maple Creek, NE",2014-04-22,pH,,8.5,,mine missing (G has value)
+6999a30e-2add-4556-bb74-b5f4d31b49ec,"Maple Creek, NE",2014-05-07,Dissolved_Oxygen_mg_L,,9.2,,mine missing (G has value)
+6999a30e-2add-4556-bb74-b5f4d31b49ec,"Maple Creek, NE",2014-05-07,Specific_Conductance,,663.0,,mine missing (G has value)
+6999a30e-2add-4556-bb74-b5f4d31b49ec,"Maple Creek, NE",2014-05-07,Water_Temperature_C,,22.9,,mine missing (G has value)
+6999a30e-2add-4556-bb74-b5f4d31b49ec,"Maple Creek, NE",2014-05-07,pH,,8.4,,mine missing (G has value)
+ae11ab42-4702-41e3-9df2-87bf57df8061,"Maple Creek, NE",2014-05-14,Dissolved_Oxygen_mg_L,,9.3,,mine missing (G has value)
+ae11ab42-4702-41e3-9df2-87bf57df8061,"Maple Creek, NE",2014-05-14,Specific_Conductance,,669.0,,mine missing (G has value)
+ae11ab42-4702-41e3-9df2-87bf57df8061,"Maple Creek, NE",2014-05-14,Water_Temperature_C,,14.5,,mine missing (G has value)
+ae11ab42-4702-41e3-9df2-87bf57df8061,"Maple Creek, NE",2014-05-14,pH,,8.0,,mine missing (G has value)
+5b28923e-29a6-464f-827a-92f43966d2b6,"Maple Creek, NE",2014-05-20,Dissolved_Oxygen_mg_L,,8.8,,mine missing (G has value)
+5b28923e-29a6-464f-827a-92f43966d2b6,"Maple Creek, NE",2014-05-20,Specific_Conductance,,718.0,,mine missing (G has value)
+5b28923e-29a6-464f-827a-92f43966d2b6,"Maple Creek, NE",2014-05-20,Water_Temperature_C,,22.7,,mine missing (G has value)
+5b28923e-29a6-464f-827a-92f43966d2b6,"Maple Creek, NE",2014-05-20,pH,,8.3,,mine missing (G has value)
+f4ccd8fe-c891-4a10-92d3-955976a234d6,"Maple Creek, NE",2014-06-05,Dissolved_Oxygen_mg_L,,6.7,,mine missing (G has value)
+f4ccd8fe-c891-4a10-92d3-955976a234d6,"Maple Creek, NE",2014-06-05,Specific_Conductance,,474.0,,mine missing (G has value)
+f4ccd8fe-c891-4a10-92d3-955976a234d6,"Maple Creek, NE",2014-06-05,Water_Temperature_C,,19.2,,mine missing (G has value)
+f4ccd8fe-c891-4a10-92d3-955976a234d6,"Maple Creek, NE",2014-06-05,pH,,7.4,,mine missing (G has value)
+2d68184e-3891-4c04-8a36-a90153078005,"Maple Creek, NE",2014-06-10,Dissolved_Oxygen_mg_L,,8.4,,mine missing (G has value)
+2d68184e-3891-4c04-8a36-a90153078005,"Maple Creek, NE",2014-06-10,Specific_Conductance,,846.0,,mine missing (G has value)
+2d68184e-3891-4c04-8a36-a90153078005,"Maple Creek, NE",2014-06-10,Water_Temperature_C,,18.5,,mine missing (G has value)
+2d68184e-3891-4c04-8a36-a90153078005,"Maple Creek, NE",2014-06-10,pH,,8.1,,mine missing (G has value)
+d9f9baa5-0de9-4ba3-becf-923aa3148d23,"Maple Creek, NE",2014-06-25,Dissolved_Oxygen_mg_L,,7.3,,mine missing (G has value)
+d9f9baa5-0de9-4ba3-becf-923aa3148d23,"Maple Creek, NE",2014-06-25,Specific_Conductance,,851.0,,mine missing (G has value)
+d9f9baa5-0de9-4ba3-becf-923aa3148d23,"Maple Creek, NE",2014-06-25,Water_Temperature_C,,22.9,,mine missing (G has value)
+d9f9baa5-0de9-4ba3-becf-923aa3148d23,"Maple Creek, NE",2014-06-25,pH,,8.1,,mine missing (G has value)
+f8439fc1-e014-4c83-8979-ca274a2a2f93,"Maple Creek, NE",2014-07-08,Dissolved_Oxygen_mg_L,,7.7,,mine missing (G has value)
+f8439fc1-e014-4c83-8979-ca274a2a2f93,"Maple Creek, NE",2014-07-08,Specific_Conductance,,824.0,,mine missing (G has value)
+f8439fc1-e014-4c83-8979-ca274a2a2f93,"Maple Creek, NE",2014-07-08,Water_Temperature_C,,24.5,,mine missing (G has value)
+f8439fc1-e014-4c83-8979-ca274a2a2f93,"Maple Creek, NE",2014-07-08,pH,,8.4,,mine missing (G has value)
+3b8b26ee-d617-4e46-a9d5-7d523aaaccec,"Maple Creek, NE",2014-07-15,Dissolved_Oxygen_mg_L,,8.6,,mine missing (G has value)
+3b8b26ee-d617-4e46-a9d5-7d523aaaccec,"Maple Creek, NE",2014-07-15,Specific_Conductance,,851.0,,mine missing (G has value)
+3b8b26ee-d617-4e46-a9d5-7d523aaaccec,"Maple Creek, NE",2014-07-15,Water_Temperature_C,,20.7,,mine missing (G has value)
+3b8b26ee-d617-4e46-a9d5-7d523aaaccec,"Maple Creek, NE",2014-07-15,pH,,8.3,,mine missing (G has value)
+1a936d00-11b5-4daa-9142-785986ebf65f,"Maple Creek, NE",2014-07-22,Dissolved_Oxygen_mg_L,,7.9,,mine missing (G has value)
+1a936d00-11b5-4daa-9142-785986ebf65f,"Maple Creek, NE",2014-07-22,Specific_Conductance,,770.0,,mine missing (G has value)
+1a936d00-11b5-4daa-9142-785986ebf65f,"Maple Creek, NE",2014-07-22,Water_Temperature_C,,26.5,,mine missing (G has value)
+1a936d00-11b5-4daa-9142-785986ebf65f,"Maple Creek, NE",2014-07-22,pH,,8.3,,mine missing (G has value)
+f5f6824e-318f-441b-8694-7c3968fe4af8,"Maple Creek, NE",2014-08-05,Dissolved_Oxygen_mg_L,,8.6,,mine missing (G has value)
+f5f6824e-318f-441b-8694-7c3968fe4af8,"Maple Creek, NE",2014-08-05,Specific_Conductance,,764.0,,mine missing (G has value)
+f5f6824e-318f-441b-8694-7c3968fe4af8,"Maple Creek, NE",2014-08-05,Water_Temperature_C,,24.7,,mine missing (G has value)
+f5f6824e-318f-441b-8694-7c3968fe4af8,"Maple Creek, NE",2014-08-05,pH,,8.3,,mine missing (G has value)
+913a31fc-560d-4b63-8302-abbaa37670ef,"Maple Creek, NE",2014-08-14,Dissolved_Oxygen_mg_L,,8.3,,mine missing (G has value)
+913a31fc-560d-4b63-8302-abbaa37670ef,"Maple Creek, NE",2014-08-14,Specific_Conductance,,785.0,,mine missing (G has value)
+913a31fc-560d-4b63-8302-abbaa37670ef,"Maple Creek, NE",2014-08-14,Water_Temperature_C,,22.7,,mine missing (G has value)
+913a31fc-560d-4b63-8302-abbaa37670ef,"Maple Creek, NE",2014-08-14,pH,,8.4,,mine missing (G has value)
+ead231b6-aa6a-4c5e-8a05-0ea5e211dce0,"Maple Creek, NE",2014-08-18,Dissolved_Oxygen_mg_L,,8.2,,mine missing (G has value)
+ead231b6-aa6a-4c5e-8a05-0ea5e211dce0,"Maple Creek, NE",2014-08-18,Specific_Conductance,,734.0,,mine missing (G has value)
+ead231b6-aa6a-4c5e-8a05-0ea5e211dce0,"Maple Creek, NE",2014-08-18,Water_Temperature_C,,25.3,,mine missing (G has value)
+ead231b6-aa6a-4c5e-8a05-0ea5e211dce0,"Maple Creek, NE",2014-08-18,pH,,8.3,,mine missing (G has value)
+166d0ec0-6be8-450a-9715-e1f814bf1d89,"Maple Creek, NE",2014-09-02,Dissolved_Oxygen_mg_L,,7.7,,mine missing (G has value)
+166d0ec0-6be8-450a-9715-e1f814bf1d89,"Maple Creek, NE",2014-09-02,Specific_Conductance,,494.0,,mine missing (G has value)
+166d0ec0-6be8-450a-9715-e1f814bf1d89,"Maple Creek, NE",2014-09-02,Water_Temperature_C,,23.3,,mine missing (G has value)
+166d0ec0-6be8-450a-9715-e1f814bf1d89,"Maple Creek, NE",2014-09-02,pH,,8.1,,mine missing (G has value)
+404ca492-e5dd-44e2-9dc5-aa419e46cb21,"Maple Creek, NE",2014-09-17,Dissolved_Oxygen_mg_L,,8.4,,mine missing (G has value)
+404ca492-e5dd-44e2-9dc5-aa419e46cb21,"Maple Creek, NE",2014-09-17,Specific_Conductance,,802.0,,mine missing (G has value)
+404ca492-e5dd-44e2-9dc5-aa419e46cb21,"Maple Creek, NE",2014-09-17,Water_Temperature_C,,19.2,,mine missing (G has value)
+404ca492-e5dd-44e2-9dc5-aa419e46cb21,"Maple Creek, NE",2014-09-17,pH,,8.3,,mine missing (G has value)
+aff460e8-a195-49d6-aa15-7c4a4aa194c6,"Miss. R, MN",2018-10-31,Dissolved_Oxygen_mg_L,,11.4,,mine missing (G has value)
+aff460e8-a195-49d6-aa15-7c4a4aa194c6,"Miss. R, MN",2018-10-31,Specific_Conductance,,691.0,,mine missing (G has value)
+aff460e8-a195-49d6-aa15-7c4a4aa194c6,"Miss. R, MN",2018-10-31,Water_Temperature_C,,8.2,,mine missing (G has value)
+aff460e8-a195-49d6-aa15-7c4a4aa194c6,"Miss. R, MN",2018-10-31,pH,,8.2,,mine missing (G has value)
+4728482c-8df6-4ee6-a45b-f6db79f18ff6,"Miss. R, MN",2018-11-29,Dissolved_Oxygen_mg_L,,14.1,,mine missing (G has value)
+4728482c-8df6-4ee6-a45b-f6db79f18ff6,"Miss. R, MN",2018-11-29,Specific_Conductance,,767.0,,mine missing (G has value)
+4728482c-8df6-4ee6-a45b-f6db79f18ff6,"Miss. R, MN",2018-11-29,Water_Temperature_C,,0.0,,mine missing (G has value)
+4728482c-8df6-4ee6-a45b-f6db79f18ff6,"Miss. R, MN",2018-11-29,pH,,8.1,,mine missing (G has value)
+142cb996-0dee-41a4-b285-eef8367f7a63,"Miss. R, MN",2018-12-12,Dissolved_Oxygen_mg_L,,14.0,,mine missing (G has value)
+142cb996-0dee-41a4-b285-eef8367f7a63,"Miss. R, MN",2018-12-12,Specific_Conductance,,752.0,,mine missing (G has value)
+142cb996-0dee-41a4-b285-eef8367f7a63,"Miss. R, MN",2018-12-12,Water_Temperature_C,,0.0,,mine missing (G has value)
+142cb996-0dee-41a4-b285-eef8367f7a63,"Miss. R, MN",2018-12-12,pH,,8.1,,mine missing (G has value)
+4ed842a7-6eea-472e-942b-8fdb50f7a1b7,"Miss. R, MN",2019-02-01,Dissolved_Oxygen_mg_L,,13.4,,mine missing (G has value)
+4ed842a7-6eea-472e-942b-8fdb50f7a1b7,"Miss. R, MN",2019-02-01,Specific_Conductance,,784.0,,mine missing (G has value)
+4ed842a7-6eea-472e-942b-8fdb50f7a1b7,"Miss. R, MN",2019-02-01,Water_Temperature_C,,0.0,,mine missing (G has value)
+4ed842a7-6eea-472e-942b-8fdb50f7a1b7,"Miss. R, MN",2019-02-01,pH,,7.8,,mine missing (G has value)
+207ed572-1bc5-4471-a6dc-f46e54a349d3,"Miss. R, MN",2019-02-11,Dissolved_Oxygen_mg_L,,12.2,,mine missing (G has value)
+207ed572-1bc5-4471-a6dc-f46e54a349d3,"Miss. R, MN",2019-02-11,Specific_Conductance,,781.0,,mine missing (G has value)
+207ed572-1bc5-4471-a6dc-f46e54a349d3,"Miss. R, MN",2019-02-11,Water_Temperature_C,,0.0,,mine missing (G has value)
+207ed572-1bc5-4471-a6dc-f46e54a349d3,"Miss. R, MN",2019-02-11,pH,,7.6,,mine missing (G has value)
+12061698-319a-4808-aa35-5f8f15adbe36,"Miss. R, MN",2019-03-20,Dissolved_Oxygen_mg_L,,12.1,,mine missing (G has value)
+12061698-319a-4808-aa35-5f8f15adbe36,"Miss. R, MN",2019-03-20,Specific_Conductance,,408.0,,mine missing (G has value)
+12061698-319a-4808-aa35-5f8f15adbe36,"Miss. R, MN",2019-03-20,Water_Temperature_C,,0.5,,mine missing (G has value)
+12061698-319a-4808-aa35-5f8f15adbe36,"Miss. R, MN",2019-03-20,pH,,7.7,,mine missing (G has value)
+77dc3c4c-41e2-460e-b7cc-1aad28e96df9,"Miss. R, MN",2019-04-16,Dissolved_Oxygen_mg_L,,12.3,,mine missing (G has value)
+77dc3c4c-41e2-460e-b7cc-1aad28e96df9,"Miss. R, MN",2019-04-16,Specific_Conductance,,473.0,,mine missing (G has value)
+77dc3c4c-41e2-460e-b7cc-1aad28e96df9,"Miss. R, MN",2019-04-16,Water_Temperature_C,,5.9,,mine missing (G has value)
+77dc3c4c-41e2-460e-b7cc-1aad28e96df9,"Miss. R, MN",2019-04-16,pH,,8.0,,mine missing (G has value)
+fbd68ecb-2ea9-4da7-afa4-91cf227e867f,"Miss. R, MN",2019-04-24,Dissolved_Oxygen_mg_L,,10.7,,mine missing (G has value)
+fbd68ecb-2ea9-4da7-afa4-91cf227e867f,"Miss. R, MN",2019-04-24,Specific_Conductance,,495.0,,mine missing (G has value)
+fbd68ecb-2ea9-4da7-afa4-91cf227e867f,"Miss. R, MN",2019-04-24,Water_Temperature_C,,10.9,,mine missing (G has value)
+fbd68ecb-2ea9-4da7-afa4-91cf227e867f,"Miss. R, MN",2019-04-24,pH,,8.0,,mine missing (G has value)
+184608b3-d27f-4542-b537-02016d127ced,"Miss. R, MN",2019-05-20,Dissolved_Oxygen_mg_L,,11.3,,mine missing (G has value)
+184608b3-d27f-4542-b537-02016d127ced,"Miss. R, MN",2019-05-20,Specific_Conductance,,577.0,,mine missing (G has value)
+184608b3-d27f-4542-b537-02016d127ced,"Miss. R, MN",2019-05-20,Water_Temperature_C,,14.0,,mine missing (G has value)
+184608b3-d27f-4542-b537-02016d127ced,"Miss. R, MN",2019-05-20,pH,,8.3,,mine missing (G has value)
+26beb142-818c-4ba2-bfe8-73f30e9c7d7b,"Miss. R, MN",2019-05-29,Dissolved_Oxygen_mg_L,,9.9,,mine missing (G has value)
+26beb142-818c-4ba2-bfe8-73f30e9c7d7b,"Miss. R, MN",2019-05-29,Specific_Conductance,,559.0,,mine missing (G has value)
+26beb142-818c-4ba2-bfe8-73f30e9c7d7b,"Miss. R, MN",2019-05-29,Water_Temperature_C,,15.1,,mine missing (G has value)
+26beb142-818c-4ba2-bfe8-73f30e9c7d7b,"Miss. R, MN",2019-05-29,pH,,8.2,,mine missing (G has value)
+4fcd115b-22f4-4ef3-8bee-7d14ea554d1e,"Miss. R, MN",2019-06-18,Dissolved_Oxygen_mg_L,,8.2,,mine missing (G has value)
+4fcd115b-22f4-4ef3-8bee-7d14ea554d1e,"Miss. R, MN",2019-06-18,Specific_Conductance,,708.0,,mine missing (G has value)
+4fcd115b-22f4-4ef3-8bee-7d14ea554d1e,"Miss. R, MN",2019-06-18,Water_Temperature_C,,21.4,,mine missing (G has value)
+4fcd115b-22f4-4ef3-8bee-7d14ea554d1e,"Miss. R, MN",2019-06-18,pH,,8.0,,mine missing (G has value)
+82de3b62-2982-42ef-af00-901b211d1336,"Miss. R, MN",2019-06-25,Dissolved_Oxygen_mg_L,,7.9,,mine missing (G has value)
+82de3b62-2982-42ef-af00-901b211d1336,"Miss. R, MN",2019-06-25,Specific_Conductance,,661.0,,mine missing (G has value)
+82de3b62-2982-42ef-af00-901b211d1336,"Miss. R, MN",2019-06-25,Water_Temperature_C,,20.3,,mine missing (G has value)
+82de3b62-2982-42ef-af00-901b211d1336,"Miss. R, MN",2019-06-25,pH,,8.0,,mine missing (G has value)
+6f3f684f-e101-4bda-bca3-bafcad8b1cc9,"Miss. R, MN",2019-07-17,Dissolved_Oxygen_mg_L,,7.2,,mine missing (G has value)
+6f3f684f-e101-4bda-bca3-bafcad8b1cc9,"Miss. R, MN",2019-07-17,Specific_Conductance,,636.0,,mine missing (G has value)
+6f3f684f-e101-4bda-bca3-bafcad8b1cc9,"Miss. R, MN",2019-07-17,Water_Temperature_C,,25.8,,mine missing (G has value)
+6f3f684f-e101-4bda-bca3-bafcad8b1cc9,"Miss. R, MN",2019-07-17,pH,,8.1,,mine missing (G has value)
+0292b1bd-d3aa-4a59-a3eb-ad9736521d0e,"Miss. R, MN",2019-07-24,Dissolved_Oxygen_mg_L,,7.4,,mine missing (G has value)
+0292b1bd-d3aa-4a59-a3eb-ad9736521d0e,"Miss. R, MN",2019-07-24,Specific_Conductance,,639.0,,mine missing (G has value)
+0292b1bd-d3aa-4a59-a3eb-ad9736521d0e,"Miss. R, MN",2019-07-24,Water_Temperature_C,,24.5,,mine missing (G has value)
+0292b1bd-d3aa-4a59-a3eb-ad9736521d0e,"Miss. R, MN",2019-07-24,pH,,8.1,,mine missing (G has value)
+0c23e469-c631-4b3c-8ab6-d93032280ba8,"Miss. R, MN",2019-08-06,Dissolved_Oxygen_mg_L,,7.9,,mine missing (G has value)
+0c23e469-c631-4b3c-8ab6-d93032280ba8,"Miss. R, MN",2019-08-06,Specific_Conductance,,697.0,,mine missing (G has value)
+0c23e469-c631-4b3c-8ab6-d93032280ba8,"Miss. R, MN",2019-08-06,Water_Temperature_C,,25.6,,mine missing (G has value)
+0c23e469-c631-4b3c-8ab6-d93032280ba8,"Miss. R, MN",2019-08-06,pH,,8.2,,mine missing (G has value)
+f1539712-afc8-4fe7-b5d8-a160e43e8cdf,"Miss. R, MN",2019-10-23,Dissolved_Oxygen_mg_L,,10.9,,mine missing (G has value)
+f1539712-afc8-4fe7-b5d8-a160e43e8cdf,"Miss. R, MN",2019-10-23,Specific_Conductance,,610.0,,mine missing (G has value)
+f1539712-afc8-4fe7-b5d8-a160e43e8cdf,"Miss. R, MN",2019-10-23,Water_Temperature_C,,8.8,,mine missing (G has value)
+f1539712-afc8-4fe7-b5d8-a160e43e8cdf,"Miss. R, MN",2019-10-23,pH,,8.2,,mine missing (G has value)
+1c437104-30c7-40fa-8a0b-947430e3d03f,"Miss. R, MN",2019-11-25,Dissolved_Oxygen_mg_L,,13.6,,mine missing (G has value)
+1c437104-30c7-40fa-8a0b-947430e3d03f,"Miss. R, MN",2019-11-25,Specific_Conductance,,704.0,,mine missing (G has value)
+1c437104-30c7-40fa-8a0b-947430e3d03f,"Miss. R, MN",2019-11-25,Water_Temperature_C,,2.2,,mine missing (G has value)
+1c437104-30c7-40fa-8a0b-947430e3d03f,"Miss. R, MN",2019-11-25,pH,,7.9,,mine missing (G has value)
+cb090729-094f-4113-8074-d72606c22c29,"Miss. R, MN",2019-12-05,Dissolved_Oxygen_mg_L,,14.2,,mine missing (G has value)
+cb090729-094f-4113-8074-d72606c22c29,"Miss. R, MN",2019-12-05,Specific_Conductance,,737.0,,mine missing (G has value)
+cb090729-094f-4113-8074-d72606c22c29,"Miss. R, MN",2019-12-05,Water_Temperature_C,,0.3,,mine missing (G has value)
+cb090729-094f-4113-8074-d72606c22c29,"Miss. R, MN",2019-12-05,pH,,8.2,,mine missing (G has value)
+ef889157-91ac-49eb-aea7-2d2bd7d7d04c,"Miss. R, MN",2020-01-13,Dissolved_Oxygen_mg_L,,14.2,,mine missing (G has value)
+ef889157-91ac-49eb-aea7-2d2bd7d7d04c,"Miss. R, MN",2020-01-13,Specific_Conductance,,691.0,,mine missing (G has value)
+ef889157-91ac-49eb-aea7-2d2bd7d7d04c,"Miss. R, MN",2020-01-13,Water_Temperature_C,,-0.1,,mine missing (G has value)
+ef889157-91ac-49eb-aea7-2d2bd7d7d04c,"Miss. R, MN",2020-01-13,pH,,7.9,,mine missing (G has value)
+7769f3b8-37fc-4920-976f-bc3926466852,"Miss. R, MN",2020-02-21,Dissolved_Oxygen_mg_L,,14.4,,mine missing (G has value)
+7769f3b8-37fc-4920-976f-bc3926466852,"Miss. R, MN",2020-02-21,Specific_Conductance,,701.0,,mine missing (G has value)
+7769f3b8-37fc-4920-976f-bc3926466852,"Miss. R, MN",2020-02-21,Water_Temperature_C,,-0.1,,mine missing (G has value)
+7769f3b8-37fc-4920-976f-bc3926466852,"Miss. R, MN",2020-02-21,pH,,7.5,,mine missing (G has value)
+a6c8811b-1e43-403c-b03d-cfe7d422c6ac,"Miss. R, MN",2020-03-06,Dissolved_Oxygen_mg_L,,13.3,,mine missing (G has value)
+a6c8811b-1e43-403c-b03d-cfe7d422c6ac,"Miss. R, MN",2020-03-06,Specific_Conductance,,643.0,,mine missing (G has value)
+a6c8811b-1e43-403c-b03d-cfe7d422c6ac,"Miss. R, MN",2020-03-06,Water_Temperature_C,,1.2,,mine missing (G has value)
+a6c8811b-1e43-403c-b03d-cfe7d422c6ac,"Miss. R, MN",2020-03-06,pH,,7.9,,mine missing (G has value)
+f70391e9-2163-43f2-996e-d8e9d2fa3c32,"Miss. R, MN",2020-04-23,Dissolved_Oxygen_mg_L,,12.6,,mine missing (G has value)
+f70391e9-2163-43f2-996e-d8e9d2fa3c32,"Miss. R, MN",2020-04-23,Specific_Conductance,,596.0,,mine missing (G has value)
+f70391e9-2163-43f2-996e-d8e9d2fa3c32,"Miss. R, MN",2020-04-23,Water_Temperature_C,,8.9,,mine missing (G has value)
+f70391e9-2163-43f2-996e-d8e9d2fa3c32,"Miss. R, MN",2020-04-23,pH,,8.1,,mine missing (G has value)
+d76b1141-bf65-479e-8161-8c3e1a1e97d4,"Miss. R, MN",2020-04-30,Dissolved_Oxygen_mg_L,,11.6,,mine missing (G has value)
+d76b1141-bf65-479e-8161-8c3e1a1e97d4,"Miss. R, MN",2020-04-30,Specific_Conductance,,592.0,,mine missing (G has value)
+d76b1141-bf65-479e-8161-8c3e1a1e97d4,"Miss. R, MN",2020-04-30,Water_Temperature_C,,13.3,,mine missing (G has value)
+d76b1141-bf65-479e-8161-8c3e1a1e97d4,"Miss. R, MN",2020-04-30,pH,,8.2,,mine missing (G has value)
+040823fe-08c0-44e6-87f1-cb8dbdf4d2cc,"Miss. R, MN",2020-05-07,Dissolved_Oxygen_mg_L,,10.4,,mine missing (G has value)
+040823fe-08c0-44e6-87f1-cb8dbdf4d2cc,"Miss. R, MN",2020-05-07,Specific_Conductance,,594.0,,mine missing (G has value)
+040823fe-08c0-44e6-87f1-cb8dbdf4d2cc,"Miss. R, MN",2020-05-07,Water_Temperature_C,,15.1,,mine missing (G has value)
+040823fe-08c0-44e6-87f1-cb8dbdf4d2cc,"Miss. R, MN",2020-05-07,pH,,8.1,,mine missing (G has value)
+98cf1e26-2441-4ae3-8421-c17bbef5e125,"Miss. R, MN",2020-06-02,Dissolved_Oxygen_mg_L,,9.0,,mine missing (G has value)
+98cf1e26-2441-4ae3-8421-c17bbef5e125,"Miss. R, MN",2020-06-02,Specific_Conductance,,712.0,,mine missing (G has value)
+98cf1e26-2441-4ae3-8421-c17bbef5e125,"Miss. R, MN",2020-06-02,Water_Temperature_C,,21.2,,mine missing (G has value)
+98cf1e26-2441-4ae3-8421-c17bbef5e125,"Miss. R, MN",2020-06-02,pH,,8.0,,mine missing (G has value)
+464f16d1-004e-4836-86d3-134ccf8e0b1c,"Miss. R, MN",2020-06-17,Dissolved_Oxygen_mg_L,,9.8,,mine missing (G has value)
+464f16d1-004e-4836-86d3-134ccf8e0b1c,"Miss. R, MN",2020-06-17,Specific_Conductance,,705.0,,mine missing (G has value)
+464f16d1-004e-4836-86d3-134ccf8e0b1c,"Miss. R, MN",2020-06-17,Water_Temperature_C,,22.0,,mine missing (G has value)
+464f16d1-004e-4836-86d3-134ccf8e0b1c,"Miss. R, MN",2020-06-17,pH,,8.2,,mine missing (G has value)
+87cddc1a-bf63-4c9f-95da-557b96e5a548,"Miss. R, MN",2020-06-24,Dissolved_Oxygen_mg_L,,12.5,,mine missing (G has value)
+87cddc1a-bf63-4c9f-95da-557b96e5a548,"Miss. R, MN",2020-06-24,Specific_Conductance,,661.0,,mine missing (G has value)
+87cddc1a-bf63-4c9f-95da-557b96e5a548,"Miss. R, MN",2020-06-24,Water_Temperature_C,,23.5,,mine missing (G has value)
+87cddc1a-bf63-4c9f-95da-557b96e5a548,"Miss. R, MN",2020-06-24,pH,,8.3,,mine missing (G has value)
+c0f944e5-3637-4456-88b7-ad1f583746ea,"Miss. R, MN",2020-07-17,Dissolved_Oxygen_mg_L,,8.9,,mine missing (G has value)
+c0f944e5-3637-4456-88b7-ad1f583746ea,"Miss. R, MN",2020-07-17,Specific_Conductance,,669.0,,mine missing (G has value)
+c0f944e5-3637-4456-88b7-ad1f583746ea,"Miss. R, MN",2020-07-17,Water_Temperature_C,,25.6,,mine missing (G has value)
+c0f944e5-3637-4456-88b7-ad1f583746ea,"Miss. R, MN",2020-07-17,pH,,8.1,,mine missing (G has value)
+7528145e-4773-4bd0-83f5-f455f229a911,"Miss. R, MN",2020-07-31,Dissolved_Oxygen_mg_L,,5.8,,mine missing (G has value)
+7528145e-4773-4bd0-83f5-f455f229a911,"Miss. R, MN",2020-07-31,Specific_Conductance,,418.0,,mine missing (G has value)
+7528145e-4773-4bd0-83f5-f455f229a911,"Miss. R, MN",2020-07-31,Water_Temperature_C,,24.6,,mine missing (G has value)
+7528145e-4773-4bd0-83f5-f455f229a911,"Miss. R, MN",2020-07-31,pH,,7.5,,mine missing (G has value)
+384a3fa7-388f-4665-8263-6b33191d62e6,"Miss. R, MN",2020-08-11,Dissolved_Oxygen_mg_L,,9.8,,mine missing (G has value)
+384a3fa7-388f-4665-8263-6b33191d62e6,"Miss. R, MN",2020-08-11,Specific_Conductance,,566.0,,mine missing (G has value)
+384a3fa7-388f-4665-8263-6b33191d62e6,"Miss. R, MN",2020-08-11,Water_Temperature_C,,23.9,,mine missing (G has value)
+384a3fa7-388f-4665-8263-6b33191d62e6,"Miss. R, MN",2020-08-11,pH,,8.2,,mine missing (G has value)
+f8f92591-3b31-4b01-a723-648b11f0b83c,"Red R, ND",2013-10-29,Dissolved_Oxygen_mg_L,11.8,12.0,-0.1999999999999993,values differ
+f8f92591-3b31-4b01-a723-648b11f0b83c,"Red R, ND",2013-10-29,Specific_Conductance,1320.0,1310.0,10.0,values differ
+f8f92591-3b31-4b01-a723-648b11f0b83c,"Red R, ND",2013-10-29,Turbidity_FNU,74.0,72.0,2.0,values differ
+f8f92591-3b31-4b01-a723-648b11f0b83c,"Red R, ND",2013-10-29,pH,8.5,8.3,0.1999999999999993,values differ
+cff3a288-ede5-4181-b4c6-36bc5b1f2cbf,"Red R, ND",2013-11-14,Dissolved_Oxygen_mg_L,13.9,13.7,0.20000000000000107,values differ
+cff3a288-ede5-4181-b4c6-36bc5b1f2cbf,"Red R, ND",2013-11-14,Specific_Conductance,1420.0,1430.0,-10.0,values differ
+cff3a288-ede5-4181-b4c6-36bc5b1f2cbf,"Red R, ND",2013-11-14,Turbidity_FNU,24.0,22.0,2.0,values differ
+cff3a288-ede5-4181-b4c6-36bc5b1f2cbf,"Red R, ND",2013-11-14,Water_Temperature_C,0.2,0.0,0.2,values differ
+cff3a288-ede5-4181-b4c6-36bc5b1f2cbf,"Red R, ND",2013-11-14,pH,8.7,8.5,0.1999999999999993,values differ
+51cd067c-3290-48ee-8c9a-8e09a263606e,"Red R, ND",2014-01-10,Dissolved_Oxygen_mg_L,,9.5,,mine missing (G has value)
+51cd067c-3290-48ee-8c9a-8e09a263606e,"Red R, ND",2014-01-10,Specific_Conductance,,930.0,,mine missing (G has value)
+51cd067c-3290-48ee-8c9a-8e09a263606e,"Red R, ND",2014-01-10,Turbidity_FNU,,3.7,,mine missing (G has value)
+51cd067c-3290-48ee-8c9a-8e09a263606e,"Red R, ND",2014-01-10,Water_Temperature_C,,-0.2,,mine missing (G has value)
+51cd067c-3290-48ee-8c9a-8e09a263606e,"Red R, ND",2014-01-10,pH,,7.6,,mine missing (G has value)
+80058bf7-131c-49e4-9206-469e9cb46b6f,"Red R, ND",2014-03-07,Dissolved_Oxygen_mg_L,9.3,9.1,0.20000000000000107,values differ
+80058bf7-131c-49e4-9206-469e9cb46b6f,"Red R, ND",2014-03-07,Specific_Conductance,864.0,860.0,4.0,values differ
+80058bf7-131c-49e4-9206-469e9cb46b6f,"Red R, ND",2014-03-07,Turbidity_FNU,,2.6,,mine missing (G has value)
+89de53a6-ddd1-4647-92c0-5d5680ef1f7e,"Red R, ND",2014-03-24,Dissolved_Oxygen_mg_L,9.7,9.4,0.29999999999999893,values differ
+89de53a6-ddd1-4647-92c0-5d5680ef1f7e,"Red R, ND",2014-03-24,Specific_Conductance,1170.0,1200.0,-30.0,values differ
+89de53a6-ddd1-4647-92c0-5d5680ef1f7e,"Red R, ND",2014-03-24,Turbidity_FNU,,7.7,,mine missing (G has value)
+89de53a6-ddd1-4647-92c0-5d5680ef1f7e,"Red R, ND",2014-03-24,pH,7.6,7.7,-0.10000000000000053,values differ
+f0f851c0-371b-442f-890a-1be5561ee407,"Red R, ND",2014-04-14,Specific_Conductance,430.0,428.0,2.0,values differ
+f0f851c0-371b-442f-890a-1be5561ee407,"Red R, ND",2014-04-14,Water_Temperature_C,2.6,2.4,0.20000000000000018,values differ
+f0f851c0-371b-442f-890a-1be5561ee407,"Red R, ND",2014-04-14,pH,7.9,7.8,0.10000000000000053,values differ
+c406da68-2d23-4651-8453-b76a7555a80a,"Red R, ND",2014-04-29,Dissolved_Oxygen_mg_L,10.6,10.4,0.1999999999999993,values differ
+c406da68-2d23-4651-8453-b76a7555a80a,"Red R, ND",2014-04-29,Specific_Conductance,651.0,643.0,8.0,values differ
+c406da68-2d23-4651-8453-b76a7555a80a,"Red R, ND",2014-04-29,Turbidity_FNU,340.0,330.0,10.0,values differ
+c406da68-2d23-4651-8453-b76a7555a80a,"Red R, ND",2014-04-29,pH,8.3,8.1,0.20000000000000107,values differ
+10f1502b-5fa3-4d13-b0dd-6a890341d0b9,"Red R, ND",2014-05-14,Dissolved_Oxygen_mg_L,9.7,9.8,-0.10000000000000142,values differ
+10f1502b-5fa3-4d13-b0dd-6a890341d0b9,"Red R, ND",2014-05-14,Specific_Conductance,816.0,854.0,-38.0,values differ
+10f1502b-5fa3-4d13-b0dd-6a890341d0b9,"Red R, ND",2014-05-14,Turbidity_FNU,140.0,110.0,30.0,values differ
+660a8fc4-712d-4039-972e-c3b5c5116af3,"Red R, ND",2014-05-22,Dissolved_Oxygen_mg_L,9.3,9.4,-0.09999999999999964,values differ
+660a8fc4-712d-4039-972e-c3b5c5116af3,"Red R, ND",2014-05-22,Specific_Conductance,915.0,930.0,-15.0,values differ
+660a8fc4-712d-4039-972e-c3b5c5116af3,"Red R, ND",2014-05-22,Turbidity_FNU,92.0,94.0,-2.0,values differ
+660a8fc4-712d-4039-972e-c3b5c5116af3,"Red R, ND",2014-05-22,Water_Temperature_C,13.6,13.5,0.09999999999999964,values differ
+660a8fc4-712d-4039-972e-c3b5c5116af3,"Red R, ND",2014-05-22,pH,8.1,8.2,-0.09999999999999964,values differ
+ae8975d8-97b3-43bd-9aca-3703f5d0361d,"Red R, ND",2014-06-10,Specific_Conductance,928.0,942.0,-14.0,values differ
+ae8975d8-97b3-43bd-9aca-3703f5d0361d,"Red R, ND",2014-06-10,Turbidity_FNU,120.0,130.0,-10.0,values differ
+ae8975d8-97b3-43bd-9aca-3703f5d0361d,"Red R, ND",2014-06-10,pH,7.9,8.0,-0.09999999999999964,values differ
+409d2b0c-8748-4a7b-8908-3ded4b8c5135,"Red R, ND",2014-07-10,Dissolved_Oxygen_mg_L,6.5,6.8,-0.2999999999999998,values differ
+409d2b0c-8748-4a7b-8908-3ded4b8c5135,"Red R, ND",2014-07-10,Specific_Conductance,895.0,939.0,-44.0,values differ
+409d2b0c-8748-4a7b-8908-3ded4b8c5135,"Red R, ND",2014-07-10,Turbidity_FNU,160.0,150.0,10.0,values differ
+409d2b0c-8748-4a7b-8908-3ded4b8c5135,"Red R, ND",2014-07-10,Water_Temperature_C,23.4,23.3,0.09999999999999787,values differ
+409d2b0c-8748-4a7b-8908-3ded4b8c5135,"Red R, ND",2014-07-10,pH,8.0,7.9,0.09999999999999964,values differ
+a43fbf88-671e-44b3-bd8f-367682f3b2c1,"Red R, ND",2014-07-31,Dissolved_Oxygen_mg_L,6.9,7.0,-0.09999999999999964,values differ
+a43fbf88-671e-44b3-bd8f-367682f3b2c1,"Red R, ND",2014-07-31,Specific_Conductance,742.0,737.0,5.0,values differ
+a43fbf88-671e-44b3-bd8f-367682f3b2c1,"Red R, ND",2014-07-31,Water_Temperature_C,23.5,23.4,0.10000000000000142,values differ
+a43fbf88-671e-44b3-bd8f-367682f3b2c1,"Red R, ND",2014-07-31,pH,8.0,8.1,-0.09999999999999964,values differ
+17930d4f-7d70-4318-a0d5-0a3a461c314b,"Red R, ND",2014-08-18,Dissolved_Oxygen_mg_L,6.7,6.8,-0.09999999999999964,values differ
+17930d4f-7d70-4318-a0d5-0a3a461c314b,"Red R, ND",2014-08-18,Specific_Conductance,723.0,713.0,10.0,values differ
+17930d4f-7d70-4318-a0d5-0a3a461c314b,"Red R, ND",2014-08-18,Turbidity_FNU,96.0,91.0,5.0,values differ
+17930d4f-7d70-4318-a0d5-0a3a461c314b,"Red R, ND",2014-08-18,pH,8.0,8.2,-0.1999999999999993,values differ
+a366ac0b-9285-443a-a4a1-0faf0608e049,"Red R, ND",2014-09-23,Dissolved_Oxygen_mg_L,9.0,9.2,-0.1999999999999993,values differ
+a366ac0b-9285-443a-a4a1-0faf0608e049,"Red R, ND",2014-09-23,Specific_Conductance,856.0,872.0,-16.0,values differ
+a366ac0b-9285-443a-a4a1-0faf0608e049,"Red R, ND",2014-09-23,Turbidity_FNU,50.0,53.0,-3.0,values differ
+a366ac0b-9285-443a-a4a1-0faf0608e049,"Red R, ND",2014-09-23,pH,8.2,8.4,-0.20000000000000107,values differ
+3b827e8c-ef87-426d-8018-23b7ca06d041,"Sacram. R, CA",2020-10-21,Dissolved_Oxygen_mg_L,8.9,8.8,0.09999999999999964,values differ
+3b827e8c-ef87-426d-8018-23b7ca06d041,"Sacram. R, CA",2020-10-21,Specific_Conductance,127.0,128.0,-1.0,values differ
+3b827e8c-ef87-426d-8018-23b7ca06d041,"Sacram. R, CA",2020-10-21,Water_Temperature_C,18.6,18.3,0.3000000000000007,values differ
+4fc352a4-3ce8-42a3-8dc0-bf215bf741c5,"Sacram. R, CA",2020-12-03,Dissolved_Oxygen_mg_L,10.9,10.3,0.5999999999999996,values differ
+4fc352a4-3ce8-42a3-8dc0-bf215bf741c5,"Sacram. R, CA",2020-12-03,Specific_Conductance,144.0,174.0,-30.0,values differ
+4fc352a4-3ce8-42a3-8dc0-bf215bf741c5,"Sacram. R, CA",2020-12-03,Water_Temperature_C,9.9,10.6,-0.6999999999999993,values differ
+4fc352a4-3ce8-42a3-8dc0-bf215bf741c5,"Sacram. R, CA",2020-12-03,pH,7.7,7.5,0.20000000000000018,values differ
+6e526407-d0bd-4cc1-abbf-bdf16d8f9933,"Sacram. R, CA",2021-01-06,Specific_Conductance,170.0,167.0,3.0,values differ
+6e526407-d0bd-4cc1-abbf-bdf16d8f9933,"Sacram. R, CA",2021-01-06,Water_Temperature_C,9.8,9.7,0.10000000000000142,values differ
+6e526407-d0bd-4cc1-abbf-bdf16d8f9933,"Sacram. R, CA",2021-01-06,pH,7.9,7.8,0.10000000000000053,values differ
+d0f2252d-061f-42a6-9bf1-e92ff1816f44,"Sacram. R, CA",2021-01-25,Specific_Conductance,181.0,179.0,2.0,values differ
+d0f2252d-061f-42a6-9bf1-e92ff1816f44,"Sacram. R, CA",2021-01-25,Water_Temperature_C,9.7,9.6,0.09999999999999964,values differ
+d0f2252d-061f-42a6-9bf1-e92ff1816f44,"Sacram. R, CA",2021-01-25,pH,7.9,8.0,-0.09999999999999964,values differ
+6262c180-a3d4-4ed0-95ec-ab7cd88b422b,"Sacram. R, CA",2021-02-09,Specific_Conductance,198.0,195.0,3.0,values differ
+6262c180-a3d4-4ed0-95ec-ab7cd88b422b,"Sacram. R, CA",2021-02-09,Water_Temperature_C,10.7,10.6,0.09999999999999964,values differ
+6262c180-a3d4-4ed0-95ec-ab7cd88b422b,"Sacram. R, CA",2021-02-09,pH,7.5,7.7,-0.20000000000000018,values differ
+2748a46c-54d9-49e7-9018-110023fd0372,"Sacram. R, CA",2021-02-24,Dissolved_Oxygen_mg_L,10.6,10.4,0.1999999999999993,values differ
+2748a46c-54d9-49e7-9018-110023fd0372,"Sacram. R, CA",2021-02-24,Water_Temperature_C,11.8,11.6,0.20000000000000107,values differ
+2748a46c-54d9-49e7-9018-110023fd0372,"Sacram. R, CA",2021-02-24,pH,7.6,7.9,-0.3000000000000007,values differ
+d39ab6b4-07dc-4422-83e7-a96c406928ab,"Sacram. R, CA",2021-03-18,Dissolved_Oxygen_mg_L,10.4,10.3,0.09999999999999964,values differ
+d39ab6b4-07dc-4422-83e7-a96c406928ab,"Sacram. R, CA",2021-03-18,Water_Temperature_C,12.2,12.1,0.09999999999999964,values differ
+d39ab6b4-07dc-4422-83e7-a96c406928ab,"Sacram. R, CA",2021-03-18,pH,8.1,7.9,0.1999999999999993,values differ
+af3682cc-6cc0-4acd-a37b-4f1d2c132c2e,"Sacram. R, CA",2021-04-21,Dissolved_Oxygen_mg_L,8.3,8.2,0.10000000000000142,values differ
+af3682cc-6cc0-4acd-a37b-4f1d2c132c2e,"Sacram. R, CA",2021-04-21,Specific_Conductance,136.0,134.0,2.0,values differ
+af3682cc-6cc0-4acd-a37b-4f1d2c132c2e,"Sacram. R, CA",2021-04-21,Water_Temperature_C,18.8,18.4,0.40000000000000213,values differ
+11707b0f-fc63-4132-ab20-a7e00552b423,"Sacram. R, CA",2021-05-05,Specific_Conductance,156.0,152.0,4.0,values differ
+11707b0f-fc63-4132-ab20-a7e00552b423,"Sacram. R, CA",2021-05-05,Water_Temperature_C,20.7,20.4,0.3000000000000007,values differ
+11707b0f-fc63-4132-ab20-a7e00552b423,"Sacram. R, CA",2021-05-05,pH,7.7,7.6,0.10000000000000053,values differ
+da418d64-c900-4fe0-9423-f77deacc2c8b,"Sacram. R, CA",2021-05-26,Dissolved_Oxygen_mg_L,8.4,8.1,0.3000000000000007,values differ
+da418d64-c900-4fe0-9423-f77deacc2c8b,"Sacram. R, CA",2021-05-26,Water_Temperature_C,21.2,20.9,0.3000000000000007,values differ
+5cbd92ab-cc83-4393-a489-1006daaf3872,"Sacram. R, CA",2021-06-07,Dissolved_Oxygen_mg_L,7.6,7.4,0.1999999999999993,values differ
+5cbd92ab-cc83-4393-a489-1006daaf3872,"Sacram. R, CA",2021-06-07,Specific_Conductance,138.0,132.0,6.0,values differ
+5cbd92ab-cc83-4393-a489-1006daaf3872,"Sacram. R, CA",2021-06-07,Water_Temperature_C,24.0,23.4,0.6000000000000014,values differ
+f544f572-e7aa-4bdd-b9a1-cde359962554,"Sacram. R, CA",2021-06-29,Dissolved_Oxygen_mg_L,7.8,7.7,0.09999999999999964,values differ
+f544f572-e7aa-4bdd-b9a1-cde359962554,"Sacram. R, CA",2021-06-29,Specific_Conductance,120.0,114.0,6.0,values differ
+f544f572-e7aa-4bdd-b9a1-cde359962554,"Sacram. R, CA",2021-06-29,Water_Temperature_C,24.3,24.5,-0.1999999999999993,values differ
+f544f572-e7aa-4bdd-b9a1-cde359962554,"Sacram. R, CA",2021-06-29,pH,7.7,7.6,0.10000000000000053,values differ
+de47f20b-3e4e-483d-b274-f9b01ed6a32e,"Sacram. R, CA",2021-07-15,Specific_Conductance,129.0,92.0,37.0,values differ
+de47f20b-3e4e-483d-b274-f9b01ed6a32e,"Sacram. R, CA",2021-07-15,Water_Temperature_C,23.8,23.9,-0.09999999999999787,values differ
+dff607c0-d8a9-45f7-9bc0-459ff16413e3,"Sacram. R, CA",2021-08-23,Dissolved_Oxygen_mg_L,8.4,8.3,0.09999999999999964,values differ
+dff607c0-d8a9-45f7-9bc0-459ff16413e3,"Sacram. R, CA",2021-08-23,Specific_Conductance,180.0,177.0,3.0,values differ
+dff607c0-d8a9-45f7-9bc0-459ff16413e3,"Sacram. R, CA",2021-08-23,Water_Temperature_C,20.7,20.8,-0.10000000000000142,values differ
+2bba953d-45b3-41e2-b602-869c853d2141,"Sacram. R, CA",2021-10-19,Dissolved_Oxygen_mg_L,9.6,9.5,0.09999999999999964,values differ
+2bba953d-45b3-41e2-b602-869c853d2141,"Sacram. R, CA",2021-10-19,Specific_Conductance,132.0,131.0,1.0,values differ
+5a343e32-b33d-4f13-91b1-d7829d9b4d67,"Sacram. R, CA",2021-12-07,Dissolved_Oxygen_mg_L,10.2,9.8,0.3999999999999986,values differ
+5a343e32-b33d-4f13-91b1-d7829d9b4d67,"Sacram. R, CA",2021-12-07,Specific_Conductance,168.0,188.0,-20.0,values differ
+5a343e32-b33d-4f13-91b1-d7829d9b4d67,"Sacram. R, CA",2021-12-07,Water_Temperature_C,11.8,12.1,-0.29999999999999893,values differ
+5a343e32-b33d-4f13-91b1-d7829d9b4d67,"Sacram. R, CA",2021-12-07,pH,7.8,7.6,0.20000000000000018,values differ
+75c5c9bc-71bd-4165-b533-b1dd2b6d8a3b,"Sacram. R, CA",2022-01-05,Dissolved_Oxygen_mg_L,11.3,11.2,0.10000000000000142,values differ
+75c5c9bc-71bd-4165-b533-b1dd2b6d8a3b,"Sacram. R, CA",2022-01-05,Specific_Conductance,180.0,175.0,5.0,values differ
+75c5c9bc-71bd-4165-b533-b1dd2b6d8a3b,"Sacram. R, CA",2022-01-05,Water_Temperature_C,8.1,8.3,-0.20000000000000107,values differ
+75c5c9bc-71bd-4165-b533-b1dd2b6d8a3b,"Sacram. R, CA",2022-01-05,pH,7.7,7.6,0.10000000000000053,values differ
+d1392c84-0f83-4b6f-a916-94697529a65f,"Sacram. R, CA",2022-01-26,Dissolved_Oxygen_mg_L,11.2,11.1,0.09999999999999964,values differ
+d1392c84-0f83-4b6f-a916-94697529a65f,"Sacram. R, CA",2022-01-26,Specific_Conductance,172.0,170.0,2.0,values differ
+d1392c84-0f83-4b6f-a916-94697529a65f,"Sacram. R, CA",2022-01-26,Water_Temperature_C,9.7,9.6,0.09999999999999964,values differ
+d1392c84-0f83-4b6f-a916-94697529a65f,"Sacram. R, CA",2022-01-26,pH,7.9,7.7,0.20000000000000018,values differ
+cca8b9f5-22dd-47c0-a70c-644dddbed613,"Sacram. R, CA",2022-02-16,Dissolved_Oxygen_mg_L,10.4,10.2,0.20000000000000107,values differ
+cca8b9f5-22dd-47c0-a70c-644dddbed613,"Sacram. R, CA",2022-02-16,Water_Temperature_C,12.2,12.0,0.1999999999999993,values differ
+51736b13-82a0-4019-a9d6-33fee5f6318e,"Sacram. R, CA",2022-02-23,Dissolved_Oxygen_mg_L,10.6,10.5,0.09999999999999964,values differ
+51736b13-82a0-4019-a9d6-33fee5f6318e,"Sacram. R, CA",2022-02-23,Specific_Conductance,160.0,156.0,4.0,values differ
+51736b13-82a0-4019-a9d6-33fee5f6318e,"Sacram. R, CA",2022-02-23,Water_Temperature_C,11.6,11.5,0.09999999999999964,values differ
+51736b13-82a0-4019-a9d6-33fee5f6318e,"Sacram. R, CA",2022-02-23,pH,8.0,7.9,0.09999999999999964,values differ
+9f1c7003-17ec-4723-9a1f-d2543edae5dc,"Sacram. R, CA",2022-03-17,Dissolved_Oxygen_mg_L,9.7,9.6,0.09999999999999964,values differ
+9f1c7003-17ec-4723-9a1f-d2543edae5dc,"Sacram. R, CA",2022-03-17,Specific_Conductance,156.0,160.0,-4.0,values differ
+9f1c7003-17ec-4723-9a1f-d2543edae5dc,"Sacram. R, CA",2022-03-17,pH,7.8,7.7,0.09999999999999964,values differ
+68c1198a-c448-4d93-88e0-e0d2f8d1629e,"Sacram. R, CA",2022-04-13,Dissolved_Oxygen_mg_L,9.3,9.2,0.10000000000000142,values differ
+68c1198a-c448-4d93-88e0-e0d2f8d1629e,"Sacram. R, CA",2022-04-13,Specific_Conductance,141.0,147.0,-6.0,values differ
+68c1198a-c448-4d93-88e0-e0d2f8d1629e,"Sacram. R, CA",2022-04-13,pH,7.9,7.7,0.20000000000000018,values differ
+15a4bb3d-b49b-4f6e-9c49-3de4c90be5af,"Sacram. R, CA",2022-05-05,Specific_Conductance,171.0,161.0,10.0,values differ
+15a4bb3d-b49b-4f6e-9c49-3de4c90be5af,"Sacram. R, CA",2022-05-05,Water_Temperature_C,19.9,19.6,0.29999999999999716,values differ
+b1340cbf-275d-4ab7-8301-68ca1449e805,"Sacram. R, CA",2022-06-15,Dissolved_Oxygen_mg_L,8.1,8.0,0.09999999999999964,values differ
+b1340cbf-275d-4ab7-8301-68ca1449e805,"Sacram. R, CA",2022-06-15,Specific_Conductance,113.0,115.0,-2.0,values differ
+b1340cbf-275d-4ab7-8301-68ca1449e805,"Sacram. R, CA",2022-06-15,Water_Temperature_C,22.6,22.7,-0.09999999999999787,values differ
+b1340cbf-275d-4ab7-8301-68ca1449e805,"Sacram. R, CA",2022-06-15,pH,7.6,7.2,0.39999999999999947,values differ
+bbd1f61a-948b-4755-8df2-970ce5a7ffcc,"Sacram. R, CA",2022-07-14,Dissolved_Oxygen_mg_L,8.1,8.0,0.09999999999999964,values differ
+bbd1f61a-948b-4755-8df2-970ce5a7ffcc,"Sacram. R, CA",2022-07-14,Specific_Conductance,101.0,100.0,1.0,values differ
+bbd1f61a-948b-4755-8df2-970ce5a7ffcc,"Sacram. R, CA",2022-07-14,Water_Temperature_C,22.5,22.6,-0.10000000000000142,values differ
+bbd1f61a-948b-4755-8df2-970ce5a7ffcc,"Sacram. R, CA",2022-07-14,pH,7.6,7.3,0.2999999999999998,values differ
+857223f1-ec3b-43aa-8b82-6f09464da1a6,"Sacram. R, CA",2022-07-28,Dissolved_Oxygen_mg_L,8.2,8.1,0.09999999999999964,values differ
+857223f1-ec3b-43aa-8b82-6f09464da1a6,"Sacram. R, CA",2022-07-28,Specific_Conductance,103.0,102.0,1.0,values differ
+857223f1-ec3b-43aa-8b82-6f09464da1a6,"Sacram. R, CA",2022-07-28,pH,7.6,7.2,0.39999999999999947,values differ
+679ae6a5-c369-4785-846b-ba82d8d01725,"Sacram. R, CA",2022-08-10,Dissolved_Oxygen_mg_L,8.1,8.0,0.09999999999999964,values differ
+679ae6a5-c369-4785-846b-ba82d8d01725,"Sacram. R, CA",2022-08-10,pH,7.6,7.3,0.2999999999999998,values differ
+70b18f3c-edd1-450a-8dc2-f8afb5bcd386,"Sacram. R, CA",2022-08-25,Dissolved_Oxygen_mg_L,7.9,7.8,0.10000000000000053,values differ
+70b18f3c-edd1-450a-8dc2-f8afb5bcd386,"Sacram. R, CA",2022-08-25,pH,7.6,7.4,0.1999999999999993,values differ
+ad5461ad-fb47-4f61-976b-827be76d7e79,"Shingle Creek, MN",2018-10-16,Dissolved_Oxygen_mg_L,,9.7,,mine missing (G has value)
+ad5461ad-fb47-4f61-976b-827be76d7e79,"Shingle Creek, MN",2018-10-16,Specific_Conductance,799.0,802.0,-3.0,values differ
+ad5461ad-fb47-4f61-976b-827be76d7e79,"Shingle Creek, MN",2018-10-16,Water_Temperature_C,6.1,6.3,-0.20000000000000018,values differ
+ad5461ad-fb47-4f61-976b-827be76d7e79,"Shingle Creek, MN",2018-10-16,pH,,7.5,,mine missing (G has value)
+3881a19f-ffab-47db-9ab8-65b4f1f73ccb,"Shingle Creek, MN",2018-11-28,Dissolved_Oxygen_mg_L,,9.9,,mine missing (G has value)
+3881a19f-ffab-47db-9ab8-65b4f1f73ccb,"Shingle Creek, MN",2018-11-28,Specific_Conductance,1270.0,1340.0,-70.0,values differ
+3881a19f-ffab-47db-9ab8-65b4f1f73ccb,"Shingle Creek, MN",2018-11-28,Water_Temperature_C,1.0,1.4,-0.3999999999999999,values differ
+3881a19f-ffab-47db-9ab8-65b4f1f73ccb,"Shingle Creek, MN",2018-11-28,pH,,7.4,,mine missing (G has value)
+ed8b59b9-fdbe-44c2-a053-7b4aff622542,"Shingle Creek, MN",2018-12-04,Dissolved_Oxygen_mg_L,,10.6,,mine missing (G has value)
+ed8b59b9-fdbe-44c2-a053-7b4aff622542,"Shingle Creek, MN",2018-12-04,Specific_Conductance,1450.0,1550.0,-100.0,values differ
+ed8b59b9-fdbe-44c2-a053-7b4aff622542,"Shingle Creek, MN",2018-12-04,Water_Temperature_C,0.9,1.3,-0.4,values differ
+ed8b59b9-fdbe-44c2-a053-7b4aff622542,"Shingle Creek, MN",2018-12-04,pH,,7.6,,mine missing (G has value)
+7214372c-e811-474f-a420-216011274379,"Shingle Creek, MN",2019-01-28,Dissolved_Oxygen_mg_L,,10.2,,mine missing (G has value)
+7214372c-e811-474f-a420-216011274379,"Shingle Creek, MN",2019-01-28,Specific_Conductance,1510.0,1570.0,-60.0,values differ
+7214372c-e811-474f-a420-216011274379,"Shingle Creek, MN",2019-01-28,Water_Temperature_C,0.0,0.5,-0.5,values differ
+7214372c-e811-474f-a420-216011274379,"Shingle Creek, MN",2019-01-28,pH,,7.4,,mine missing (G has value)
+3fc36cf0-2774-4402-8447-7428a1c789cb,"Shingle Creek, MN",2019-02-28,Dissolved_Oxygen_mg_L,,7.5,,mine missing (G has value)
+3fc36cf0-2774-4402-8447-7428a1c789cb,"Shingle Creek, MN",2019-02-28,Specific_Conductance,2050.0,2090.0,-40.0,values differ
+3fc36cf0-2774-4402-8447-7428a1c789cb,"Shingle Creek, MN",2019-02-28,Water_Temperature_C,0.2,0.6,-0.39999999999999997,values differ
+3fc36cf0-2774-4402-8447-7428a1c789cb,"Shingle Creek, MN",2019-02-28,pH,,7.5,,mine missing (G has value)
+75a04510-446b-4115-82cc-a2f422ff6884,"Shingle Creek, MN",2019-03-19,Dissolved_Oxygen_mg_L,,9.2,,mine missing (G has value)
+75a04510-446b-4115-82cc-a2f422ff6884,"Shingle Creek, MN",2019-03-19,Specific_Conductance,1570.0,1620.0,-50.0,values differ
+75a04510-446b-4115-82cc-a2f422ff6884,"Shingle Creek, MN",2019-03-19,Water_Temperature_C,-0.1,0.3,-0.4,values differ
+75a04510-446b-4115-82cc-a2f422ff6884,"Shingle Creek, MN",2019-03-19,pH,,7.5,,mine missing (G has value)
+749a075d-4e0c-41da-9103-6a51e3a963da,"Shingle Creek, MN",2019-03-27,Dissolved_Oxygen_mg_L,,9.2,,mine missing (G has value)
+749a075d-4e0c-41da-9103-6a51e3a963da,"Shingle Creek, MN",2019-03-27,Specific_Conductance,784.0,805.0,-21.0,values differ
+749a075d-4e0c-41da-9103-6a51e3a963da,"Shingle Creek, MN",2019-03-27,Water_Temperature_C,2.8,3.2,-0.40000000000000036,values differ
+749a075d-4e0c-41da-9103-6a51e3a963da,"Shingle Creek, MN",2019-03-27,pH,,7.4,,mine missing (G has value)
+c08673d0-50dd-4248-9418-87ce044af128,"Shingle Creek, MN",2019-04-17,Dissolved_Oxygen_mg_L,,9.6,,mine missing (G has value)
+c08673d0-50dd-4248-9418-87ce044af128,"Shingle Creek, MN",2019-04-17,Specific_Conductance,1070.0,1110.0,-40.0,values differ
+c08673d0-50dd-4248-9418-87ce044af128,"Shingle Creek, MN",2019-04-17,Water_Temperature_C,8.5,8.6,-0.09999999999999964,values differ
+c08673d0-50dd-4248-9418-87ce044af128,"Shingle Creek, MN",2019-04-17,pH,,7.8,,mine missing (G has value)
+d9a03820-5ac3-4953-ac27-ee92cda2db98,"Shingle Creek, MN",2019-04-23,Dissolved_Oxygen_mg_L,,10.7,,mine missing (G has value)
+d9a03820-5ac3-4953-ac27-ee92cda2db98,"Shingle Creek, MN",2019-04-23,Specific_Conductance,867.0,908.0,-41.0,values differ
+d9a03820-5ac3-4953-ac27-ee92cda2db98,"Shingle Creek, MN",2019-04-23,Water_Temperature_C,8.4,8.8,-0.40000000000000036,values differ
+d9a03820-5ac3-4953-ac27-ee92cda2db98,"Shingle Creek, MN",2019-04-23,pH,,7.6,,mine missing (G has value)
+11bc0bfa-f41f-4172-95f9-22a2c2cc2fb4,"Shingle Creek, MN",2019-05-07,Dissolved_Oxygen_mg_L,,10.2,,mine missing (G has value)
+11bc0bfa-f41f-4172-95f9-22a2c2cc2fb4,"Shingle Creek, MN",2019-05-07,Specific_Conductance,1090.0,1180.0,-90.0,values differ
+11bc0bfa-f41f-4172-95f9-22a2c2cc2fb4,"Shingle Creek, MN",2019-05-07,pH,,7.7,,mine missing (G has value)
+891ebeef-eb88-4a4d-aad9-25f267a6e221,"Shingle Creek, MN",2019-05-14,Dissolved_Oxygen_mg_L,,9.9,,mine missing (G has value)
+891ebeef-eb88-4a4d-aad9-25f267a6e221,"Shingle Creek, MN",2019-05-14,Specific_Conductance,952.0,998.0,-46.0,values differ
+891ebeef-eb88-4a4d-aad9-25f267a6e221,"Shingle Creek, MN",2019-05-14,Water_Temperature_C,14.1,14.3,-0.20000000000000107,values differ
+891ebeef-eb88-4a4d-aad9-25f267a6e221,"Shingle Creek, MN",2019-05-14,pH,,7.6,,mine missing (G has value)
+9e50f85f-18b7-4593-b420-314214cc4684,"Shingle Creek, MN",2019-05-28,Dissolved_Oxygen_mg_L,,7.5,,mine missing (G has value)
+9e50f85f-18b7-4593-b420-314214cc4684,"Shingle Creek, MN",2019-05-28,Specific_Conductance,523.0,529.0,-6.0,values differ
+9e50f85f-18b7-4593-b420-314214cc4684,"Shingle Creek, MN",2019-05-28,Water_Temperature_C,13.1,13.3,-0.20000000000000107,values differ
+9e50f85f-18b7-4593-b420-314214cc4684,"Shingle Creek, MN",2019-05-28,pH,,7.4,,mine missing (G has value)
+a09c7049-5e1f-4786-9f82-7e6b5121c19c,"Shingle Creek, MN",2019-06-11,Dissolved_Oxygen_mg_L,,7.3,,mine missing (G has value)
+a09c7049-5e1f-4786-9f82-7e6b5121c19c,"Shingle Creek, MN",2019-06-11,Specific_Conductance,991.0,1030.0,-39.0,values differ
+a09c7049-5e1f-4786-9f82-7e6b5121c19c,"Shingle Creek, MN",2019-06-11,pH,,7.5,,mine missing (G has value)
+cd51cf15-e251-4de0-9ead-cbe2f01b1060,"Shingle Creek, MN",2019-06-17,Dissolved_Oxygen_mg_L,,6.4,,mine missing (G has value)
+cd51cf15-e251-4de0-9ead-cbe2f01b1060,"Shingle Creek, MN",2019-06-17,Specific_Conductance,1170.0,1190.0,-20.0,values differ
+cd51cf15-e251-4de0-9ead-cbe2f01b1060,"Shingle Creek, MN",2019-06-17,Water_Temperature_C,18.6,18.5,0.10000000000000142,values differ
+cd51cf15-e251-4de0-9ead-cbe2f01b1060,"Shingle Creek, MN",2019-06-17,pH,,7.4,,mine missing (G has value)
+a0ce6487-e517-4544-abf1-fe240b53a009,"Shingle Creek, MN",2019-06-24,Dissolved_Oxygen_mg_L,,6.0,,mine missing (G has value)
+a0ce6487-e517-4544-abf1-fe240b53a009,"Shingle Creek, MN",2019-06-24,Specific_Conductance,810.0,863.0,-53.0,values differ
+a0ce6487-e517-4544-abf1-fe240b53a009,"Shingle Creek, MN",2019-06-24,pH,,7.4,,mine missing (G has value)
+76715437-0a0c-48ef-a7d6-d3933e82b637,"Shingle Creek, MN",2019-07-09,Dissolved_Oxygen_mg_L,,5.4,,mine missing (G has value)
+76715437-0a0c-48ef-a7d6-d3933e82b637,"Shingle Creek, MN",2019-07-09,Specific_Conductance,898.0,950.0,-52.0,values differ
+76715437-0a0c-48ef-a7d6-d3933e82b637,"Shingle Creek, MN",2019-07-09,Water_Temperature_C,22.4,22.3,0.09999999999999787,values differ
+76715437-0a0c-48ef-a7d6-d3933e82b637,"Shingle Creek, MN",2019-07-09,pH,,7.4,,mine missing (G has value)
+292f5363-ec2d-4fc8-9637-597bbfc8620c,"Shingle Creek, MN",2019-07-15,Dissolved_Oxygen_mg_L,,5.0,,mine missing (G has value)
+292f5363-ec2d-4fc8-9637-597bbfc8620c,"Shingle Creek, MN",2019-07-15,Specific_Conductance,1040.0,1100.0,-60.0,values differ
+292f5363-ec2d-4fc8-9637-597bbfc8620c,"Shingle Creek, MN",2019-07-15,pH,,7.4,,mine missing (G has value)
+ff1e9b2a-12aa-4da9-bde6-f415d71bd63c,"Shingle Creek, MN",2019-07-23,Dissolved_Oxygen_mg_L,,4.8,,mine missing (G has value)
+ff1e9b2a-12aa-4da9-bde6-f415d71bd63c,"Shingle Creek, MN",2019-07-23,Specific_Conductance,635.0,661.0,-26.0,values differ
+ff1e9b2a-12aa-4da9-bde6-f415d71bd63c,"Shingle Creek, MN",2019-07-23,Water_Temperature_C,21.8,21.9,-0.09999999999999787,values differ
+ff1e9b2a-12aa-4da9-bde6-f415d71bd63c,"Shingle Creek, MN",2019-07-23,pH,,7.2,,mine missing (G has value)
+43b72364-49d6-4289-bd87-72ea6e02cdd2,"Shingle Creek, MN",2019-08-07,Dissolved_Oxygen_mg_L,,4.2,,mine missing (G has value)
+43b72364-49d6-4289-bd87-72ea6e02cdd2,"Shingle Creek, MN",2019-08-07,Specific_Conductance,733.0,775.0,-42.0,values differ
+43b72364-49d6-4289-bd87-72ea6e02cdd2,"Shingle Creek, MN",2019-08-07,pH,,7.3,,mine missing (G has value)
+54fe8f3a-e5d7-4150-b982-4bbb6f054a45,"Shingle Creek, MN",2019-08-14,Dissolved_Oxygen_mg_L,,3.9,,mine missing (G has value)
+54fe8f3a-e5d7-4150-b982-4bbb6f054a45,"Shingle Creek, MN",2019-08-14,Specific_Conductance,458.0,456.0,2.0,values differ
+54fe8f3a-e5d7-4150-b982-4bbb6f054a45,"Shingle Creek, MN",2019-08-14,pH,,7.1,,mine missing (G has value)
+54bf38d6-eb17-45ef-87de-ed86c56a16af,"Shingle Creek, MN",2019-08-20,Dissolved_Oxygen_mg_L,,4.2,,mine missing (G has value)
+54bf38d6-eb17-45ef-87de-ed86c56a16af,"Shingle Creek, MN",2019-08-20,Specific_Conductance,359.0,382.0,-23.0,values differ
+54bf38d6-eb17-45ef-87de-ed86c56a16af,"Shingle Creek, MN",2019-08-20,pH,,7.1,,mine missing (G has value)
+0c671086-4be9-440e-a0f4-0e5e7c9c2a0c,"Shingle Creek, MN",2019-09-04,Dissolved_Oxygen_mg_L,,5.6,,mine missing (G has value)
+0c671086-4be9-440e-a0f4-0e5e7c9c2a0c,"Shingle Creek, MN",2019-09-04,Specific_Conductance,480.0,498.0,-18.0,values differ
+0c671086-4be9-440e-a0f4-0e5e7c9c2a0c,"Shingle Creek, MN",2019-09-04,Water_Temperature_C,18.5,18.6,-0.10000000000000142,values differ
+0c671086-4be9-440e-a0f4-0e5e7c9c2a0c,"Shingle Creek, MN",2019-09-04,pH,,7.3,,mine missing (G has value)
+c0b7964a-6d40-4511-8e92-977a8f1336e8,"Shingle Creek, MN",2019-09-17,Dissolved_Oxygen_mg_L,,5.5,,mine missing (G has value)
+c0b7964a-6d40-4511-8e92-977a8f1336e8,"Shingle Creek, MN",2019-09-17,Specific_Conductance,753.0,772.0,-19.0,values differ
+c0b7964a-6d40-4511-8e92-977a8f1336e8,"Shingle Creek, MN",2019-09-17,Water_Temperature_C,19.8,20.0,-0.1999999999999993,values differ
+c0b7964a-6d40-4511-8e92-977a8f1336e8,"Shingle Creek, MN",2019-09-17,pH,,7.4,,mine missing (G has value)
+73d66427-78f5-498a-883a-ce4388dd797f,"Shingle Creek, MN",2019-10-29,Dissolved_Oxygen_mg_L,,9.2,,mine missing (G has value)
+73d66427-78f5-498a-883a-ce4388dd797f,"Shingle Creek, MN",2019-10-29,Specific_Conductance,932.0,970.0,-38.0,values differ
+73d66427-78f5-498a-883a-ce4388dd797f,"Shingle Creek, MN",2019-10-29,Water_Temperature_C,4.4,4.6,-0.1999999999999993,values differ
+73d66427-78f5-498a-883a-ce4388dd797f,"Shingle Creek, MN",2019-10-29,pH,,7.0,,mine missing (G has value)
+6d025cde-51df-4927-8795-564fa61655cf,"Shingle Creek, MN",2019-11-26,Dissolved_Oxygen_mg_L,,9.7,,mine missing (G has value)
+6d025cde-51df-4927-8795-564fa61655cf,"Shingle Creek, MN",2019-11-26,Specific_Conductance,991.0,1060.0,-69.0,values differ
+6d025cde-51df-4927-8795-564fa61655cf,"Shingle Creek, MN",2019-11-26,Water_Temperature_C,3.8,4.0,-0.20000000000000018,values differ
+6d025cde-51df-4927-8795-564fa61655cf,"Shingle Creek, MN",2019-11-26,pH,,7.2,,mine missing (G has value)
+7d51626a-eb23-411c-9241-26ba6efb938a,"Shingle Creek, MN",2019-12-13,Dissolved_Oxygen_mg_L,,9.3,,mine missing (G has value)
+7d51626a-eb23-411c-9241-26ba6efb938a,"Shingle Creek, MN",2019-12-13,Specific_Conductance,1380.0,1420.0,-40.0,values differ
+7d51626a-eb23-411c-9241-26ba6efb938a,"Shingle Creek, MN",2019-12-13,Water_Temperature_C,0.3,0.6,-0.3,values differ
+7d51626a-eb23-411c-9241-26ba6efb938a,"Shingle Creek, MN",2019-12-13,pH,,6.9,,mine missing (G has value)
+d0ee3e43-80a1-4dc1-ac5a-81470c030cbc,"Shingle Creek, MN",2020-01-06,Dissolved_Oxygen_mg_L,,11.4,,mine missing (G has value)
+d0ee3e43-80a1-4dc1-ac5a-81470c030cbc,"Shingle Creek, MN",2020-01-06,Specific_Conductance,1260.0,1330.0,-70.0,values differ
+d0ee3e43-80a1-4dc1-ac5a-81470c030cbc,"Shingle Creek, MN",2020-01-06,Water_Temperature_C,0.2,0.5,-0.3,values differ
+d0ee3e43-80a1-4dc1-ac5a-81470c030cbc,"Shingle Creek, MN",2020-01-06,pH,,7.1,,mine missing (G has value)
+25307aff-b59a-41d6-9c50-f288b74c50ba,"Shingle Creek, MN",2020-02-03,Dissolved_Oxygen_mg_L,,9.4,,mine missing (G has value)
+25307aff-b59a-41d6-9c50-f288b74c50ba,"Shingle Creek, MN",2020-02-03,Specific_Conductance,2240.0,2390.0,-150.0,values differ
+25307aff-b59a-41d6-9c50-f288b74c50ba,"Shingle Creek, MN",2020-02-03,Water_Temperature_C,1.2,1.4,-0.19999999999999996,values differ
+25307aff-b59a-41d6-9c50-f288b74c50ba,"Shingle Creek, MN",2020-02-03,pH,,7.0,,mine missing (G has value)
+7c26c03b-79d3-478d-a239-fd40a120bc21,"Shingle Creek, MN",2020-02-25,Dissolved_Oxygen_mg_L,,9.2,,mine missing (G has value)
+7c26c03b-79d3-478d-a239-fd40a120bc21,"Shingle Creek, MN",2020-02-25,Specific_Conductance,1800.0,1880.0,-80.0,values differ
+7c26c03b-79d3-478d-a239-fd40a120bc21,"Shingle Creek, MN",2020-02-25,Water_Temperature_C,0.7,1.0,-0.30000000000000004,values differ
+7c26c03b-79d3-478d-a239-fd40a120bc21,"Shingle Creek, MN",2020-02-25,pH,,7.1,,mine missing (G has value)
+794f1d23-4cb9-4f14-8404-eebb010bf428,"Shingle Creek, MN",2020-03-04,Dissolved_Oxygen_mg_L,,9.5,,mine missing (G has value)
+794f1d23-4cb9-4f14-8404-eebb010bf428,"Shingle Creek, MN",2020-03-04,Specific_Conductance,1430.0,1480.0,-50.0,values differ
+794f1d23-4cb9-4f14-8404-eebb010bf428,"Shingle Creek, MN",2020-03-04,Water_Temperature_C,3.8,4.2,-0.40000000000000036,values differ
+794f1d23-4cb9-4f14-8404-eebb010bf428,"Shingle Creek, MN",2020-03-04,pH,,7.4,,mine missing (G has value)
+ff9ca1f0-e0b5-4457-8bb8-dc87c63c07a6,"Shingle Creek, MN",2020-04-06,Dissolved_Oxygen_mg_L,,11.5,,mine missing (G has value)
+ff9ca1f0-e0b5-4457-8bb8-dc87c63c07a6,"Shingle Creek, MN",2020-04-06,Specific_Conductance,935.0,1030.0,-95.0,values differ
+ff9ca1f0-e0b5-4457-8bb8-dc87c63c07a6,"Shingle Creek, MN",2020-04-06,Water_Temperature_C,7.9,8.0,-0.09999999999999964,values differ
+ff9ca1f0-e0b5-4457-8bb8-dc87c63c07a6,"Shingle Creek, MN",2020-04-06,pH,,7.3,,mine missing (G has value)
+e1d93b37-a2ad-4f87-8665-a6b56e1ad249,"Shingle Creek, MN",2020-04-21,Dissolved_Oxygen_mg_L,,13.9,,mine missing (G has value)
+e1d93b37-a2ad-4f87-8665-a6b56e1ad249,"Shingle Creek, MN",2020-04-21,Specific_Conductance,1130.0,1280.0,-150.0,values differ
+e1d93b37-a2ad-4f87-8665-a6b56e1ad249,"Shingle Creek, MN",2020-04-21,Water_Temperature_C,8.5,8.7,-0.1999999999999993,values differ
+e1d93b37-a2ad-4f87-8665-a6b56e1ad249,"Shingle Creek, MN",2020-04-21,pH,,7.7,,mine missing (G has value)
+43dc8fb3-dd80-49cb-bc34-1b53f1b09da1,"Shingle Creek, MN",2020-04-29,Dissolved_Oxygen_mg_L,,7.6,,mine missing (G has value)
+43dc8fb3-dd80-49cb-bc34-1b53f1b09da1,"Shingle Creek, MN",2020-04-29,Specific_Conductance,710.0,777.0,-67.0,values differ
+43dc8fb3-dd80-49cb-bc34-1b53f1b09da1,"Shingle Creek, MN",2020-04-29,pH,,7.3,,mine missing (G has value)
+8ed3b9fd-375c-4713-855c-5259008280b1,"Shingle Creek, MN",2020-05-05,Dissolved_Oxygen_mg_L,,10.6,,mine missing (G has value)
+8ed3b9fd-375c-4713-855c-5259008280b1,"Shingle Creek, MN",2020-05-05,Specific_Conductance,1010.0,1140.0,-130.0,values differ
+8ed3b9fd-375c-4713-855c-5259008280b1,"Shingle Creek, MN",2020-05-05,Water_Temperature_C,14.3,14.2,0.10000000000000142,values differ
+8ed3b9fd-375c-4713-855c-5259008280b1,"Shingle Creek, MN",2020-05-05,pH,,7.6,,mine missing (G has value)
+2d7eedb4-d742-4712-93df-38f5ae1a9e88,"Shingle Creek, MN",2020-06-01,Dissolved_Oxygen_mg_L,,7.5,,mine missing (G has value)
+2d7eedb4-d742-4712-93df-38f5ae1a9e88,"Shingle Creek, MN",2020-06-01,Specific_Conductance,855.0,911.0,-56.0,values differ
+2d7eedb4-d742-4712-93df-38f5ae1a9e88,"Shingle Creek, MN",2020-06-01,pH,,7.5,,mine missing (G has value)
+cc9b9da0-9f97-48ce-a052-44788f003bca,"Shingle Creek, MN",2020-06-16,Dissolved_Oxygen_mg_L,,5.0,,mine missing (G has value)
+cc9b9da0-9f97-48ce-a052-44788f003bca,"Shingle Creek, MN",2020-06-16,Specific_Conductance,1010.0,1080.0,-70.0,values differ
+cc9b9da0-9f97-48ce-a052-44788f003bca,"Shingle Creek, MN",2020-06-16,Water_Temperature_C,20.2,19.8,0.3999999999999986,values differ
+cc9b9da0-9f97-48ce-a052-44788f003bca,"Shingle Creek, MN",2020-06-16,pH,,7.2,,mine missing (G has value)
+fd200e91-881b-4898-9a55-04fe39330212,"Shingle Creek, MN",2020-06-23,Dissolved_Oxygen_mg_L,,4.8,,mine missing (G has value)
+fd200e91-881b-4898-9a55-04fe39330212,"Shingle Creek, MN",2020-06-23,Specific_Conductance,818.0,873.0,-55.0,values differ
+fd200e91-881b-4898-9a55-04fe39330212,"Shingle Creek, MN",2020-06-23,Water_Temperature_C,20.0,19.7,0.3000000000000007,values differ
+fd200e91-881b-4898-9a55-04fe39330212,"Shingle Creek, MN",2020-06-23,pH,,7.3,,mine missing (G has value)
+4ebd979f-afcb-4dae-826b-71855b650dc0,"Shingle Creek, MN",2020-06-29,Dissolved_Oxygen_mg_L,,4.1,,mine missing (G has value)
+4ebd979f-afcb-4dae-826b-71855b650dc0,"Shingle Creek, MN",2020-06-29,Specific_Conductance,530.0,553.0,-23.0,values differ
+4ebd979f-afcb-4dae-826b-71855b650dc0,"Shingle Creek, MN",2020-06-29,Water_Temperature_C,21.9,21.8,0.09999999999999787,values differ
+4ebd979f-afcb-4dae-826b-71855b650dc0,"Shingle Creek, MN",2020-06-29,pH,,7.1,,mine missing (G has value)
+e05d151e-828e-42c6-a37b-f31ca7510425,"Shingle Creek, MN",2020-07-07,Dissolved_Oxygen_mg_L,,5.1,,mine missing (G has value)
+e05d151e-828e-42c6-a37b-f31ca7510425,"Shingle Creek, MN",2020-07-07,Specific_Conductance,687.0,757.0,-70.0,values differ
+e05d151e-828e-42c6-a37b-f31ca7510425,"Shingle Creek, MN",2020-07-07,Water_Temperature_C,23.6,23.8,-0.1999999999999993,values differ
+e05d151e-828e-42c6-a37b-f31ca7510425,"Shingle Creek, MN",2020-07-07,pH,,7.3,,mine missing (G has value)
+a47387a9-e3e5-483a-87b7-5db92d8c5c9e,"Shingle Creek, MN",2020-07-15,Dissolved_Oxygen_mg_L,,4.4,,mine missing (G has value)
+a47387a9-e3e5-483a-87b7-5db92d8c5c9e,"Shingle Creek, MN",2020-07-15,Specific_Conductance,1120.0,1140.0,-20.0,values differ
+a47387a9-e3e5-483a-87b7-5db92d8c5c9e,"Shingle Creek, MN",2020-07-15,Water_Temperature_C,21.6,21.2,0.40000000000000213,values differ
+a47387a9-e3e5-483a-87b7-5db92d8c5c9e,"Shingle Creek, MN",2020-07-15,pH,,7.4,,mine missing (G has value)
+e25e479e-b80b-44ae-aa2b-4bd60c07e379,"Shingle Creek, MN",2020-07-22,Dissolved_Oxygen_mg_L,,4.5,,mine missing (G has value)
+e25e479e-b80b-44ae-aa2b-4bd60c07e379,"Shingle Creek, MN",2020-07-22,Specific_Conductance,485.0,497.0,-12.0,values differ
+e25e479e-b80b-44ae-aa2b-4bd60c07e379,"Shingle Creek, MN",2020-07-22,Water_Temperature_C,21.2,21.0,0.1999999999999993,values differ
+e25e479e-b80b-44ae-aa2b-4bd60c07e379,"Shingle Creek, MN",2020-07-22,pH,,7.2,,mine missing (G has value)
+4bfaf49d-b630-4822-8711-021113833e89,"Shingle Creek, MN",2020-08-05,Dissolved_Oxygen_mg_L,,4.7,,mine missing (G has value)
+4bfaf49d-b630-4822-8711-021113833e89,"Shingle Creek, MN",2020-08-05,Specific_Conductance,1090.0,1140.0,-50.0,values differ
+4bfaf49d-b630-4822-8711-021113833e89,"Shingle Creek, MN",2020-08-05,Water_Temperature_C,19.6,19.1,0.5,values differ
+4bfaf49d-b630-4822-8711-021113833e89,"Shingle Creek, MN",2020-08-05,pH,,7.3,,mine missing (G has value)
+b96cd682-3847-4dd1-97ee-e318b988d4f8,"Shingle Creek, MN",2020-08-14,Dissolved_Oxygen_mg_L,,4.3,,mine missing (G has value)
+b96cd682-3847-4dd1-97ee-e318b988d4f8,"Shingle Creek, MN",2020-08-14,Specific_Conductance,471.0,488.0,-17.0,values differ
+b96cd682-3847-4dd1-97ee-e318b988d4f8,"Shingle Creek, MN",2020-08-14,Water_Temperature_C,23.0,22.9,0.10000000000000142,values differ
+b96cd682-3847-4dd1-97ee-e318b988d4f8,"Shingle Creek, MN",2020-08-14,pH,,6.9,,mine missing (G has value)
+b0b65388-9c0d-4947-be40-b55e4b176d8e,"Shingle Creek, MN",2020-08-26,Dissolved_Oxygen_mg_L,,3.5,,mine missing (G has value)
+b0b65388-9c0d-4947-be40-b55e4b176d8e,"Shingle Creek, MN",2020-08-26,Specific_Conductance,769.0,846.0,-77.0,values differ
+b0b65388-9c0d-4947-be40-b55e4b176d8e,"Shingle Creek, MN",2020-08-26,Water_Temperature_C,24.3,23.8,0.5,values differ
+b0b65388-9c0d-4947-be40-b55e4b176d8e,"Shingle Creek, MN",2020-08-26,pH,,7.0,,mine missing (G has value)
+c4a4056e-2190-4d80-8c9f-ce04759ba504,"Shingle Creek, MN",2020-09-15,Dissolved_Oxygen_mg_L,,6.3,,mine missing (G has value)
+c4a4056e-2190-4d80-8c9f-ce04759ba504,"Shingle Creek, MN",2020-09-15,Specific_Conductance,959.0,975.0,-16.0,values differ
+c4a4056e-2190-4d80-8c9f-ce04759ba504,"Shingle Creek, MN",2020-09-15,Water_Temperature_C,17.5,17.1,0.3999999999999986,values differ
+c4a4056e-2190-4d80-8c9f-ce04759ba504,"Shingle Creek, MN",2020-09-15,pH,,7.2,,mine missing (G has value)
+43d97fe1-e3eb-441f-8530-1da3914e6153,"Shingle Creek, MN",2020-09-23,Dissolved_Oxygen_mg_L,,5.5,,mine missing (G has value)
+43d97fe1-e3eb-441f-8530-1da3914e6153,"Shingle Creek, MN",2020-09-23,Specific_Conductance,1180.0,1210.0,-30.0,values differ
+43d97fe1-e3eb-441f-8530-1da3914e6153,"Shingle Creek, MN",2020-09-23,Water_Temperature_C,17.2,16.8,0.3999999999999986,values differ
+43d97fe1-e3eb-441f-8530-1da3914e6153,"Shingle Creek, MN",2020-09-23,pH,,7.1,,mine missing (G has value)
+abaeb78e-3d6c-45f5-b851-b8893a713a64,"Sope Creek, GA",2012-10-11,Dissolved_Oxygen_mg_L,,9.3,,mine missing (G has value)
+abaeb78e-3d6c-45f5-b851-b8893a713a64,"Sope Creek, GA",2012-10-11,Specific_Conductance,,127.0,,mine missing (G has value)
+abaeb78e-3d6c-45f5-b851-b8893a713a64,"Sope Creek, GA",2012-10-11,Water_Temperature_C,,14.9,,mine missing (G has value)
+abaeb78e-3d6c-45f5-b851-b8893a713a64,"Sope Creek, GA",2012-10-11,pH,,6.6,,mine missing (G has value)
+7d858f42-9ce1-42ad-a0e4-d5fa61437089,"Sope Creek, GA",2012-10-25,Dissolved_Oxygen_mg_L,,8.4,,mine missing (G has value)
+7d858f42-9ce1-42ad-a0e4-d5fa61437089,"Sope Creek, GA",2012-10-25,Specific_Conductance,,120.0,,mine missing (G has value)
+7d858f42-9ce1-42ad-a0e4-d5fa61437089,"Sope Creek, GA",2012-10-25,Water_Temperature_C,,14.6,,mine missing (G has value)
+7d858f42-9ce1-42ad-a0e4-d5fa61437089,"Sope Creek, GA",2012-10-25,pH,,6.4,,mine missing (G has value)
+a5499b33-7b21-4a3d-80df-3b9397f2018d,"Sope Creek, GA",2012-11-05,Dissolved_Oxygen_mg_L,,8.9,,mine missing (G has value)
+a5499b33-7b21-4a3d-80df-3b9397f2018d,"Sope Creek, GA",2012-11-05,Specific_Conductance,,110.0,,mine missing (G has value)
+a5499b33-7b21-4a3d-80df-3b9397f2018d,"Sope Creek, GA",2012-11-05,Water_Temperature_C,,11.5,,mine missing (G has value)
+a5499b33-7b21-4a3d-80df-3b9397f2018d,"Sope Creek, GA",2012-11-05,pH,,6.2,,mine missing (G has value)
+5455d85e-77fe-4a1a-9765-3ab5907497d7,"Sope Creek, GA",2012-11-19,Dissolved_Oxygen_mg_L,,10.1,,mine missing (G has value)
+5455d85e-77fe-4a1a-9765-3ab5907497d7,"Sope Creek, GA",2012-11-19,Specific_Conductance,,106.0,,mine missing (G has value)
+5455d85e-77fe-4a1a-9765-3ab5907497d7,"Sope Creek, GA",2012-11-19,Water_Temperature_C,,9.6,,mine missing (G has value)
+5455d85e-77fe-4a1a-9765-3ab5907497d7,"Sope Creek, GA",2012-11-19,pH,,7.0,,mine missing (G has value)
+fd1bed0b-72d4-4121-bd5b-9a2e60f7912e,"Sope Creek, GA",2012-12-05,Dissolved_Oxygen_mg_L,,9.5,,mine missing (G has value)
+fd1bed0b-72d4-4121-bd5b-9a2e60f7912e,"Sope Creek, GA",2012-12-05,Specific_Conductance,,113.0,,mine missing (G has value)
+fd1bed0b-72d4-4121-bd5b-9a2e60f7912e,"Sope Creek, GA",2012-12-05,Water_Temperature_C,,12.8,,mine missing (G has value)
+fd1bed0b-72d4-4121-bd5b-9a2e60f7912e,"Sope Creek, GA",2012-12-05,pH,,7.1,,mine missing (G has value)
+5a497c21-7f47-45a7-96a4-54416d959723,"Sope Creek, GA",2012-12-18,Dissolved_Oxygen_mg_L,,9.9,,mine missing (G has value)
+5a497c21-7f47-45a7-96a4-54416d959723,"Sope Creek, GA",2012-12-18,Specific_Conductance,,74.0,,mine missing (G has value)
+5a497c21-7f47-45a7-96a4-54416d959723,"Sope Creek, GA",2012-12-18,Water_Temperature_C,,11.2,,mine missing (G has value)
+5a497c21-7f47-45a7-96a4-54416d959723,"Sope Creek, GA",2012-12-18,pH,,6.9,,mine missing (G has value)
+c87a1032-95fb-4c17-a282-25f78598684d,"Sope Creek, GA",2013-01-08,Dissolved_Oxygen_mg_L,,11.6,,mine missing (G has value)
+c87a1032-95fb-4c17-a282-25f78598684d,"Sope Creek, GA",2013-01-08,Specific_Conductance,,110.0,,mine missing (G has value)
+c87a1032-95fb-4c17-a282-25f78598684d,"Sope Creek, GA",2013-01-08,Water_Temperature_C,,6.7,,mine missing (G has value)
+c87a1032-95fb-4c17-a282-25f78598684d,"Sope Creek, GA",2013-01-08,pH,,7.1,,mine missing (G has value)
+0ffcfa45-36f1-4783-86dc-d8bc40f9db6c,"Sope Creek, GA",2013-01-22,Dissolved_Oxygen_mg_L,,11.6,,mine missing (G has value)
+0ffcfa45-36f1-4783-86dc-d8bc40f9db6c,"Sope Creek, GA",2013-01-22,Specific_Conductance,,106.0,,mine missing (G has value)
+0ffcfa45-36f1-4783-86dc-d8bc40f9db6c,"Sope Creek, GA",2013-01-22,Water_Temperature_C,,6.8,,mine missing (G has value)
+0ffcfa45-36f1-4783-86dc-d8bc40f9db6c,"Sope Creek, GA",2013-01-22,pH,,7.0,,mine missing (G has value)
+db9ed17d-13a3-440b-b332-cbcc5afffa25,"Sope Creek, GA",2013-02-05,Dissolved_Oxygen_mg_L,,11.2,,mine missing (G has value)
+db9ed17d-13a3-440b-b332-cbcc5afffa25,"Sope Creek, GA",2013-02-05,Specific_Conductance,,98.0,,mine missing (G has value)
+db9ed17d-13a3-440b-b332-cbcc5afffa25,"Sope Creek, GA",2013-02-05,Water_Temperature_C,,9.0,,mine missing (G has value)
+db9ed17d-13a3-440b-b332-cbcc5afffa25,"Sope Creek, GA",2013-02-05,pH,,6.8,,mine missing (G has value)
+ae620c2e-63a0-4ff5-849e-843c8815a774,"Sope Creek, GA",2013-02-19,Dissolved_Oxygen_mg_L,,11.2,,mine missing (G has value)
+ae620c2e-63a0-4ff5-849e-843c8815a774,"Sope Creek, GA",2013-02-19,Specific_Conductance,,83.0,,mine missing (G has value)
+ae620c2e-63a0-4ff5-849e-843c8815a774,"Sope Creek, GA",2013-02-19,Water_Temperature_C,,8.1,,mine missing (G has value)
+ae620c2e-63a0-4ff5-849e-843c8815a774,"Sope Creek, GA",2013-02-19,pH,,7.0,,mine missing (G has value)
+a4f3d97c-6c12-4a29-b125-ff9ba24f9daa,"Sope Creek, GA",2013-03-07,Dissolved_Oxygen_mg_L,,11.7,,mine missing (G has value)
+a4f3d97c-6c12-4a29-b125-ff9ba24f9daa,"Sope Creek, GA",2013-03-07,Specific_Conductance,,90.0,,mine missing (G has value)
+a4f3d97c-6c12-4a29-b125-ff9ba24f9daa,"Sope Creek, GA",2013-03-07,Water_Temperature_C,,7.4,,mine missing (G has value)
+a4f3d97c-6c12-4a29-b125-ff9ba24f9daa,"Sope Creek, GA",2013-03-07,pH,,6.2,,mine missing (G has value)
+2efac845-a5c9-480b-a784-9d38f4ea2834,"Sope Creek, GA",2013-03-21,Dissolved_Oxygen_mg_L,,11.1,,mine missing (G has value)
+2efac845-a5c9-480b-a784-9d38f4ea2834,"Sope Creek, GA",2013-03-21,Specific_Conductance,,92.0,,mine missing (G has value)
+2efac845-a5c9-480b-a784-9d38f4ea2834,"Sope Creek, GA",2013-03-21,Water_Temperature_C,,8.4,,mine missing (G has value)
+2efac845-a5c9-480b-a784-9d38f4ea2834,"Sope Creek, GA",2013-03-21,pH,,7.0,,mine missing (G has value)
+018fe3f0-a5db-4db4-a9d5-1234628c6e36,"Sope Creek, GA",2013-04-01,Dissolved_Oxygen_mg_L,,9.8,,mine missing (G has value)
+018fe3f0-a5db-4db4-a9d5-1234628c6e36,"Sope Creek, GA",2013-04-01,Specific_Conductance,,83.0,,mine missing (G has value)
+018fe3f0-a5db-4db4-a9d5-1234628c6e36,"Sope Creek, GA",2013-04-01,Water_Temperature_C,,14.6,,mine missing (G has value)
+018fe3f0-a5db-4db4-a9d5-1234628c6e36,"Sope Creek, GA",2013-04-01,pH,,6.5,,mine missing (G has value)
+cf9b2fda-6672-4366-88d8-0a89907c5434,"Sope Creek, GA",2013-04-16,Dissolved_Oxygen_mg_L,,9.1,,mine missing (G has value)
+cf9b2fda-6672-4366-88d8-0a89907c5434,"Sope Creek, GA",2013-04-16,Specific_Conductance,,98.0,,mine missing (G has value)
+cf9b2fda-6672-4366-88d8-0a89907c5434,"Sope Creek, GA",2013-04-16,Water_Temperature_C,,16.0,,mine missing (G has value)
+cf9b2fda-6672-4366-88d8-0a89907c5434,"Sope Creek, GA",2013-04-16,pH,,6.5,,mine missing (G has value)
+f2b28fe6-1f9d-4b22-b7a6-e18767852c60,"Sope Creek, GA",2013-05-07,Dissolved_Oxygen_mg_L,,9.6,,mine missing (G has value)
+f2b28fe6-1f9d-4b22-b7a6-e18767852c60,"Sope Creek, GA",2013-05-07,Specific_Conductance,,70.0,,mine missing (G has value)
+f2b28fe6-1f9d-4b22-b7a6-e18767852c60,"Sope Creek, GA",2013-05-07,Water_Temperature_C,,14.5,,mine missing (G has value)
+f2b28fe6-1f9d-4b22-b7a6-e18767852c60,"Sope Creek, GA",2013-05-07,pH,,6.3,,mine missing (G has value)
+b70031a5-66a2-42a6-8664-8977a8984f39,"Sope Creek, GA",2013-05-23,Dissolved_Oxygen_mg_L,,8.1,,mine missing (G has value)
+b70031a5-66a2-42a6-8664-8977a8984f39,"Sope Creek, GA",2013-05-23,Specific_Conductance,,105.0,,mine missing (G has value)
+b70031a5-66a2-42a6-8664-8977a8984f39,"Sope Creek, GA",2013-05-23,Water_Temperature_C,,20.4,,mine missing (G has value)
+b70031a5-66a2-42a6-8664-8977a8984f39,"Sope Creek, GA",2013-05-23,pH,,6.4,,mine missing (G has value)
+8d8f2d2b-095e-4f65-a993-2f0460537504,"Sope Creek, GA",2013-06-05,Dissolved_Oxygen_mg_L,,8.0,,mine missing (G has value)
+8d8f2d2b-095e-4f65-a993-2f0460537504,"Sope Creek, GA",2013-06-05,Specific_Conductance,,152.0,,mine missing (G has value)
+8d8f2d2b-095e-4f65-a993-2f0460537504,"Sope Creek, GA",2013-06-05,Water_Temperature_C,,21.5,,mine missing (G has value)
+8d8f2d2b-095e-4f65-a993-2f0460537504,"Sope Creek, GA",2013-06-05,pH,,6.8,,mine missing (G has value)
+ce243789-80bc-4245-8d99-e7e0c6a86e49,"Sope Creek, GA",2013-06-27,Dissolved_Oxygen_mg_L,,7.9,,mine missing (G has value)
+ce243789-80bc-4245-8d99-e7e0c6a86e49,"Sope Creek, GA",2013-06-27,Specific_Conductance,,128.0,,mine missing (G has value)
+ce243789-80bc-4245-8d99-e7e0c6a86e49,"Sope Creek, GA",2013-06-27,Water_Temperature_C,,23.7,,mine missing (G has value)
+ce243789-80bc-4245-8d99-e7e0c6a86e49,"Sope Creek, GA",2013-06-27,pH,,6.9,,mine missing (G has value)
+0911b3a6-9ae7-4e72-8ce2-129dba9364a3,"Sope Creek, GA",2013-07-11,Dissolved_Oxygen_mg_L,,8.0,,mine missing (G has value)
+0911b3a6-9ae7-4e72-8ce2-129dba9364a3,"Sope Creek, GA",2013-07-11,Specific_Conductance,,103.0,,mine missing (G has value)
+0911b3a6-9ae7-4e72-8ce2-129dba9364a3,"Sope Creek, GA",2013-07-11,Water_Temperature_C,,22.5,,mine missing (G has value)
+0911b3a6-9ae7-4e72-8ce2-129dba9364a3,"Sope Creek, GA",2013-07-11,pH,,7.0,,mine missing (G has value)
+7dc22696-49a9-4087-85a5-07a12afbc69a,"Sope Creek, GA",2013-07-22,Dissolved_Oxygen_mg_L,,7.7,,mine missing (G has value)
+7dc22696-49a9-4087-85a5-07a12afbc69a,"Sope Creek, GA",2013-07-22,Specific_Conductance,,91.0,,mine missing (G has value)
+7dc22696-49a9-4087-85a5-07a12afbc69a,"Sope Creek, GA",2013-07-22,Water_Temperature_C,,22.8,,mine missing (G has value)
+7dc22696-49a9-4087-85a5-07a12afbc69a,"Sope Creek, GA",2013-07-22,pH,,7.0,,mine missing (G has value)
+6dc72d38-a596-43d2-b3f0-61990765896c,"Sope Creek, GA",2013-08-07,Specific_Conductance,,115.0,,mine missing (G has value)
+6dc72d38-a596-43d2-b3f0-61990765896c,"Sope Creek, GA",2013-08-07,Water_Temperature_C,,22.9,,mine missing (G has value)
+6dc72d38-a596-43d2-b3f0-61990765896c,"Sope Creek, GA",2013-08-07,pH,,7.1,,mine missing (G has value)
+4800c27d-124b-4bcf-98f8-4ad6df6c0c5e,"Sope Creek, GA",2013-08-26,Dissolved_Oxygen_mg_L,,8.6,,mine missing (G has value)
+4800c27d-124b-4bcf-98f8-4ad6df6c0c5e,"Sope Creek, GA",2013-08-26,Specific_Conductance,,105.0,,mine missing (G has value)
+4800c27d-124b-4bcf-98f8-4ad6df6c0c5e,"Sope Creek, GA",2013-08-26,Water_Temperature_C,,20.9,,mine missing (G has value)
+4800c27d-124b-4bcf-98f8-4ad6df6c0c5e,"Sope Creek, GA",2013-08-26,pH,,7.2,,mine missing (G has value)
+dfdd46f8-5459-44d8-8421-b3c049c5b848,"Sope Creek, GA",2013-09-10,Dissolved_Oxygen_mg_L,,8.1,,mine missing (G has value)
+dfdd46f8-5459-44d8-8421-b3c049c5b848,"Sope Creek, GA",2013-09-10,Specific_Conductance,,118.0,,mine missing (G has value)
+dfdd46f8-5459-44d8-8421-b3c049c5b848,"Sope Creek, GA",2013-09-10,Water_Temperature_C,,21.9,,mine missing (G has value)
+dfdd46f8-5459-44d8-8421-b3c049c5b848,"Sope Creek, GA",2013-09-10,pH,,7.3,,mine missing (G has value)
+b9369b15-f776-4738-ae97-62e5591ea2da,"Sope Creek, GA",2013-09-26,Dissolved_Oxygen_mg_L,,8.6,,mine missing (G has value)
+b9369b15-f776-4738-ae97-62e5591ea2da,"Sope Creek, GA",2013-09-26,Specific_Conductance,,72.0,,mine missing (G has value)
+b9369b15-f776-4738-ae97-62e5591ea2da,"Sope Creek, GA",2013-09-26,Water_Temperature_C,,18.9,,mine missing (G has value)
+b9369b15-f776-4738-ae97-62e5591ea2da,"Sope Creek, GA",2013-09-26,pH,,7.0,,mine missing (G has value)
+898384cf-77b4-4129-9eba-b3fe754bfeaa,"Sope Creek, GA",2013-10-22,Dissolved_Oxygen_mg_L,,9.1,,mine missing (G has value)
+898384cf-77b4-4129-9eba-b3fe754bfeaa,"Sope Creek, GA",2013-10-22,Specific_Conductance,,104.0,,mine missing (G has value)
+898384cf-77b4-4129-9eba-b3fe754bfeaa,"Sope Creek, GA",2013-10-22,Water_Temperature_C,,15.0,,mine missing (G has value)
+898384cf-77b4-4129-9eba-b3fe754bfeaa,"Sope Creek, GA",2013-10-22,pH,,7.2,,mine missing (G has value)
+e5c57901-d7d9-4850-848e-e7902761bae9,"Sope Creek, GA",2013-10-30,Dissolved_Oxygen_mg_L,,9.1,,mine missing (G has value)
+e5c57901-d7d9-4850-848e-e7902761bae9,"Sope Creek, GA",2013-10-30,Specific_Conductance,,105.0,,mine missing (G has value)
+e5c57901-d7d9-4850-848e-e7902761bae9,"Sope Creek, GA",2013-10-30,Water_Temperature_C,,14.1,,mine missing (G has value)
+e5c57901-d7d9-4850-848e-e7902761bae9,"Sope Creek, GA",2013-10-30,pH,,7.2,,mine missing (G has value)
+900b8550-e242-4f57-913a-cd293f8bb51a,"Sope Creek, GA",2013-11-04,Dissolved_Oxygen_mg_L,,10.0,,mine missing (G has value)
+900b8550-e242-4f57-913a-cd293f8bb51a,"Sope Creek, GA",2013-11-04,Specific_Conductance,,96.0,,mine missing (G has value)
+900b8550-e242-4f57-913a-cd293f8bb51a,"Sope Creek, GA",2013-11-04,Water_Temperature_C,,12.1,,mine missing (G has value)
+900b8550-e242-4f57-913a-cd293f8bb51a,"Sope Creek, GA",2013-11-04,pH,,7.1,,mine missing (G has value)
+ef67fb70-a3a2-41ad-ab4a-80439ff25448,"Sope Creek, GA",2013-11-18,Dissolved_Oxygen_mg_L,,9.4,,mine missing (G has value)
+ef67fb70-a3a2-41ad-ab4a-80439ff25448,"Sope Creek, GA",2013-11-18,Specific_Conductance,,99.0,,mine missing (G has value)
+ef67fb70-a3a2-41ad-ab4a-80439ff25448,"Sope Creek, GA",2013-11-18,Water_Temperature_C,,14.8,,mine missing (G has value)
+ef67fb70-a3a2-41ad-ab4a-80439ff25448,"Sope Creek, GA",2013-11-18,pH,,7.2,,mine missing (G has value)
+6ae59de6-279d-4990-beff-cf7d708ce483,"Sope Creek, GA",2013-12-03,Dissolved_Oxygen_mg_L,,10.1,,mine missing (G has value)
+6ae59de6-279d-4990-beff-cf7d708ce483,"Sope Creek, GA",2013-12-03,Specific_Conductance,,86.0,,mine missing (G has value)
+6ae59de6-279d-4990-beff-cf7d708ce483,"Sope Creek, GA",2013-12-03,Water_Temperature_C,,10.3,,mine missing (G has value)
+6ae59de6-279d-4990-beff-cf7d708ce483,"Sope Creek, GA",2013-12-03,pH,,7.1,,mine missing (G has value)
+ccf6aaf1-931c-49a8-b290-7888f1c411d9,"Sope Creek, GA",2013-12-19,Dissolved_Oxygen_mg_L,,11.9,,mine missing (G has value)
+ccf6aaf1-931c-49a8-b290-7888f1c411d9,"Sope Creek, GA",2013-12-19,Specific_Conductance,,109.0,,mine missing (G has value)
+ccf6aaf1-931c-49a8-b290-7888f1c411d9,"Sope Creek, GA",2013-12-19,Water_Temperature_C,,5.4,,mine missing (G has value)
+ccf6aaf1-931c-49a8-b290-7888f1c411d9,"Sope Creek, GA",2013-12-19,pH,,6.8,,mine missing (G has value)
+5b379d68-d79c-4eae-a40a-a238bbc36dc8,"Sope Creek, GA",2014-01-08,Dissolved_Oxygen_mg_L,,13.7,,mine missing (G has value)
+5b379d68-d79c-4eae-a40a-a238bbc36dc8,"Sope Creek, GA",2014-01-08,Specific_Conductance,,143.0,,mine missing (G has value)
+5b379d68-d79c-4eae-a40a-a238bbc36dc8,"Sope Creek, GA",2014-01-08,Water_Temperature_C,,0.3,,mine missing (G has value)
+5b379d68-d79c-4eae-a40a-a238bbc36dc8,"Sope Creek, GA",2014-01-08,pH,,7.2,,mine missing (G has value)
+7642ba25-8dca-4b00-8a42-5770773edcf0,"Sope Creek, GA",2014-01-23,Dissolved_Oxygen_mg_L,,12.8,,mine missing (G has value)
+7642ba25-8dca-4b00-8a42-5770773edcf0,"Sope Creek, GA",2014-01-23,Specific_Conductance,,102.0,,mine missing (G has value)
+7642ba25-8dca-4b00-8a42-5770773edcf0,"Sope Creek, GA",2014-01-23,Water_Temperature_C,,2.9,,mine missing (G has value)
+7642ba25-8dca-4b00-8a42-5770773edcf0,"Sope Creek, GA",2014-01-23,pH,,6.7,,mine missing (G has value)
+b59caecb-8ef7-449e-89cc-3a0592be46c9,"Sope Creek, GA",2014-02-05,Dissolved_Oxygen_mg_L,,11.0,,mine missing (G has value)
+b59caecb-8ef7-449e-89cc-3a0592be46c9,"Sope Creek, GA",2014-02-05,Specific_Conductance,,58.0,,mine missing (G has value)
+b59caecb-8ef7-449e-89cc-3a0592be46c9,"Sope Creek, GA",2014-02-05,Water_Temperature_C,,7.9,,mine missing (G has value)
+b59caecb-8ef7-449e-89cc-3a0592be46c9,"Sope Creek, GA",2014-02-05,pH,,6.5,,mine missing (G has value)
+e40fe760-3e70-4c4e-a01b-574b9f6068f3,"Sope Creek, GA",2014-02-18,Dissolved_Oxygen_mg_L,,10.8,,mine missing (G has value)
+e40fe760-3e70-4c4e-a01b-574b9f6068f3,"Sope Creek, GA",2014-02-18,Specific_Conductance,,102.0,,mine missing (G has value)
+e40fe760-3e70-4c4e-a01b-574b9f6068f3,"Sope Creek, GA",2014-02-18,Water_Temperature_C,,9.2,,mine missing (G has value)
+e40fe760-3e70-4c4e-a01b-574b9f6068f3,"Sope Creek, GA",2014-02-18,pH,,6.5,,mine missing (G has value)
+a99bb6b8-c2f5-4d47-bcbb-d71d7642ae03,"Sope Creek, GA",2014-03-05,Dissolved_Oxygen_mg_L,,11.3,,mine missing (G has value)
+a99bb6b8-c2f5-4d47-bcbb-d71d7642ae03,"Sope Creek, GA",2014-03-05,Specific_Conductance,,96.0,,mine missing (G has value)
+a99bb6b8-c2f5-4d47-bcbb-d71d7642ae03,"Sope Creek, GA",2014-03-05,Water_Temperature_C,,7.1,,mine missing (G has value)
+a99bb6b8-c2f5-4d47-bcbb-d71d7642ae03,"Sope Creek, GA",2014-03-05,pH,,6.9,,mine missing (G has value)
+15ff2587-235f-41c6-b8ec-5dea8db56a0e,"Sope Creek, GA",2014-03-17,Dissolved_Oxygen_mg_L,,10.1,,mine missing (G has value)
+15ff2587-235f-41c6-b8ec-5dea8db56a0e,"Sope Creek, GA",2014-03-17,Specific_Conductance,,52.0,,mine missing (G has value)
+15ff2587-235f-41c6-b8ec-5dea8db56a0e,"Sope Creek, GA",2014-03-17,Water_Temperature_C,,11.8,,mine missing (G has value)
+15ff2587-235f-41c6-b8ec-5dea8db56a0e,"Sope Creek, GA",2014-03-17,pH,,6.6,,mine missing (G has value)
+f434afd9-cc7f-4fa9-87db-f18f80e470d0,"Sope Creek, GA",2014-04-08,Dissolved_Oxygen_mg_L,,9.9,,mine missing (G has value)
+f434afd9-cc7f-4fa9-87db-f18f80e470d0,"Sope Creek, GA",2014-04-08,Specific_Conductance,,73.0,,mine missing (G has value)
+f434afd9-cc7f-4fa9-87db-f18f80e470d0,"Sope Creek, GA",2014-04-08,Water_Temperature_C,,11.9,,mine missing (G has value)
+f434afd9-cc7f-4fa9-87db-f18f80e470d0,"Sope Creek, GA",2014-04-08,pH,,6.6,,mine missing (G has value)
+329b8f8a-403b-4167-ad70-3d0c0cd8fa7d,"Sope Creek, GA",2014-04-15,Dissolved_Oxygen_mg_L,,9.0,,mine missing (G has value)
+329b8f8a-403b-4167-ad70-3d0c0cd8fa7d,"Sope Creek, GA",2014-04-15,Specific_Conductance,,61.0,,mine missing (G has value)
+329b8f8a-403b-4167-ad70-3d0c0cd8fa7d,"Sope Creek, GA",2014-04-15,Water_Temperature_C,,16.0,,mine missing (G has value)
+329b8f8a-403b-4167-ad70-3d0c0cd8fa7d,"Sope Creek, GA",2014-04-15,pH,,6.9,,mine missing (G has value)
+1584d3ad-509c-4368-83f6-8180d731080b,"Sope Creek, GA",2014-04-22,Dissolved_Oxygen_mg_L,,9.1,,mine missing (G has value)
+1584d3ad-509c-4368-83f6-8180d731080b,"Sope Creek, GA",2014-04-22,Specific_Conductance,,99.0,,mine missing (G has value)
+1584d3ad-509c-4368-83f6-8180d731080b,"Sope Creek, GA",2014-04-22,Water_Temperature_C,,15.1,,mine missing (G has value)
+1584d3ad-509c-4368-83f6-8180d731080b,"Sope Creek, GA",2014-04-22,pH,,7.0,,mine missing (G has value)
+20e94ed1-7841-4e81-a466-8c0eb7995c9a,"Sope Creek, GA",2014-04-29,Dissolved_Oxygen_mg_L,,9.2,,mine missing (G has value)
+20e94ed1-7841-4e81-a466-8c0eb7995c9a,"Sope Creek, GA",2014-04-29,Specific_Conductance,,93.0,,mine missing (G has value)
+20e94ed1-7841-4e81-a466-8c0eb7995c9a,"Sope Creek, GA",2014-04-29,Water_Temperature_C,,18.5,,mine missing (G has value)
+20e94ed1-7841-4e81-a466-8c0eb7995c9a,"Sope Creek, GA",2014-04-29,pH,,7.0,,mine missing (G has value)
+aa851a6b-856f-4798-b93a-9a9014d952f7,"Sope Creek, GA",2014-05-06,Dissolved_Oxygen_mg_L,,8.7,,mine missing (G has value)
+aa851a6b-856f-4798-b93a-9a9014d952f7,"Sope Creek, GA",2014-05-06,Specific_Conductance,,107.0,,mine missing (G has value)
+aa851a6b-856f-4798-b93a-9a9014d952f7,"Sope Creek, GA",2014-05-06,Water_Temperature_C,,17.2,,mine missing (G has value)
+aa851a6b-856f-4798-b93a-9a9014d952f7,"Sope Creek, GA",2014-05-06,pH,,7.0,,mine missing (G has value)
+91fed34b-77af-4464-b17c-ad2212a61ef7,"Sope Creek, GA",2014-05-13,Dissolved_Oxygen_mg_L,,8.1,,mine missing (G has value)
+91fed34b-77af-4464-b17c-ad2212a61ef7,"Sope Creek, GA",2014-05-13,Specific_Conductance,,99.0,,mine missing (G has value)
+91fed34b-77af-4464-b17c-ad2212a61ef7,"Sope Creek, GA",2014-05-13,Water_Temperature_C,,19.7,,mine missing (G has value)
+91fed34b-77af-4464-b17c-ad2212a61ef7,"Sope Creek, GA",2014-05-13,pH,,6.7,,mine missing (G has value)
+aa862ab2-9d24-4085-8c85-c6378e912a86,"Sope Creek, GA",2014-05-20,Dissolved_Oxygen_mg_L,,9.2,,mine missing (G has value)
+aa862ab2-9d24-4085-8c85-c6378e912a86,"Sope Creek, GA",2014-05-20,Specific_Conductance,,90.0,,mine missing (G has value)
+aa862ab2-9d24-4085-8c85-c6378e912a86,"Sope Creek, GA",2014-05-20,Water_Temperature_C,,15.6,,mine missing (G has value)
+aa862ab2-9d24-4085-8c85-c6378e912a86,"Sope Creek, GA",2014-05-20,pH,,7.1,,mine missing (G has value)
+f81b0e7a-cd39-4957-a9eb-611ea67a2c50,"Sope Creek, GA",2014-05-27,Dissolved_Oxygen_mg_L,,7.9,,mine missing (G has value)
+f81b0e7a-cd39-4957-a9eb-611ea67a2c50,"Sope Creek, GA",2014-05-27,Specific_Conductance,,128.0,,mine missing (G has value)
+f81b0e7a-cd39-4957-a9eb-611ea67a2c50,"Sope Creek, GA",2014-05-27,Water_Temperature_C,,19.8,,mine missing (G has value)
+f81b0e7a-cd39-4957-a9eb-611ea67a2c50,"Sope Creek, GA",2014-05-27,pH,,7.1,,mine missing (G has value)
+16ef0754-b966-468e-bc66-87e7c039be3f,"Sope Creek, GA",2014-06-03,Dissolved_Oxygen_mg_L,,8.0,,mine missing (G has value)
+16ef0754-b966-468e-bc66-87e7c039be3f,"Sope Creek, GA",2014-06-03,Specific_Conductance,,106.0,,mine missing (G has value)
+16ef0754-b966-468e-bc66-87e7c039be3f,"Sope Creek, GA",2014-06-03,Water_Temperature_C,,20.3,,mine missing (G has value)
+16ef0754-b966-468e-bc66-87e7c039be3f,"Sope Creek, GA",2014-06-03,pH,,7.0,,mine missing (G has value)
+3273ce9f-6ea0-4659-81da-410e611407b8,"Sope Creek, GA",2014-06-10,Dissolved_Oxygen_mg_L,,8.0,,mine missing (G has value)
+3273ce9f-6ea0-4659-81da-410e611407b8,"Sope Creek, GA",2014-06-10,Specific_Conductance,,104.0,,mine missing (G has value)
+3273ce9f-6ea0-4659-81da-410e611407b8,"Sope Creek, GA",2014-06-10,Water_Temperature_C,,21.4,,mine missing (G has value)
+3273ce9f-6ea0-4659-81da-410e611407b8,"Sope Creek, GA",2014-06-10,pH,,7.1,,mine missing (G has value)
+1fbcfe90-3bc2-477b-a652-c1fcb30c61e8,"Sope Creek, GA",2014-06-23,Dissolved_Oxygen_mg_L,,7.8,,mine missing (G has value)
+1fbcfe90-3bc2-477b-a652-c1fcb30c61e8,"Sope Creek, GA",2014-06-23,Specific_Conductance,,106.0,,mine missing (G has value)
+1fbcfe90-3bc2-477b-a652-c1fcb30c61e8,"Sope Creek, GA",2014-06-23,Water_Temperature_C,,24.2,,mine missing (G has value)
+1fbcfe90-3bc2-477b-a652-c1fcb30c61e8,"Sope Creek, GA",2014-06-23,pH,,6.9,,mine missing (G has value)
+39fd78ec-63fb-47d1-9d4b-b0fb16fdb97d,"Sope Creek, GA",2014-07-08,Dissolved_Oxygen_mg_L,,8.5,,mine missing (G has value)
+39fd78ec-63fb-47d1-9d4b-b0fb16fdb97d,"Sope Creek, GA",2014-07-08,Specific_Conductance,,125.0,,mine missing (G has value)
+39fd78ec-63fb-47d1-9d4b-b0fb16fdb97d,"Sope Creek, GA",2014-07-08,Water_Temperature_C,,24.1,,mine missing (G has value)
+39fd78ec-63fb-47d1-9d4b-b0fb16fdb97d,"Sope Creek, GA",2014-07-08,pH,,7.1,,mine missing (G has value)
+3cdf2a06-b2da-4d1f-a384-83308421ac56,"Sope Creek, GA",2014-07-24,Dissolved_Oxygen_mg_L,,7.4,,mine missing (G has value)
+3cdf2a06-b2da-4d1f-a384-83308421ac56,"Sope Creek, GA",2014-07-24,Specific_Conductance,,85.0,,mine missing (G has value)
+3cdf2a06-b2da-4d1f-a384-83308421ac56,"Sope Creek, GA",2014-07-24,Water_Temperature_C,,23.3,,mine missing (G has value)
+3cdf2a06-b2da-4d1f-a384-83308421ac56,"Sope Creek, GA",2014-07-24,pH,,6.8,,mine missing (G has value)
+96a5e4ed-c242-4b50-aeb3-dfe9679017bc,"Sope Creek, GA",2014-08-08,Dissolved_Oxygen_mg_L,,7.4,,mine missing (G has value)
+96a5e4ed-c242-4b50-aeb3-dfe9679017bc,"Sope Creek, GA",2014-08-08,Specific_Conductance,,76.0,,mine missing (G has value)
+96a5e4ed-c242-4b50-aeb3-dfe9679017bc,"Sope Creek, GA",2014-08-08,Water_Temperature_C,,23.9,,mine missing (G has value)
+96a5e4ed-c242-4b50-aeb3-dfe9679017bc,"Sope Creek, GA",2014-08-08,pH,,6.4,,mine missing (G has value)
+0d193b61-b3af-4d63-846c-bc2582322688,"Sope Creek, GA",2014-09-03,Dissolved_Oxygen_mg_L,,7.2,,mine missing (G has value)
+0d193b61-b3af-4d63-846c-bc2582322688,"Sope Creek, GA",2014-09-03,Specific_Conductance,,113.0,,mine missing (G has value)
+0d193b61-b3af-4d63-846c-bc2582322688,"Sope Creek, GA",2014-09-03,Water_Temperature_C,,22.9,,mine missing (G has value)
+0d193b61-b3af-4d63-846c-bc2582322688,"Sope Creek, GA",2014-09-03,pH,,6.8,,mine missing (G has value)
+0a0b0eaf-0828-4b80-8a85-7493cc24af3a,"Sope Creek, GA",2014-09-18,Dissolved_Oxygen_mg_L,,8.0,,mine missing (G has value)
+0a0b0eaf-0828-4b80-8a85-7493cc24af3a,"Sope Creek, GA",2014-09-18,Specific_Conductance,,112.0,,mine missing (G has value)
+0a0b0eaf-0828-4b80-8a85-7493cc24af3a,"Sope Creek, GA",2014-09-18,Water_Temperature_C,,20.2,,mine missing (G has value)
+0a0b0eaf-0828-4b80-8a85-7493cc24af3a,"Sope Creek, GA",2014-09-18,pH,,7.1,,mine missing (G has value)
+55f87147-38ef-491e-b89b-63d91ccf2746,"Truckee R, NV",2014-10-16,Dissolved_Oxygen_mg_L,,9.5,,mine missing (G has value)
+55f87147-38ef-491e-b89b-63d91ccf2746,"Truckee R, NV",2014-10-16,Specific_Conductance,,743.0,,mine missing (G has value)
+55f87147-38ef-491e-b89b-63d91ccf2746,"Truckee R, NV",2014-10-16,Water_Temperature_C,,13.4,,mine missing (G has value)
+55f87147-38ef-491e-b89b-63d91ccf2746,"Truckee R, NV",2014-10-16,pH,,7.9,,mine missing (G has value)
+fb8d276a-16d9-483d-a402-f455daf0422b,"Truckee R, NV",2014-11-03,Dissolved_Oxygen_mg_L,,10.7,,mine missing (G has value)
+fb8d276a-16d9-483d-a402-f455daf0422b,"Truckee R, NV",2014-11-03,Specific_Conductance,,666.0,,mine missing (G has value)
+fb8d276a-16d9-483d-a402-f455daf0422b,"Truckee R, NV",2014-11-03,Water_Temperature_C,,11.2,,mine missing (G has value)
+fb8d276a-16d9-483d-a402-f455daf0422b,"Truckee R, NV",2014-11-03,pH,,7.6,,mine missing (G has value)
+85be6d2c-95e1-49e7-a48d-d7f6a5a440e2,"Truckee R, NV",2014-11-17,Dissolved_Oxygen_mg_L,,12.2,,mine missing (G has value)
+85be6d2c-95e1-49e7-a48d-d7f6a5a440e2,"Truckee R, NV",2014-11-17,Specific_Conductance,,721.0,,mine missing (G has value)
+85be6d2c-95e1-49e7-a48d-d7f6a5a440e2,"Truckee R, NV",2014-11-17,Water_Temperature_C,,6.4,,mine missing (G has value)
+85be6d2c-95e1-49e7-a48d-d7f6a5a440e2,"Truckee R, NV",2014-11-17,pH,,8.2,,mine missing (G has value)
+45c4c6eb-6538-42e2-948e-d29acd0e75c2,"Truckee R, NV",2014-12-01,Dissolved_Oxygen_mg_L,,10.2,,mine missing (G has value)
+45c4c6eb-6538-42e2-948e-d29acd0e75c2,"Truckee R, NV",2014-12-01,Specific_Conductance,,343.0,,mine missing (G has value)
+45c4c6eb-6538-42e2-948e-d29acd0e75c2,"Truckee R, NV",2014-12-01,Water_Temperature_C,,7.6,,mine missing (G has value)
+e4415978-e450-4604-adcc-bb7be8a2771f,"Truckee R, NV",2014-12-17,Dissolved_Oxygen_mg_L,,11.2,,mine missing (G has value)
+e4415978-e450-4604-adcc-bb7be8a2771f,"Truckee R, NV",2014-12-17,Specific_Conductance,,248.0,,mine missing (G has value)
+e4415978-e450-4604-adcc-bb7be8a2771f,"Truckee R, NV",2014-12-17,Water_Temperature_C,,5.9,,mine missing (G has value)
+e4415978-e450-4604-adcc-bb7be8a2771f,"Truckee R, NV",2014-12-17,pH,,7.6,,mine missing (G has value)
+7d27e844-fe3b-4260-80c6-f903a793ebb9,"Truckee R, NV",2015-01-06,Dissolved_Oxygen_mg_L,,11.8,,mine missing (G has value)
+7d27e844-fe3b-4260-80c6-f903a793ebb9,"Truckee R, NV",2015-01-06,Specific_Conductance,,297.0,,mine missing (G has value)
+7d27e844-fe3b-4260-80c6-f903a793ebb9,"Truckee R, NV",2015-01-06,Water_Temperature_C,,3.3,,mine missing (G has value)
+7d09d641-9b43-4a44-9a2a-11be5d3a331d,"Truckee R, NV",2015-01-20,Dissolved_Oxygen_mg_L,,10.3,,mine missing (G has value)
+7d09d641-9b43-4a44-9a2a-11be5d3a331d,"Truckee R, NV",2015-01-20,Specific_Conductance,,311.0,,mine missing (G has value)
+7d09d641-9b43-4a44-9a2a-11be5d3a331d,"Truckee R, NV",2015-01-20,Water_Temperature_C,,7.4,,mine missing (G has value)
+2bce653d-9ad8-4153-8675-4d91c1b39899,"Truckee R, NV",2015-02-03,Dissolved_Oxygen_mg_L,,9.9,,mine missing (G has value)
+2bce653d-9ad8-4153-8675-4d91c1b39899,"Truckee R, NV",2015-02-03,Specific_Conductance,,318.0,,mine missing (G has value)
+2bce653d-9ad8-4153-8675-4d91c1b39899,"Truckee R, NV",2015-02-03,Water_Temperature_C,,7.1,,mine missing (G has value)
+8b0ed87c-4b43-400f-a3d9-fb6f70031f5a,"Truckee R, NV",2015-02-18,Dissolved_Oxygen_mg_L,,9.7,,mine missing (G has value)
+8b0ed87c-4b43-400f-a3d9-fb6f70031f5a,"Truckee R, NV",2015-02-18,Specific_Conductance,,232.0,,mine missing (G has value)
+8b0ed87c-4b43-400f-a3d9-fb6f70031f5a,"Truckee R, NV",2015-02-18,Water_Temperature_C,,8.1,,mine missing (G has value)
+37bb479e-a99e-4d90-a503-7624baafc2df,"Truckee R, NV",2015-03-03,Dissolved_Oxygen_mg_L,,9.9,,mine missing (G has value)
+37bb479e-a99e-4d90-a503-7624baafc2df,"Truckee R, NV",2015-03-03,Specific_Conductance,,319.0,,mine missing (G has value)
+37bb479e-a99e-4d90-a503-7624baafc2df,"Truckee R, NV",2015-03-03,Water_Temperature_C,,7.1,,mine missing (G has value)
+e3102d98-e8c8-4252-a2a7-12b5863bf82d,"Truckee R, NV",2015-03-17,Dissolved_Oxygen_mg_L,,9.2,,mine missing (G has value)
+e3102d98-e8c8-4252-a2a7-12b5863bf82d,"Truckee R, NV",2015-03-17,Specific_Conductance,,238.0,,mine missing (G has value)
+e3102d98-e8c8-4252-a2a7-12b5863bf82d,"Truckee R, NV",2015-03-17,Water_Temperature_C,,12.0,,mine missing (G has value)
+b93fade2-270b-4940-a970-6f3e5a2acc56,"Truckee R, NV",2015-04-07,Dissolved_Oxygen_mg_L,,10.6,,mine missing (G has value)
+b93fade2-270b-4940-a970-6f3e5a2acc56,"Truckee R, NV",2015-04-07,Specific_Conductance,,230.0,,mine missing (G has value)
+b93fade2-270b-4940-a970-6f3e5a2acc56,"Truckee R, NV",2015-04-07,Water_Temperature_C,,8.8,,mine missing (G has value)
+73a2795e-3704-42ea-9c6f-e91bbca6fa05,"Truckee R, NV",2015-04-20,Dissolved_Oxygen_mg_L,,9.0,,mine missing (G has value)
+73a2795e-3704-42ea-9c6f-e91bbca6fa05,"Truckee R, NV",2015-04-20,Specific_Conductance,,535.0,,mine missing (G has value)
+73a2795e-3704-42ea-9c6f-e91bbca6fa05,"Truckee R, NV",2015-04-20,Water_Temperature_C,,16.8,,mine missing (G has value)
+73a2795e-3704-42ea-9c6f-e91bbca6fa05,"Truckee R, NV",2015-04-20,pH,,7.9,,mine missing (G has value)
+912bb216-ba47-403c-bd41-8e2e8b435bb3,"Truckee R, NV",2015-05-12,Dissolved_Oxygen_mg_L,,7.5,,mine missing (G has value)
+912bb216-ba47-403c-bd41-8e2e8b435bb3,"Truckee R, NV",2015-05-12,Specific_Conductance,,488.0,,mine missing (G has value)
+912bb216-ba47-403c-bd41-8e2e8b435bb3,"Truckee R, NV",2015-05-12,Water_Temperature_C,,15.7,,mine missing (G has value)
+4cae225f-e25c-4a41-8569-561dd319b283,"Truckee R, NV",2015-06-16,Dissolved_Oxygen_mg_L,,8.0,,mine missing (G has value)
+4cae225f-e25c-4a41-8569-561dd319b283,"Truckee R, NV",2015-06-16,Specific_Conductance,,608.0,,mine missing (G has value)
+4cae225f-e25c-4a41-8569-561dd319b283,"Truckee R, NV",2015-06-16,Water_Temperature_C,,21.9,,mine missing (G has value)
+4cae225f-e25c-4a41-8569-561dd319b283,"Truckee R, NV",2015-06-16,pH,,8.1,,mine missing (G has value)
+af0559f9-d733-4490-8801-7a8d5fe40f16,"Truckee R, NV",2015-07-14,Dissolved_Oxygen_mg_L,,7.1,,mine missing (G has value)
+af0559f9-d733-4490-8801-7a8d5fe40f16,"Truckee R, NV",2015-07-14,Specific_Conductance,,520.0,,mine missing (G has value)
+af0559f9-d733-4490-8801-7a8d5fe40f16,"Truckee R, NV",2015-07-14,Water_Temperature_C,,22.4,,mine missing (G has value)
+af0559f9-d733-4490-8801-7a8d5fe40f16,"Truckee R, NV",2015-07-14,pH,,7.8,,mine missing (G has value)
+6c79319b-2d05-4e28-bab2-e55fb3cd9fb7,"Truckee R, NV",2015-08-18,Dissolved_Oxygen_mg_L,,7.3,,mine missing (G has value)
+6c79319b-2d05-4e28-bab2-e55fb3cd9fb7,"Truckee R, NV",2015-08-18,Specific_Conductance,,733.0,,mine missing (G has value)
+6c79319b-2d05-4e28-bab2-e55fb3cd9fb7,"Truckee R, NV",2015-08-18,Water_Temperature_C,,22.4,,mine missing (G has value)
+6c79319b-2d05-4e28-bab2-e55fb3cd9fb7,"Truckee R, NV",2015-08-18,pH,,7.8,,mine missing (G has value)
+e586e9f9-749e-4221-8100-4e4597075331,"Truckee R, NV",2015-09-14,Dissolved_Oxygen_mg_L,,7.6,,mine missing (G has value)
+e586e9f9-749e-4221-8100-4e4597075331,"Truckee R, NV",2015-09-14,Specific_Conductance,,698.0,,mine missing (G has value)
+e586e9f9-749e-4221-8100-4e4597075331,"Truckee R, NV",2015-09-14,Water_Temperature_C,,20.6,,mine missing (G has value)
+e586e9f9-749e-4221-8100-4e4597075331,"Truckee R, NV",2015-09-14,pH,,8.1,,mine missing (G has value)
+9df1b3f4-cbff-47da-a58c-955a7d8ca188,"Truckee R, NV",2015-10-13,Dissolved_Oxygen_mg_L,,8.5,,mine missing (G has value)
+9df1b3f4-cbff-47da-a58c-955a7d8ca188,"Truckee R, NV",2015-10-13,Specific_Conductance,,545.0,,mine missing (G has value)
+9df1b3f4-cbff-47da-a58c-955a7d8ca188,"Truckee R, NV",2015-10-13,Water_Temperature_C,,18.2,,mine missing (G has value)
+9df1b3f4-cbff-47da-a58c-955a7d8ca188,"Truckee R, NV",2015-10-13,pH,,8.2,,mine missing (G has value)
+4845840c-9fdf-478f-817c-3abee025c89d,"Truckee R, NV",2015-11-03,Dissolved_Oxygen_mg_L,,10.2,,mine missing (G has value)
+4845840c-9fdf-478f-817c-3abee025c89d,"Truckee R, NV",2015-11-03,Specific_Conductance,,489.0,,mine missing (G has value)
+4845840c-9fdf-478f-817c-3abee025c89d,"Truckee R, NV",2015-11-03,Water_Temperature_C,,9.6,,mine missing (G has value)
+4845840c-9fdf-478f-817c-3abee025c89d,"Truckee R, NV",2015-11-03,pH,,7.9,,mine missing (G has value)
+7c107281-5766-4d51-9725-2e0515f1a166,"Truckee R, NV",2015-11-16,Dissolved_Oxygen_mg_L,,13.0,,mine missing (G has value)
+7c107281-5766-4d51-9725-2e0515f1a166,"Truckee R, NV",2015-11-16,Specific_Conductance,,548.0,,mine missing (G has value)
+7c107281-5766-4d51-9725-2e0515f1a166,"Truckee R, NV",2015-11-16,Water_Temperature_C,,6.6,,mine missing (G has value)
+7c107281-5766-4d51-9725-2e0515f1a166,"Truckee R, NV",2015-11-16,pH,,8.2,,mine missing (G has value)
+4f8b0eb6-34e3-4914-a666-e8570f83f3ff,"Truckee R, NV",2015-12-08,Dissolved_Oxygen_mg_L,,13.2,,mine missing (G has value)
+4f8b0eb6-34e3-4914-a666-e8570f83f3ff,"Truckee R, NV",2015-12-08,Specific_Conductance,,587.0,,mine missing (G has value)
+4f8b0eb6-34e3-4914-a666-e8570f83f3ff,"Truckee R, NV",2015-12-08,Water_Temperature_C,,8.4,,mine missing (G has value)
+4f8b0eb6-34e3-4914-a666-e8570f83f3ff,"Truckee R, NV",2015-12-08,pH,,8.5,,mine missing (G has value)
+475f92bb-3f05-45f0-8a54-72249e1d0eb6,"Truckee R, NV",2015-12-21,Dissolved_Oxygen_mg_L,,11.3,,mine missing (G has value)
+475f92bb-3f05-45f0-8a54-72249e1d0eb6,"Truckee R, NV",2015-12-21,Specific_Conductance,,528.0,,mine missing (G has value)
+475f92bb-3f05-45f0-8a54-72249e1d0eb6,"Truckee R, NV",2015-12-21,Water_Temperature_C,,5.7,,mine missing (G has value)
+475f92bb-3f05-45f0-8a54-72249e1d0eb6,"Truckee R, NV",2015-12-21,pH,,8.0,,mine missing (G has value)
+d49291b3-594d-4f74-b565-6bcbf20a060e,"Truckee R, NV",2016-01-05,Dissolved_Oxygen_mg_L,,12.5,,mine missing (G has value)
+d49291b3-594d-4f74-b565-6bcbf20a060e,"Truckee R, NV",2016-01-05,Specific_Conductance,,420.0,,mine missing (G has value)
+d49291b3-594d-4f74-b565-6bcbf20a060e,"Truckee R, NV",2016-01-05,Water_Temperature_C,,3.2,,mine missing (G has value)
+d49291b3-594d-4f74-b565-6bcbf20a060e,"Truckee R, NV",2016-01-05,pH,,8.0,,mine missing (G has value)
+3515fd49-8ce3-4f5f-ac99-c17e97aa5529,"Truckee R, NV",2016-01-19,Dissolved_Oxygen_mg_L,,10.9,,mine missing (G has value)
+3515fd49-8ce3-4f5f-ac99-c17e97aa5529,"Truckee R, NV",2016-01-19,Specific_Conductance,,473.0,,mine missing (G has value)
+3515fd49-8ce3-4f5f-ac99-c17e97aa5529,"Truckee R, NV",2016-01-19,Water_Temperature_C,,6.7,,mine missing (G has value)
+3515fd49-8ce3-4f5f-ac99-c17e97aa5529,"Truckee R, NV",2016-01-19,pH,,7.7,,mine missing (G has value)
+0f1393b7-d627-4a43-8a9e-aae26384dab2,"Truckee R, NV",2016-02-08,Dissolved_Oxygen_mg_L,,10.6,,mine missing (G has value)
+0f1393b7-d627-4a43-8a9e-aae26384dab2,"Truckee R, NV",2016-02-08,Specific_Conductance,,303.0,,mine missing (G has value)
+0f1393b7-d627-4a43-8a9e-aae26384dab2,"Truckee R, NV",2016-02-08,Water_Temperature_C,,6.3,,mine missing (G has value)
+0f1393b7-d627-4a43-8a9e-aae26384dab2,"Truckee R, NV",2016-02-08,pH,,7.9,,mine missing (G has value)
+1316e4d9-957f-4296-9d0e-183ca6497ed8,"Truckee R, NV",2016-02-22,Dissolved_Oxygen_mg_L,,10.8,,mine missing (G has value)
+1316e4d9-957f-4296-9d0e-183ca6497ed8,"Truckee R, NV",2016-02-22,Specific_Conductance,,252.0,,mine missing (G has value)
+1316e4d9-957f-4296-9d0e-183ca6497ed8,"Truckee R, NV",2016-02-22,Water_Temperature_C,,7.5,,mine missing (G has value)
+1316e4d9-957f-4296-9d0e-183ca6497ed8,"Truckee R, NV",2016-02-22,pH,,8.0,,mine missing (G has value)
+e995eb85-9c11-4db1-90f4-bc3601ead666,"Truckee R, NV",2016-03-08,Dissolved_Oxygen_mg_L,,10.8,,mine missing (G has value)
+e995eb85-9c11-4db1-90f4-bc3601ead666,"Truckee R, NV",2016-03-08,Specific_Conductance,,172.0,,mine missing (G has value)
+e995eb85-9c11-4db1-90f4-bc3601ead666,"Truckee R, NV",2016-03-08,Water_Temperature_C,,5.9,,mine missing (G has value)
+a050c326-03d1-410a-916c-99d0cc221cc8,"Truckee R, NV",2016-03-21,Dissolved_Oxygen_mg_L,,9.7,,mine missing (G has value)
+a050c326-03d1-410a-916c-99d0cc221cc8,"Truckee R, NV",2016-03-21,Specific_Conductance,,185.0,,mine missing (G has value)
+a050c326-03d1-410a-916c-99d0cc221cc8,"Truckee R, NV",2016-03-21,Water_Temperature_C,,8.9,,mine missing (G has value)
+a050c326-03d1-410a-916c-99d0cc221cc8,"Truckee R, NV",2016-03-21,pH,,8.0,,mine missing (G has value)
+8ab3482c-95ff-400a-b8bb-45da346d9af0,"Truckee R, NV",2016-04-05,Dissolved_Oxygen_mg_L,,10.0,,mine missing (G has value)
+8ab3482c-95ff-400a-b8bb-45da346d9af0,"Truckee R, NV",2016-04-05,Specific_Conductance,,166.0,,mine missing (G has value)
+8ab3482c-95ff-400a-b8bb-45da346d9af0,"Truckee R, NV",2016-04-05,pH,,8.2,,mine missing (G has value)
+9e3c6109-dd5b-4cc6-b57c-1a71446ae1b3,"Truckee R, NV",2016-04-18,Dissolved_Oxygen_mg_L,,9.5,,mine missing (G has value)
+9e3c6109-dd5b-4cc6-b57c-1a71446ae1b3,"Truckee R, NV",2016-04-18,Specific_Conductance,,176.0,,mine missing (G has value)
+9e3c6109-dd5b-4cc6-b57c-1a71446ae1b3,"Truckee R, NV",2016-04-18,pH,,8.2,,mine missing (G has value)
+65a0c0bd-4edd-420a-ad5f-6a903d59cd42,"Truckee R, NV",2016-05-17,Dissolved_Oxygen_mg_L,,9.3,,mine missing (G has value)
+65a0c0bd-4edd-420a-ad5f-6a903d59cd42,"Truckee R, NV",2016-05-17,Specific_Conductance,,169.0,,mine missing (G has value)
+65a0c0bd-4edd-420a-ad5f-6a903d59cd42,"Truckee R, NV",2016-05-17,pH,,8.1,,mine missing (G has value)
+633c572f-ed19-4001-b643-a6b490bc3da4,"Truckee R, NV",2016-06-13,Dissolved_Oxygen_mg_L,,8.6,,mine missing (G has value)
+633c572f-ed19-4001-b643-a6b490bc3da4,"Truckee R, NV",2016-06-13,Specific_Conductance,,188.0,,mine missing (G has value)
+633c572f-ed19-4001-b643-a6b490bc3da4,"Truckee R, NV",2016-06-13,pH,,8.7,,mine missing (G has value)
+875820ce-584b-4f69-ae63-1cfff27506e7,"Truckee R, NV",2016-07-12,Dissolved_Oxygen_mg_L,,7.2,,mine missing (G has value)
+875820ce-584b-4f69-ae63-1cfff27506e7,"Truckee R, NV",2016-07-12,Specific_Conductance,,258.0,,mine missing (G has value)
+875820ce-584b-4f69-ae63-1cfff27506e7,"Truckee R, NV",2016-07-12,pH,,8.0,,mine missing (G has value)
+4201995c-2953-439b-9dd8-5040489e8cf5,"Truckee R, NV",2016-08-15,Dissolved_Oxygen_mg_L,,7.6,,mine missing (G has value)
+4201995c-2953-439b-9dd8-5040489e8cf5,"Truckee R, NV",2016-08-15,Specific_Conductance,,280.0,,mine missing (G has value)
+4201995c-2953-439b-9dd8-5040489e8cf5,"Truckee R, NV",2016-08-15,pH,,8.0,,mine missing (G has value)
+d4685b79-0435-47b7-b758-c388200502c0,"Truckee R, NV",2016-09-12,Specific_Conductance,,333.0,,mine missing (G has value)
+d4685b79-0435-47b7-b758-c388200502c0,"Truckee R, NV",2016-09-12,Water_Temperature_C,,18.3,,mine missing (G has value)

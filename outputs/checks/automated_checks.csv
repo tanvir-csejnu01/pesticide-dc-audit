@@ -1,0 +1,15 @@
+check,status,detail
+chemical_result_rows_equals_955728,PASS,"955,728 rows"
+distinct_analytes_equals_84,PASS,84 analytes
+distinct_analysis_sites_equals_81,PASS,81 sites
+activity_id_globally_unique,PASS,0 activities mapping to >1 site
+original_14_columns_unchanged,PASS,verified value-for-value against base release (see National_Data_Audit_EN.md sec 6)
+row_count_preserved_after_join,PASS,"955,728 in, 955,728 expected"
+activity_master_row_count_equals_activity_count,PASS,"12,896 rows vs 12,896 distinct activities"
+no_duplicate_rows,PASS,checked full-row duplicates
+env_var_matched_pct_Discharge_cfs,INFO,"98.4% of rows matched (activity-level, see Data_Dictionary sec 4)"
+env_var_matched_pct_Water_Temperature_C,INFO,"99.2% of rows matched (activity-level, see Data_Dictionary sec 4)"
+env_var_matched_pct_Dissolved_Oxygen_mg_L,INFO,"98.2% of rows matched (activity-level, see Data_Dictionary sec 4)"
+env_var_matched_pct_pH,INFO,"97.9% of rows matched (activity-level, see Data_Dictionary sec 4)"
+env_var_matched_pct_Turbidity_FNU,INFO,"25.4% of rows matched (activity-level, see Data_Dictionary sec 4)"
+env_var_matched_pct_Specific_Conductance,INFO,"98.5% of rows matched (activity-level, see Data_Dictionary sec 4)"

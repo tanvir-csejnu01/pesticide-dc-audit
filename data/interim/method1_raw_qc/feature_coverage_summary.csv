@@ -1,0 +1,12 @@
+variable,n_samples,n_available,pct_available,src_discrete_same_activity,src_continuous_nearest,src_daily_mean,src_discrete_time_match
+Discharge_cfs,12896,12679,98.3,12029.0,564.0,48.0,38.0
+Water_Temperature_C,12896,12780,99.1,12672.0,81.0,,27.0
+Dissolved_Oxygen_mg_L,12896,12662,98.2,12600.0,45.0,,17.0
+pH,12896,12612,97.8,12476.0,118.0,,18.0
+Specific_Conductance,12896,12691,98.4,12614.0,58.0,,19.0
+Turbidity_FNU,12896,3387,26.3,1855.0,1375.0,,157.0
+Turbidity_NTU,12896,0,0.0,,,,
+Q_daily_mean_cfs,12896,10299,79.9,,,,
+COMPLETE: discharge only,12896,12679,98.3,,,,
+"COMPLETE: + temp, DO, pH, conductance",12896,12160,94.3,,,,
+COMPLETE: + turbidity (FNU),12896,3284,25.5,,,,

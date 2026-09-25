@@ -1,0 +1,7 @@
+Variable,Total_Sampling_Activities,Available,Missing,Coverage_pct
+Discharge_cfs,12896,12679,217,98.32
+Water_Temperature_C,12896,12617,279,97.84
+Dissolved_Oxygen_mg_L,12896,12449,447,96.53
+pH,12896,12409,487,96.22
+Specific_Conductance_uScm,12896,12522,374,97.1
+Turbidity_FNU,12896,3385,9511,26.25

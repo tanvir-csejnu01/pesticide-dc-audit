@@ -1,0 +1,44 @@
+# ============================================================
+# Large raw data files
+# ============================================================
+
+# Large Method 2 dataset; retained locally but not versioned.
+data/raw/dataset_2013_2022_G.csv
+
+# Other raw CSV source files.
+data/raw/*.csv
+
+# Keep documentation for excluded raw files.
+!data/raw/README.md
+
+
+# ============================================================
+# Large redundant processed exports
+# ============================================================
+
+# Redundant CSV export of t2_pest_concs_enriched_v2.parquet.
+# See data/processed/README_dataset_final_csv.md.
+data/processed/dataset_2013_2022_final.csv
+
+
+# ============================================================
+# Download / API caches
+# ============================================================
+
+raw_cache/
+**/raw_cache/
+
+
+# ============================================================
+# Python
+# ============================================================
+
+__pycache__/
+*.pyc
+
+
+# ============================================================
+# Operating-system files
+# ============================================================
+
+.DS_Store

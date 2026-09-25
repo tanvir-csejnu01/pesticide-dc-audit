@@ -1,0 +1,7 @@
+variable,activities_matched,activities_total,pct_matched
+Discharge_cfs,12679,12896,98.3
+Water_Temperature_C,12780,12896,99.1
+Dissolved_Oxygen_mg_L,12662,12896,98.2
+pH,12612,12896,97.8
+Turbidity_FNU,3387,12896,26.3
+Specific_Conductance,12691,12896,98.4

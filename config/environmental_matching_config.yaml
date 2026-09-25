@@ -1,0 +1,63 @@
+# Environmental matching configuration
+#
+# Values below are read directly from the extraction scripts, not assumed:
+#   - Method 1: scripts/06_environment_method1.py (constants PCODES,
+#     DISCRETE_TOL, CONTINUOUS_WINDOW, and the attach_discrete/
+#     attach_continuous/attach_daily_q call order in main())
+#   - Method 2: scripts/build_environmental_matches_with_provenance.py's
+#     own docstring, which states it "preserves the Method-2 hierarchy"
+#     explicitly -- confirmed IDENTICAL to Method 1's hierarchy below.
+#     This has not been independently verified against Method 2's
+#     matching CODE (no such code has been shared with this workstream;
+#     see UNRESOLVED_ISSUES.md item 1) -- only against this one script's
+#     own docstring claim.
+
+variables:
+  discharge:
+    canonical_field: Discharge_cfs
+    standard_unit: ft3/s
+    usgs_pcode: "00060"
+    instantaneous_fallback_pcode: "00061"
+  water_temperature:
+    canonical_field: Water_Temperature_C
+    standard_unit: degC
+    usgs_pcode: "00010"
+  dissolved_oxygen:
+    canonical_field: Dissolved_Oxygen_mg_L
+    standard_unit: mg/L
+    usgs_pcode: "00300"
+  ph:
+    canonical_field: pH
+    standard_unit: standard_units
+    usgs_pcode: "00400"
+  specific_conductance:
+    canonical_field: Specific_Conductance
+    standard_unit: uS/cm
+    usgs_pcode: "00095"
+  turbidity:
+    canonical_field: Turbidity_FNU
+    standard_unit: FNU
+    usgs_pcode: "63680"
+    note: "63680 = FNU (sensor-type). NTU (pcode 00076) is a DIFFERENT unit and is never substituted for FNU."
+
+matching:
+  # Applied in this order; the first rule that returns a value wins.
+  hierarchy:
+    - discrete_same_activity   # a field/lab value recorded under the SAME Activity_ActivityIdentifier as the pesticide sample (0-minute offset by construction)
+    - discrete_time_match      # a discrete value at the same station within the discrete_time_window_minutes below
+    - continuous_nearest       # the nearest continuous-sensor reading within the continuous_time_window_minutes below
+    - daily_mean               # discharge ONLY: the USGS daily-mean statistic (statistic_id 00003) for the sample's calendar date
+    - none                     # no acceptable match; recorded with an explicit missing_reason, not left as a bare blank
+
+  method1_hierarchy: "same as 'hierarchy' above -- read directly from scripts/06_environment_method1.py"
+  method2_hierarchy: "same as 'hierarchy' above -- CONFIRMED 2026-09 two ways: (a) read directly from scripts/14_environment_method2_independent_extraction.py, and (b) its actual run output matches dataset_2013_2022_G.csv exactly across all 12,896 activities and all 6 variables (zero differences). See UNRESOLVED_ISSUES.md item 28."
+
+  discrete_time_window_minutes: 60
+  continuous_time_window_minutes: 30
+  daily_fallback_allowed: true
+  daily_fallback_applies_to: [discharge]   # the only variable with a daily-mean fallback; no fallback exists for the other five
+
+study_period:
+  start: 2012-10-01   # water year 2013 begins here
+  end: 2022-09-30      # water year 2022 ends here
+

@@ -1,0 +1,8 @@
+site,call,start,end,error
+USGS-02335870,get_samples,2012-10-01,2014-09-30,Could not reach the service at https://api.waterdata.usgs.gov/samples-data/results/fullphyschem: The read operation timed out
+USGS-05082500,get_samples,2012-10-01,2014-09-30,Could not reach the service at https://api.waterdata.usgs.gov/samples-data/results/fullphyschem: The read operation timed out
+USGS-05288705,get_samples,2018-10-01,2020-09-30,Could not reach the service at https://api.waterdata.usgs.gov/samples-data/results/fullphyschem: The read operation timed out
+USGS-05331580,get_samples,2018-10-01,2020-09-30,Could not reach the service at https://api.waterdata.usgs.gov/samples-data/results/fullphyschem: The read operation timed out
+USGS-06800000,get_samples,2012-10-01,2014-09-30,Could not reach the service at https://api.waterdata.usgs.gov/samples-data/results/fullphyschem: The read operation timed out
+USGS-10350340,get_samples,2014-10-01,2016-09-30,Could not reach the service at https://api.waterdata.usgs.gov/samples-data/results/fullphyschem: The read operation timed out
+USGS-11447650,get_samples,2020-10-01,2022-09-30,Could not reach the service at https://api.waterdata.usgs.gov/samples-data/results/fullphyschem: The read operation timed out

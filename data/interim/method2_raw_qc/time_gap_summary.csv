@@ -1,0 +1,7 @@
+Variable,N,Mean_gap_min,Median_gap_min,Max_gap_min
+Discharge_cfs,12620,0.12741679873217115,0.0,60.0
+Water_Temperature_C,12617,0.046524530395498136,0.0,60.0
+Dissolved_Oxygen_mg_L,12449,0.03365732187324283,0.0,60.0
+pH,12409,0.05745829639777581,0.0,60.0
+Specific_Conductance_uScm,12522,0.04000958313368472,0.0,60.0
+Turbidity_FNU,3385,3.088414574101428,0.0,60.0

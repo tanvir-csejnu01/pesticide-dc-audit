@@ -1,0 +1,2642 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>Sara E. Breitmeyer</origin>
+        <origin>Elise D. Hinman</origin>
+        <origin>Margaux J. Sleckman</origin>
+        <origin>Megan E. Shoda</origin>
+        <pubdate>20260421</pubdate>
+        <title>Riverine Surface Water Pesticide Concentrations, Detection Frequencies, Benchmark Exceedances, and Trends for the Conterminous United States, 2013-2022</title>
+        <geoform>tabular digital data</geoform>
+        <othercit>Breitmeyer, S.E., Hinman, E.D., Sleckman, M.J., and Shoda, M.E., 2026, Riverine Surface Water Pesticide Concentrations, Detection Frequencies, Benchmark Exceedances, and Trends for the Conterminous United States, 2013-2022: U.S. Geological Survey data release, https://doi.org/10.5066/P1NDXVYD.</othercit>
+        <onlink>https://doi.org/10.5066/P1NDXVYD</onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>The data tables in this product include concentrations, detection frequencies, benchmark exceedances, and trends of pesticides in riverine surface water samples. The data are a product of a national-scale assessment of the status and trends of 84 pesticides at 81 sites during water years 2013 - 2022 conducted by the U.S. Geological Survey (USGS) National Water Quality Program.
+
+Data were collected to: 1) determine where and how often pesticides are detected in riverine surface waters, 2) quantify where, when, and how often riverine pesticide concentrations exceed both aquatic-life and human-health benchmarks, and 3) assess if trends in concentrations of individual pesticides can be detected over the decade of water years 2013 – 2022, and if the magnitude and direction of the trend can be determined.</abstract>
+      <purpose>These data were retrieved and processed for use in benchmark exceedance and trend assessments of surface water pesticide concentrations in USGS National Water Quality Network of rivers and streams.</purpose>
+      <supplinf>To open the text file tables in Excel so that leading or trailing zeroes are not deleted from values in the USGS site number (in tables 1 through 7), state code (table 1), hydrologic unit code (in table 1), percentage data (tables 3 and 7), concentration data (tables 2 through 7), and statistical result (table 7) columns:
+1. Open Excel and click on the **File** tab.
+2. Click on the **Open** button and then click on the **Browse** button.
+3. Navigate to the location of the text file that you want to open.
+4. Select the text file and then click on the **Open** button.
+5. The Text Import Wizard will appear.
+6. In the **Text Import Wizard**, click on the **Next** button for steps 1 and 2.
+7. In the **Column Data Format** section, select the **Text** option for each desired column where leading or trailing zeroes need to be retained.
+8. Click on the **Next** button.
+9. Click on the **Finish** button.
+
+If using a programming language to open the data tables it is suggested to read in the compressed parquet files, rather than the text files, of each data table so that leading or trailing zeroes are not deleted from values in the USGS site number (in tables 1 through 7), state code (table 1), hydrologic unit code (in table 1), percentage data (tables 3 and 7), concentration data (tables 2 through 7), and statistical result (table 7) columns. If using a programming language to open the data tables and the preferred method is to read in the text files of the data table, all columns should be read in as character classes (i.e., string or object types) to retain any leading and trailing zeroes in each column.</supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate>2013</begdate>
+          <enddate>2022</enddate>
+        </rngdates>
+      </timeinfo>
+      <current>ground condition</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>None planned</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-129.0234</westbc>
+        <eastbc>-65.3906</eastbc>
+        <northbc>49.4967</northbc>
+        <southbc>24.2069</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>environment</themekey>
+      </theme>
+      <theme>
+        <themekt>Controlled Vocabularies</themekt>
+        <themekey>pesticide and herbicide contamination</themekey>
+        <themekey>river ecosystems</themekey>
+        <themekey>detection (chemical)</themekey>
+        <themekey>ecotoxicology</themekey>
+        <themekey>water quality</themekey>
+      </theme>
+      <theme>
+        <themekt>USGS Metadata Identifier</themekt>
+        <themekey>USGS:6712dadfd34eb6a152fc9907</themekey>
+      </theme>
+      <place>
+        <placekt>Common Geographic Areas</placekt>
+        <placekey>United States</placekey>
+        <placekey>Conterminous United States</placekey>
+      </place>
+    </keywords>
+    <accconst>None. Please see 'Distribution Info' for details.</accconst>
+    <useconst>None. Users are advised to read the dataset's metadata thoroughly to understand appropriate use and data limitations.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper>Sara E. Breitmeyer</cntper>
+          <cntorg>U.S. Geological Survey, Pennsylvania Water Science Center</cntorg>
+        </cntperp>
+        <cntpos>Hydrologist</cntpos>
+        <cntaddr>
+          <addrtype>mailing address</addrtype>
+          <address>408 Boot Road</address>
+          <city>Downingtown</city>
+          <state>PA</state>
+          <postal>19335</postal>
+          <country>US</country>
+        </cntaddr>
+        <cntvoice>202-640-1187</cntvoice>
+        <cntemail>sbreitmeyer@usgs.gov</cntemail>
+      </cntinfo>
+    </ptcontac>
+    <datacred>Funding to support this study was provided by the USGS National Water Quality Program.</datacred>
+    <native>Apple M1 Max Macbook Pro macOS Ventura Version 13.7.4
+RStudio Version 2024.09.1+394 (2024.09.1+394)</native>
+    <crossref>
+      <citeinfo>
+        <origin>Elise D. Hinman</origin>
+        <origin>Sara E. Breitmeyer</origin>
+        <origin>Margaux J. Sleckman</origin>
+        <origin>Megan E. Shoda</origin>
+        <pubdate>2025</pubdate>
+        <title>A data A data pipeline for fetching, processing, and analyzing riverine surface water pesticide trends and benchmark comparisons across the United States (2013-2022)</title>
+        <geoform>application/service</geoform>
+        <pubinfo>
+          <pubplace>Reston, VA</pubplace>
+          <publish>U.S. Geological Survey software release</publish>
+        </pubinfo>
+        <othercit>This USGS software release is a data pipeline script written in the R programming language that downloads, processes, and analyzes pesticide concentrations from the USGS Samples database (NWIS) and produces the datasets in this data release.</othercit>
+        <onlink>https://doi.org/10.5066/P13VFS7H</onlink>
+      </citeinfo>
+    </crossref>
+  </idinfo>
+  <dataqual>
+    <attracc>
+      <attraccr>Data tables were peer reviewed for consistency and accuracy.</attraccr>
+    </attracc>
+    <logic>Data tables were peer reviewed for consistency and accuracy.</logic>
+    <complete>Data set is considered complete for the information presented, as described in the abstract. Users are advised to read the rest of the metadata record carefully for additional details.</complete>
+    <posacc>
+      <horizpa>
+        <horizpar>No formal positional accuracy tests were conducted.</horizpar>
+      </horizpa>
+      <vertacc>
+        <vertaccr>No formal positional accuracy tests were conducted.</vertaccr>
+      </vertacc>
+    </posacc>
+    <lineage>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Laura A De Cicco</origin>
+            <origin>Robert M Hirsch</origin>
+            <origin>David Lorenz</origin>
+            <origin>David Watkins</origin>
+            <origin>Michael Johnson</origin>
+            <pubdate>2018</pubdate>
+            <title>dataRetrieval</title>
+            <geoform>dataset</geoform>
+            <pubinfo>
+              <pubplace>https://www.sciencebase.gov</pubplace>
+              <publish>U.S. Geological Survey</publish>
+            </pubinfo>
+            <onlink>https://doi.org/10.5066/p9x4l3ge</onlink>
+          </citeinfo>
+        </srccite>
+        <typesrc>Digital and/or Hardcopy</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>2024</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>DeCicco and others (2024)</srccitea>
+        <srccontr>Site information data</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Anthony J Martinez</origin>
+            <origin>James E Reddy</origin>
+            <origin>Julie A Padilla</origin>
+            <pubdate>2025</pubdate>
+            <title>Crosswalk table between 12-digit hydrologic unit code (HUC12) and hydrologic region boundaries</title>
+            <geoform>dataset</geoform>
+            <pubinfo>
+              <pubplace>https://www.sciencebase.gov</pubplace>
+              <publish>U.S. Geological Survey</publish>
+            </pubinfo>
+            <onlink>https://doi.org/10.5066/p13xtctm</onlink>
+          </citeinfo>
+        </srccite>
+        <typesrc>Digital and/or Hardcopy</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>2025</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>Martinez and others (2025)</srccitea>
+        <srccontr>Site regions and aggregated regions</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Sarah M Stackpoole</origin>
+            <origin>Megan E Shoda</origin>
+            <origin>Wesley W Stone</origin>
+            <pubdate>2021</pubdate>
+            <title>Surface Water Pesticide Detection Frequency and Benchmark Exceedance Data for the Conterminous United States, 2013-2017</title>
+            <geoform>dataset</geoform>
+            <pubinfo>
+              <pubplace>https://www.sciencebase.gov</pubplace>
+              <publish>U.S. Geological Survey</publish>
+            </pubinfo>
+            <onlink>https://doi.org/10.5066/p9z0vzsd</onlink>
+          </citeinfo>
+        </srccite>
+        <typesrc>Digital and/or Hardcopy</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>2021</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>Stackpoole and others (2021)</srccitea>
+        <srccontr>Site upstream drainage area for Sacramento River at Freeport, CA</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Mark W. Sandstrom</origin>
+            <origin>Leslie K. Kanagy</origin>
+            <origin>Cyrissa A. Anderson</origin>
+            <origin>Christopher J. Kanagy</origin>
+            <pubdate>2016</pubdate>
+            <title>Determination of pesticides and pesticide degradates in filtered water by direct aqueous-injection liquid chromatography-tandem mass spectrometry</title>
+            <geoform>publication</geoform>
+            <pubinfo>
+              <pubplace>n/a</pubplace>
+              <publish>US Geological Survey</publish>
+            </pubinfo>
+            <onlink>https://doi.org/10.3133/tm5B11</onlink>
+          </citeinfo>
+        </srccite>
+        <typesrc>Digital and/or Hardcopy</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>2016</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>Sandstrom and others (2015)</srccitea>
+        <srccontr>USGS National Water Quality Laboratory (NWQL) 2437 and 2447 Pesticide Schedule Method</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Megan E. Shoda</origin>
+            <origin>Lisa H. Nowell</origin>
+            <origin>Wesley W. Stone</origin>
+            <origin>Mark W. Sandstrom</origin>
+            <origin>Laura M. Bexfield</origin>
+            <pubdate>2018</pubdate>
+            <title>Data analysis considerations for pesticides determined by National Water Quality Laboratory schedule 2437</title>
+            <geoform>publication</geoform>
+            <pubinfo>
+              <pubplace>n/a</pubplace>
+              <publish>US Geological Survey</publish>
+            </pubinfo>
+            <onlink>https://doi.org/10.3133/sir20185007</onlink>
+          </citeinfo>
+        </srccite>
+        <typesrc>Digital and/or Hardcopy</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>2018</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>Shoda and others (2018)</srccitea>
+        <srccontr>USGS National Water Quality Laboratory (NWQL) 2437 and 2447 Pesticide Schedule Method</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>U.S. Geological Survey</origin>
+            <pubdate>20241108</pubdate>
+            <title>USGS water data for the Nation: U.S. Geological Survey National Water Information System database</title>
+            <geoform>application/service</geoform>
+            <othercit>Accessed [November 8, 2024], at  https://doi.org/10.5066/F7P55KJN. [Data download directly accessible at https://api.waterdata.usgs.gov/ogcapi/v0.]</othercit>
+            <onlink>https://doi.org/10.5066/F7P55KJN</onlink>
+          </citeinfo>
+        </srccite>
+        <typesrc>Digital and/or Hardcopy</typesrc>
+        <srctime>
+          <timeinfo>
+            <rngdates>
+              <begdate>2011</begdate>
+              <enddate>2023</enddate>
+            </rngdates>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>U.S. Geological Survey (2024)</srccitea>
+        <srccontr>Pesticide concentration data</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Elise D. Hinman</origin>
+            <origin>Sara E. Breitmeyer</origin>
+            <origin>Margaux J. Sleckman</origin>
+            <origin>Megan E. Shoda</origin>
+            <pubdate>2025</pubdate>
+            <title>A data pipeline for fetching, processing, and analyzing riverine surface water pesticide trends and benchmark comparisons across the United States (2013-2022)</title>
+            <geoform>application/service</geoform>
+            <pubinfo>
+              <pubplace>Reston, VA</pubplace>
+              <publish>U.S. Geological Survey software release</publish>
+            </pubinfo>
+            <onlink>https://doi.org/10.5066/P13VFS7H</onlink>
+          </citeinfo>
+        </srccite>
+        <typesrc>Digital and/or Hardcopy</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>2025</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>Hinman and others (2025)</srccitea>
+        <srccontr>Pesticide concentration, detection frequency, benchmark exceedance, and trend results</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Wesley W. Stone</origin>
+            <origin>Robert J. Gilliom</origin>
+            <origin>Jeffrey D. Martin</origin>
+            <pubdate>2014</pubdate>
+            <title>An overview comparing results from two decades of monitoring for pesticides in the Nation’s streams and rivers, 1992-2001 and 2002-2011</title>
+            <geoform>publication</geoform>
+            <pubinfo>
+              <pubplace>n/a</pubplace>
+              <publish>US Geological Survey</publish>
+            </pubinfo>
+            <onlink>https://doi.org/10.3133/sir20145154</onlink>
+          </citeinfo>
+        </srccite>
+        <typesrc>Digital and/or Hardcopy</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>2014</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>Stone and others (2014)</srccitea>
+        <srccontr>Time weighted detection frequencies and annual mean concentrations</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>US Environmental Protection Agency</origin>
+            <pubdate>20240822</pubdate>
+            <title>US. Environmental Protection Agency, Office of Pesticide Programs, Aquatic Life Benchmarks and Ecological Risk Assessments for Registered Pesticides</title>
+            <geoform>publication</geoform>
+            <onlink>https://www.epa.gov/pesticide-science-and-assessing-pesticide-risks/aquatic-life-benchmarks-and-ecological-risk#ref_c</onlink>
+          </citeinfo>
+        </srccite>
+        <typesrc>Digital and/or Hardcopy</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>20240822</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>EPA (2024)</srccitea>
+        <srccontr>Aquatic life benchmarks</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>C. D. Smith</origin>
+            <origin>L. H. Nowell</origin>
+            <pubdate>2024</pubdate>
+            <title>Health-Based Screening Levels for evaluating water-quality data</title>
+            <edition>3rd ed.</edition>
+            <geoform>dataset</geoform>
+            <othercit>U.S. Geological Survey web page, accessible at https://water.usgs.gov/water-resources/hbsl/, doi:10.5066/F71C1TWP.</othercit>
+            <onlink>https://water.usgs.gov/water-resources/hbsl/</onlink>
+          </citeinfo>
+        </srccite>
+        <typesrc>Digital and/or Hardcopy</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>2024</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>Smith and Nowell (2024)</srccitea>
+        <srccontr>Human health benchmarks</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>S.P. Millard</origin>
+            <pubdate>2013</pubdate>
+            <title>_EnvStats: An R Package for Environmental Statistics</title>
+            <geoform>publication</geoform>
+            <othercit>ISBN 978-1-4614-8455-4, Springer, New York.</othercit>
+            <onlink>https://www.springer.com</onlink>
+          </citeinfo>
+        </srccite>
+        <typesrc>Digital and/or Hardcopy</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>2013</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>Millard (2013)</srccitea>
+        <srccontr>Pesticide trend methods</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>P. Julian</origin>
+            <origin>D. Helsel</origin>
+            <pubdate>2024</pubdate>
+            <title>_NADA2: Data Analysis for Censored Environmental Data_</title>
+            <geoform>application/service</geoform>
+            <onlink>https://CRAN.R-project.org/package=NADA2</onlink>
+          </citeinfo>
+        </srccite>
+        <typesrc>Digital and/or Hardcopy</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>2024</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>Julian and Helsel (2024)</srccitea>
+        <srccontr>Pesticide trend methods</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Robert M. Hirsch</origin>
+            <origin>James Richard Slack</origin>
+            <origin>Richard A. Smith</origin>
+            <pubdate>1981</pubdate>
+            <title>Techniques of trend analysis for monthly water-quality data</title>
+            <geoform>publication</geoform>
+            <pubinfo>
+              <pubplace>n/a</pubplace>
+              <publish>US Geological Survey</publish>
+            </pubinfo>
+            <onlink>https://doi.org/10.3133/ofr81488</onlink>
+          </citeinfo>
+        </srccite>
+        <typesrc>Digital and/or Hardcopy</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>1982</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>Hirsch and others (1981)</srccitea>
+        <srccontr>Seasonal Kendall Test method</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Megan E. Shoda</origin>
+            <origin>Jennifer C. Murphy</origin>
+            <pubdate>2022</pubdate>
+            <title>Water-quality trends in the Delaware River Basin calculated using multisource data and two methods for trend periods ending in 2018</title>
+            <geoform>publication</geoform>
+            <pubinfo>
+              <pubplace>n/a</pubplace>
+              <publish>US Geological Survey</publish>
+            </pubinfo>
+            <onlink>https://doi.org/10.3133/sir20225097</onlink>
+          </citeinfo>
+        </srccite>
+        <typesrc>Digital and/or Hardcopy</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>2022</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>Shoda and Murphy (2022)</srccitea>
+        <srccontr>Seasonal Kendall Test data screening methods</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Gretchen P. Oelsner</origin>
+            <origin>Lori A. Sprague</origin>
+            <origin>Jennifer C. Murphy</origin>
+            <origin>Robert E. Zuellig</origin>
+            <origin>Henry M. Johnson</origin>
+            <origin>Karen R. Ryberg</origin>
+            <origin>James A. Falcone</origin>
+            <origin>Edward G. Stets</origin>
+            <origin>Aldo V. Vecchia</origin>
+            <origin>Melissa L. Riskin</origin>
+            <origin>Laura A. De Cicco</origin>
+            <origin>Taylor J. Mills</origin>
+            <origin>William H. Farmer</origin>
+            <pubdate>2017</pubdate>
+            <title>Water-quality trends in the nation’s rivers and streams, 1972–2012—Data preparation, statistical methods, and trend results</title>
+            <geoform>publication</geoform>
+            <pubinfo>
+              <pubplace>n/a</pubplace>
+              <publish>US Geological Survey</publish>
+            </pubinfo>
+            <onlink>https://doi.org/10.3133/sir20175006</onlink>
+          </citeinfo>
+        </srccite>
+        <typesrc>Digital and/or Hardcopy</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>2017</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>Oelsner and others (2017)</srccitea>
+        <srccontr>Seasonal Kendall Test quarterly sampling scheme method</srccontr>
+      </srcinfo>
+      <procstep>
+        <procdesc>Site information
+
+Site information data, with the exception of region and aggregated region, were queried using the R dataRetrieval package (DeCicco and others, 2024). Aggregated region and region variables were from Martinez and others (2025). Two sites (Wax Lake Outlet at Calumet, LA and Lower Atchafalaya River at Morgan City, LA) were classified as distributaries (streams that branch off and flow away from the main river channel) and thus, no upstream drainage areas were defined for these sites. Sacramento River at Freeport, CA had no upstream drainage area available when site information was queried from the R dataRetrieval package (DeCicco and others, 2024), so the respective drainage area was from Stackpoole and others (2021).
+
+The two Illinois River sites (Illinois River at Valley City, IL and Illinois River at Florence, IL) were combined and processed as one site for all pesticide quality control steps and analyses and hence, this site is represented by one abbreviated site name (Illinois R, IL) throughout data release tables 2 through 7. These two sites were combined because they represent the same river reach and had a change of National Water Quality Network sampling location,  from Illinois River at Valley City, IL to the Illinois River at Florence, IL, during the period of record (POR). Hence, pesticide samples that were collected from the Illinois River at Valley City, IL from water years 2013 through 2018 were combined with pesticide samples collected from the Illinois River at Florence, IL from water years 2015 through 2022 for QC processing steps and benchmark comparison, trend, and time-weighted detection frequency analyses.</procdesc>
+        <srcused>DeCicco and others (2024)</srcused>
+        <srcused>Martinez and others (2025)</srcused>
+        <srcused>Stackpoole and others (2021)</srcused>
+        <procdate>2019</procdate>
+      </procstep>
+      <procstep>
+        <procdesc>Pesticide concentration  quality control (QC), and other data screening
+
+A complete description of the USGS National Water Quality Laboratory (NWQL) 2437 and 2447 Pesticide Schedule Method including information about 1) sample collection and handling procedures, 2) description of the analysis by liquid chromatography tandem mass spectrometry, and 3) quality assurance and quality control is outlined in Sandstrom and others (2015) and Shoda and others (2018) and the Supplemental Information associated with those publications. The NWQL switched from Pesticide Schedule 2437 to 2447 in 2018. Although both schedules use the same analytical methodology (liquid chromatography tandem mass spectrometry), the number of pesticides analyzed were reduced in the 2447 schedule.
+
+Pesticide concentration data were retrieved from the USGS National Water Information System (NWIS) database (U.S. Geological Survey, 2024) for water years 2013 through 2022 using the USGS site numbers and pesticide parameter codes. The analytical method for determining pesticide concentrations has a different level of resolution for each pesticide, which is determined by the chemical properties of the compounds, and thus reporting levels (RLs) for this method range from 0.00200 to 48.0 microgram L-1, with an RL of &lt;0.0400 microgram L-1 for roughly 75% of the pesticides. The method detection level (MDL) = (0.5*the stated reporting level (RL)).
+
+Data processing involved multiple steps, each of which is documented in the companion USGS software release, Hinman and others (2025). For example, screening of observations included quality control screening such as reviewing the concentration results for the presence of values of zero, checking for the presence of duplicate results, and reviewing NWQL provided value qualifier codes. Data processing also included screening for raised reporting levels. A raised reporting level (RRL) is a "Not Detected" value reported at a concentration higher than the RL associated with the sample result. RRLs were screened according to the following steps: (1) removal from the dataset due to contamination or undefined reasons for occurrence, (2) when greater than or equal to 90 percent of the results for a pesticide were non-detections, all RRLs were retained, (3) the remaining RRLs were categorized as “quantized” or “non-quantized” following Hinman and others (2025), (4) quantized RRLs greater than the 50th percentile of detected values were removed, and (5) non-quantized RRLs greater than the 25th percentile of detected values were removed. Screening of each site-pesticide's longitudinal data for representativeness and completeness was also conducted following Stone and others (2014).</procdesc>
+        <srcused>Sandstrom and others (2015)</srcused>
+        <srcused>Shoda and others (2018)</srcused>
+        <srcused>U.S. Geological Survey (2024)</srcused>
+        <srcused>Hinman and others (2025)</srcused>
+        <procdate>2025</procdate>
+      </procstep>
+      <procstep>
+        <procdesc>Time-weighted detection frequencies
+
+To provide an unbiased estimate of the percentage of time during the water year that a compound was detected, time-weighted detection frequencies (DFs) of each pesticide were calculated for 81 sites throughout 10 water years (2013-2022) following methods described in Stone and others (2014). Time-weighted annual means are also provided, where “Not Detected” values were set to half of their RL (MDL) in the calculation. Further details regarding the calculation of time-weighted DFs can be found in the software (code) that was used to generate these data (Hinman and others, 2025).</procdesc>
+        <srcused>Stone and others (2014)</srcused>
+        <srcused>Hinman and others (2025)</srcused>
+        <procdate>2025</procdate>
+      </procstep>
+      <procstep>
+        <procdesc>Acute aquatic life benchmark (ALB) exceedances
+
+Only detected concentrations are included in the acute ALB comparison table. A sample result was considered to have exceeded an acute benchmark for a pesticide if the concentration was greater than or equal to the benchmark. The benchmarks used in this analysis were derived from EPA Office of Pesticide Programs (OPP) aquatic-life benchmarks (EPA, Aquatic Life Benchmarks, 2024). When the EPA did not have an exact equivalent to this study’s analyte list, the appropriate benchmark was selected by evaluating chemically similar compounds. This determination considered factors such as structural similarity, functional groups, and naming variations (e.g., acids versus salts, esters, combined acid/salt forms, or isomers). For detailed information on the pesticide benchmarks applied, see Table 4 (t4_ALB_acute), specifically the “Benchmark_Comment” column. Further details regarding the calculation of acute ALB exceedances can be found in the software (code) that was used to generate these data (Hinman and others, 2025).</procdesc>
+        <srcused>EPA (2024)</srcused>
+        <srcused>Hinman and others (2025)</srcused>
+        <procdate>2025</procdate>
+      </procstep>
+      <procstep>
+        <procdesc>Chronic aquatic life benchmark (ALB) exceedances
+
+A site was considered to have exceeded a chronic ALB benchmark for pesticide and water year if the appropriate moving-average concentration was greater than or equal to the benchmark concentration. Moving-average concentrations were calculated as described in Stone and others (2014), and the benchmarks used in this analysis were derived from EPA Office of Pesticide Programs (OPP) aquatic-life benchmarks (EPA, Aquatic Life Benchmarks, 2024). When the EPA did not have an exact equivalent to this study’s analyte list, the appropriate benchmark was selected by evaluating chemically similar compounds. This determination considered factors such as structural similarity, functional groups, and naming variations (e.g., acids versus salts, esters, combined acid/salt forms, or isomers). For detailed information on the pesticide benchmarks applied, see Table 5 (t5_ALB_chronic), specifically the “Benchmark_Comment” column. Further details regarding the calculation of chronic ALB exceedances can be found in the software (code) that was used to generate these data (Hinman and others, 2025).</procdesc>
+        <srcused>Stone and others (2014)</srcused>
+        <srcused>EPA (2024)</srcused>
+        <srcused>Hinman and others (2025)</srcused>
+        <procdate>2025</procdate>
+      </procstep>
+      <procstep>
+        <procdesc>Human health benchmark exceedances
+
+The EPA Drinking Water Standard Maximum Contaminant Levels (MCL) from Smith and Nowell (2024) were used for the chronic Human Health Benchmark (HHB) comparisons for four pesticides that had an available MCL (2,4-dichlorophenoxyacetic acid (2,4-D), atrazine, glyphosate, and simazine). If available, the EPA Human Health Benchmarks for Pesticides (HHBPs) and USGS Health Based Screening Levels (HBSLs) were used for additional chronic benchmark comparisons (Smith and Nowell, 2024). Following guidance from Smith and Nowell (2024), estimated annual mean concentrations were compared to the HHB benchmarks. Annual mean concentrations were estimated based on the percent of non-detections for each pesticide, monitoring location, and water year. If less than 10 percent of results were non-detections, then a time-weighted annual mean was calculated with all non-detections set to the MDL. If greater than 80 percent of results were non-detections, then the most frequent non-detection value was used as the estimated annual mean. If between 10 and 80 percent of results were non-detections, then a Kaplan-Meier median was used to estimate the annual mean, where non-detections were included at their RL. Further details regarding the calculation of HHB exceedances can be found in the software (code) that was used to generate these data (Hinman and others, 2025).</procdesc>
+        <srcused>Smith and Nowell (2024)</srcused>
+        <srcused>Hinman and others (2025)</srcused>
+        <procdate>2025</procdate>
+      </procstep>
+      <procstep>
+        <procdesc>Pesticide trends
+
+Pesticide trends were computed utilizing the EnvStats (Millard, 2013) and NADA2 (Julian and Helsel, 2024) R packages. To determine monotonic changes in pesticide concentrations over time, the Seasonal Kendall Test (SKT) was utilized (Hirsch and others,1982). The SKT uses the Tau statistic, a nonparametric measure of correlative strength ranging from −1 to 1, indicating a stronger negative or positive trend as the Tau value approaches −1 or 1, respectively (Hirsch and others, 1982). The magnitude of change was determined using the Thiel-Sen slope, which is a representation of the median slope of all pairwise comparisons through the data (Julian and Helsel, 2024; Hirsch and others, 1982).
+
+Before running the SKT on pesticide concentrations for the trend period (a single decade-long period, water years 2013−2022), several data screening steps were performed using modified methods from Shoda and Murphy (2022). For each river-pesticide combination, the following criteria were used to assess dataset for suitability in SKT analysis:
+
+1) Outlier: river-pesticide(s) did not contain high outliers (&gt;= 4 standard deviations).
+2) Data Density: river-pesticide(s) had at least 20 samples with a minimum 9-year period of record (POR), with quarterly samples for at least 70% of the POR. No data gaps longer than 5 years.
+3) Seasonal and temporal: records were defined by a quarterly sampling scheme that is used in multiple national modeling efforts (Division III sampling scenario from Table 4 in Oelsner and others (2017)). The POR was 10 years long. Because 2022 was the target end year, the minimum start year was 2013. 
+a. End-year: at least 2 years of quarterly sampling in a 3-year end-year window (2 preceding years + target year). For this analysis, the target trend end year is 2022 and the end year window is 2020 – 2022.
+b. Start-year: Quarterly samples were required in the start-year and in at least 1 of the next 3 years (i.e., at least 2 years with quarterly samples were required in the 4-year start window; quarterly samples were required in 2013 and in one of the following years: 2014, 2015, or 2016.
+
+For pesticide and site combinations that had multiple reporting levels, the data were censored to the highest reporting level. In this process, if there was a single result for a given season and year, that value was used. If there were multiple results, then the median value for that season, determined with the flipped Kaplan-Meier method, was used (Millard, 2013).
+
+Estimates of the Theil-Sen slope become unreliable when a large percentage of the water-quality record is censored, while the Tau statistic is more robust to censored data. In this situation, a significant increasing or decreasing trend can be identified, but the magnitude of the trend cannot be reliably quantified. If less than or equal to 40 percent of the seasons were censored, then the Tau statistic and the Theil-Sen slope were reported (Shoda and Murphy, 2022). If more than 40 percent but less than or equal to 80 percent of the seasonal data in the trend period were censored, then only the Tau statistic was reported. Finally, if more than 80 percent of the seasons in the trend period were censored values, the SKT was not run, following Oelsner and others (2017), and only the median Kaplan-Meier concentration of the trend period was reported. Further details regarding the calculation of trends can be found in the software (code) that was used to generate these data (Hinman and others, 2025).</procdesc>
+        <srcused>Millard (2013)</srcused>
+        <srcused>Julian and Helsel (2024)</srcused>
+        <srcused>Hirsch and others (1981)</srcused>
+        <srcused>Shoda and Murphy (2022)</srcused>
+        <srcused>Oelsner and others (2017)</srcused>
+        <srcused>Hinman and others (2025)</srcused>
+        <procdate>2025</procdate>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>t1_site_info.txt</enttypl>
+        <enttypd>tab delimited text file of river sites included in pesticide analyses.</enttypd>
+        <enttypds>Producer Defined</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>Location_Identifier</attrlabl>
+        <attrdef>An 8 to 15-digit identification number used in the USGS National Water Information System (NWIS) database, in the format "USGS-" followed by the site number to retain leading zeroes of site numbers.</attrdef>
+        <attrdefs>U.S. Geological Survey National Water Information Systems; https://waterdata.usgs.gov/nwis</attrdefs>
+        <attrdomv>
+          <udom>An 8 to 15-digit identification number used in the USGS National Water Information System (NWIS) database, in the format "USGS-" followed by the site number to retain leading zeroes of site numbers.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>station_nm</attrlabl>
+        <attrdef>The USGS National Water Information System (NWIS) station name.</attrdef>
+        <attrdefs>U.S. Geological Survey National Water Information Systems; https://waterdata.usgs.gov/nwis</attrdefs>
+        <attrdomv>
+          <udom>The USGS National Water Information System (NWIS) station name.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Site_Abb</attrlabl>
+        <attrdef>The abbreviated USGS station name.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <udom>An abbreviated USGS station name created for analysis and plotting purposes. Note that the two Illinois River sites (Illinois River at Valley City, IL and Illinois River at Florence, IL) were combined and processed as one site for all pesticide quality control steps and analyses and hence, this site is represented by one abbreviated site name (Illinois R, IL). For further details, see the site information data processing step (step 1).</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>AggRegion_nam</attrlabl>
+        <attrdef>The aggregated conterminous U.S. region of each site from Martinez and others (2025).</attrdef>
+        <attrdefs>Martinez and others (2025); https://doi.org/10.5066/P13XTCTM</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>High Plains</edomv>
+            <edomvd>Site is within the High Plains aggregated region, as defined by Martinez and others (2025).</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Northeast through Midwest</edomv>
+            <edomvd>Site is within the Northeast through Midwest aggregated region, as defined by Martinez and others (2025).</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Southeast</edomv>
+            <edomvd>Site is within the Southeast aggregated region, as defined by Martinez and others (2025).</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Western</edomv>
+            <edomvd>Site is within the Western aggregated region, as defined by Martinez and others (2025).</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Region_nam</attrlabl>
+        <attrdef>The hydrologic region of each site from Martinez and others (2025).</attrdef>
+        <attrdefs>Martinez and others (2025); https://doi.org/10.5066/P13XTCTM</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>Central High Plains</edomv>
+            <edomvd>Site is within the Central High Plains hydrologic region, as defined by Martinez and others (2025).</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Northern High Plains</edomv>
+            <edomvd>Site is within the Northern High Plains hydrologic region, as defined by Martinez and others (2025).</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Southern High Plains</edomv>
+            <edomvd>Site is within the Southern High Plains hydrologic region, as defined by Martinez and others (2025).</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Great Lakes</edomv>
+            <edomvd>Site is within the Great Lakes hydrologic region, as defined by Martinez and others (2025).</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Midwest</edomv>
+            <edomvd>Site is within the Midwest hydrologic region, as defined by Martinez and others (2025).</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Northeast</edomv>
+            <edomvd>Site is within the Northeast hydrologic region, as defined by Martinez and others (2025).</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Souris-Red-Rainy</edomv>
+            <edomvd>Site is within the Souris-Red-Rainy hydrologic region, as defined by Martinez and others (2025).</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Atlantic Coast</edomv>
+            <edomvd>Site is within the Atlantic Coast hydrologic region, as defined by Martinez and others (2025).</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Gulf Coast</edomv>
+            <edomvd>Site is within the Gulf Coast hydrologic region, as defined by Martinez and others (2025).</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Mississippi Embayment</edomv>
+            <edomvd>Site is within the Mississippi Embayment hydrologic region, as defined by Martinez and others (2025).</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Tennessee-Missouri</edomv>
+            <edomvd>Site is within the Tennessee-Missouri hydrologic region, as defined by Martinez and others (2025).</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Texas</edomv>
+            <edomvd>Site is within the Texas hydrologic region, as defined by Martinez and others (2025).</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>California-Nevada</edomv>
+            <edomvd>Site is within the California-Nevada hydrologic region, as defined by Martinez and others (2025).</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Central Rockies</edomv>
+            <edomvd>Site is within the Central Rockies hydrologic region, as defined by Martinez and others (2025).</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Columbia-Snake</edomv>
+            <edomvd>Site is within the Columbia-Snake hydrologic region, as defined by Martinez and others (2025).</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Pacific Northwest</edomv>
+            <edomvd>Site is within the Pacific Northwest hydrologic region, as defined by Martinez and others (2025).</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Southwest Desert</edomv>
+            <edomvd>Site is within the Southwest Desert hydrologic region, as defined by Martinez and others (2025).</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>state_cd</attrlabl>
+        <attrdef>The two digit Federal Information Processing System (FIPS) state code of each site.</attrdef>
+        <attrdefs>U.S. Geological Survey National Water Information Systems; https://waterdata.usgs.gov/nwis</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>FIPS Code (2-Digit State ID)</codesetn>
+            <codesets>https://transition.fcc.gov/oet/info/maps/census/fips/fips.txt#:~:text=FIPS%20codes%20are%20numbers%20which,to%20which%20the%20county%20belongs.</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>huc_cd</attrlabl>
+        <attrdef>The eight digit subbasin hydrologic unit code of each site. Leading zeros may be present in the eight-digit HUC.</attrdef>
+        <attrdefs>U.S. Geological Survey National Water Information Systems; https://waterdata.usgs.gov/nwis</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>HUC</codesetn>
+            <codesets>U.S. Geological Survey, 2013, Federal standards and procedures for the National Watershed Boundary Dataset (WBD), Techniques and Methods 11-A3: U.S. Geological Survey, U.S. Department of Agriculture, and Natural Resources Conservation Service, 63 p. https://doi.org/10.3133/tm11A34.</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Drainage_area_km2</attrlabl>
+        <attrdef>The area of land in square kilometers within a watershed that drains all the streams and rainfall to a common outlet.</attrdef>
+        <attrdefs>U.S. Geological Survey National Water Information Systems; https://waterdata.usgs.gov/nwis</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>Two sites (Wax Lake Outlet at Calumet, LA and Lower Atchafalaya River at Morgan City, LA) were classified as distributaries (streams that branch off and flow away from the main river channel) and no upstream drainage area was defined for these sites.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <rdom>
+            <rdommin>39</rdommin>
+            <rdommax>2929652</rdommax>
+            <attrunit>square-kilometers</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>dec_lat_va</attrlabl>
+        <attrdef>Latitude in decimal degrees</attrdef>
+        <attrdefs>U.S. Geological Survey National Water Information Systems; https://waterdata.usgs.gov/nwis</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>25.87674793</rdommin>
+            <rdommax>47.9269234</rdommax>
+            <attrunit>decimal degrees</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>dec_long_va</attrlabl>
+        <attrdef>Longitude in decimal degrees</attrdef>
+        <attrdefs>U.S. Geological Survey National Water Information Systems; https://waterdata.usgs.gov/nwis</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>-123.1834539</rdommin>
+            <rdommax>-72.6053669</rdommax>
+            <attrunit>decimal degrees</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>dec_coord_datum_cd</attrlabl>
+        <attrdef>Geodetic Datum Reference</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>NAD83</edomv>
+            <edomvd>North American Datum of 1983</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+    </detailed>
+    <detailed>
+      <enttyp>
+        <enttypl>t2_pest_concs.txt</enttypl>
+        <enttypd>tab delimited text file of individual pesticide sample concentrations.</enttypd>
+        <enttypds>Producer Defined</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>Pesticide_Site</attrlabl>
+        <attrdef>An identifier that represents the combined pesticide name and USGS site number.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <udom>An identifier that represents the combined pesticide name and USGS site number. Note that the two Illinois River sites (Illinois River at Valley City, IL and Illinois River at Florence, IL) were combined and processed as one site for all pesticide quality control and analyses steps and hence, this site is represented by one USGS site number (05586300) in this Pesticide_Site column throughout tables 2 through 7. For further details, see the site information data processing step (step 1).</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Pesticide_Name</attrlabl>
+        <attrdef>Pesticide parameter name.</attrdef>
+        <attrdefs>USGS NWIS</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>Parameter Code Definition for Organics, Pesticides</codesetn>
+            <codesets>https://nwis.waterdata.usgs.gov/usa/nwis/pmcodes</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Site_Abb</attrlabl>
+        <attrdef>The abbreviated USGS station name.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <udom>An abbreviated USGS station name created for analysis and plotting purposes. Note that the two Illinois River sites (Illinois River at Valley City, IL and Illinois River at Florence, IL) were combined and processed as one site for all pesticide quality control steps and analyses and hence, this site is represented by one abbreviated site name (Illinois R, IL). For further details, see the site information data processing step (step 1).</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>USGSpcode</attrlabl>
+        <attrdef>5-digit USGS number used in NWIS to uniquely identify the constituent measured.</attrdef>
+        <attrdefs>USGS NWIS</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>Parameter Code Definition for Organics, Pesticides</codesetn>
+            <codesets>https://nwis.waterdata.usgs.gov/usa/nwis/pmcodes</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Water_Year</attrlabl>
+        <attrdef>Water year, October 1 to September 30, in format of four digit year.</attrdef>
+        <attrdefs>USGS</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>2013</rdommin>
+            <rdommax>2022</rdommax>
+            <attrunit>water year</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Variables 6:13</attrlabl>
+        <attrdef>The 6th through 13th attributes in the data table were retrieved from the Water Quality Portal and the definitions of those fields can be obtained here: https://www.waterqualitydata.us/portal_userguide/</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>Water Quality Portal</codesetn>
+            <codesets>https://www.waterqualitydata.us/portal_userguide/</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Result_Value_ug_L</attrlabl>
+        <attrdef>Pesticide concentration in microgram per liter. For detailed quality control steps taken to produce this concentration column please reference Hinman and others (2025); https://doi.org/10.5066/P13VFS7H.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0.00001</rdommin>
+            <rdommax>137</rdommax>
+            <attrunit>microgram per liter</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+    </detailed>
+    <detailed>
+      <enttyp>
+        <enttypl>t3_pest_TWDF.txt</enttypl>
+        <enttypd>tab delimited text file of pesticide time-weighted detection frequencies and time-weighted annual mean concentrations.</enttypd>
+        <enttypds>Producer Defined</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>Pesticide_Site</attrlabl>
+        <attrdef>An identifier that represents the combined pesticide name and USGS site number.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <udom>An identifier that represents the combined pesticide name and USGS site number. Note that the two Illinois River sites (Illinois River at Valley City, IL and Illinois River at Florence, IL) were combined and processed as one site for all pesticide quality control and analyses steps and hence, this site is represented by one USGS site number (05586300) in this Pesticide_Site column throughout tables 2 through 7. For further details, see the site information data processing step (step 1).</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Pesticide_Name</attrlabl>
+        <attrdef>Pesticide parameter name.</attrdef>
+        <attrdefs>USGS NWIS</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>Parameter Code Definition for Organics, Pesticides</codesetn>
+            <codesets>https://nwis.waterdata.usgs.gov/usa/nwis/pmcodes</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Site_Abb</attrlabl>
+        <attrdef>The abbreviated USGS station name.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <udom>An abbreviated USGS station name created for analysis and plotting purposes. Note that the two Illinois River sites (Illinois River at Valley City, IL and Illinois River at Florence, IL) were combined and processed as one site for all pesticide quality control steps and analyses and hence, this site is represented by one abbreviated site name (Illinois R, IL). For further details, see the site information data processing step (step 1).</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>AggRegion_nam</attrlabl>
+        <attrdef>The aggregated conterminous U.S. region of each site from Martinez and others (2025).</attrdef>
+        <attrdefs>Martinez and others (2025); https://doi.org/10.5066/P13XTCTM</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>Northeast through Midwest</edomv>
+            <edomvd>Site is within the Northeast through Midwest aggregated region, as defined by Martinez and others (2025).</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Southeast</edomv>
+            <edomvd>Site is within the Southeast aggregated region, as defined by Martinez and others (2025).</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>High Plains</edomv>
+            <edomvd>Site is within the High Plains aggregated region, as defined by Martinez and others (2025).</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Western</edomv>
+            <edomvd>Site is within the Western aggregated region, as defined by Martinez and others (2025).</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Region_nam</attrlabl>
+        <attrdef>The hydrologic region of each site from Martinez and others (2025).</attrdef>
+        <attrdefs>Martinez and others (2025); https://doi.org/10.5066/P13XTCTM</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>Northeast</edomv>
+            <edomvd>Site is within the Northeast hydrologic region, as defined by Martinez and others (2025).</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Atlantic Coast</edomv>
+            <edomvd>Site is within the Atlantic Coast hydrologic region, as defined by Martinez and others (2025).</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Tennessee-Missouri</edomv>
+            <edomvd>Site is within the Tennessee-Missouri hydrologic region, as defined by Martinez and others (2025).</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Gulf Coast</edomv>
+            <edomvd>Site is within the Gulf Coast hydrologic region, as defined by Martinez and others (2025).</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Midwest</edomv>
+            <edomvd>Site is within the Midwest hydrologic region, as defined by Martinez and others (2025).</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Souris-Red-Rainy</edomv>
+            <edomvd>Site is within the Souris-Red-Rainy hydrologic region, as defined by Martinez and others (2025).</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Great Lakes</edomv>
+            <edomvd>Site is within the Great Lakes hydrologic region, as defined by Martinez and others (2025).</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Northern High Plains</edomv>
+            <edomvd>Site is within the Northern High Plains hydrologic region, as defined by Martinez and others (2025).</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Central High Plains</edomv>
+            <edomvd>Site is within the Central High Plains hydrologic region, as defined by Martinez and others (2025).</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Southern High Plains</edomv>
+            <edomvd>Site is within the Southern High Plains hydrologic region, as defined by Martinez and others (2025).</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Mississippi Embayment</edomv>
+            <edomvd>Site is within the Mississippi Embayment hydrologic region, as defined by Martinez and others (2025).</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Texas</edomv>
+            <edomvd>Site is within the Texas hydrologic region, as defined by Martinez and others (2025).</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Central Rockies</edomv>
+            <edomvd>Site is within the Central Rockies hydrologic region, as defined by Martinez and others (2025).</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Southwest Desert</edomv>
+            <edomvd>Site is within the Southwest Desert hydrologic region, as defined by Martinez and others (2025).</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>California-Nevada</edomv>
+            <edomvd>Site is within the California-Nevada hydrologic region, as defined by Martinez and others (2025).</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Columbia-Snake</edomv>
+            <edomvd>Site is within the Columbia-Snake hydrologic region, as defined by Martinez and others (2025).</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Pacific Northwest</edomv>
+            <edomvd>Site is within the Pacific Northwest hydrologic region, as defined by Martinez and others (2025).</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>USGSpcode</attrlabl>
+        <attrdef>5-digit USGS number used in NWIS to uniquely identify the constituent measured.</attrdef>
+        <attrdefs>USGS NWIS</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>Parameter Code Definition for Organics, Pesticides</codesetn>
+            <codesets>https://nwis.waterdata.usgs.gov/usa/nwis/pmcodes</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Water_Year</attrlabl>
+        <attrdef>Water year, October 1 to September 30, in format of four digit year.</attrdef>
+        <attrdefs>USGS</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>2013</rdommin>
+            <rdommax>2022</rdommax>
+            <attrunit>water year</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Pct_Annual_TWDF</attrlabl>
+        <attrdef>Annual time-weighted detection frequency, calculated following methods described in Stone and others (2014).</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>100</rdommax>
+            <attrunit>percentage</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>TW_Annual_Mean_ug_L</attrlabl>
+        <attrdef>Annual time-weighted mean pesticide concentration, calculated following methods described in Stone and others (2014).</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0.00080</rdommin>
+            <rdommax>19.4</rdommax>
+            <attrunit>microgram per liter</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+    </detailed>
+    <detailed>
+      <enttyp>
+        <enttypl>t4_ALB_acute.txt</enttypl>
+        <enttypd>tab delimited text file of pesticide acute ALB analysis.</enttypd>
+        <enttypds>Producer Defined</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>Pesticide_Site</attrlabl>
+        <attrdef>An identifier that represents the combined pesticide name and USGS site number.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <udom>An identifier that represents the combined pesticide name and USGS site number. Note that the two Illinois River sites (Illinois River at Valley City, IL and Illinois River at Florence, IL) were combined and processed as one site for all pesticide quality control and analyses steps and hence, this site is represented by one USGS site number (05586300) in this Pesticide_Site column throughout tables 2 through 7. For further details, see the site information data processing step (step 1).</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Pesticide_Name</attrlabl>
+        <attrdef>Pesticide parameter name.</attrdef>
+        <attrdefs>USGS NWIS</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>Parameter Code Definition for Organics, Pesticides</codesetn>
+            <codesets>https://nwis.waterdata.usgs.gov/usa/nwis/pmcodes</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Site_Abb</attrlabl>
+        <attrdef>The abbreviated USGS station name.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <udom>An abbreviated USGS station name created for analysis and plotting purposes. Note that the two Illinois River sites (Illinois River at Valley City, IL and Illinois River at Florence, IL) were combined and processed as one site for all pesticide quality control steps and analyses and hence, this site is represented by one abbreviated site name (Illinois R, IL). For further details, see the site information data processing step (step 1).</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>AggRegion_nam</attrlabl>
+        <attrdef>The aggregated conterminous U.S. region of each site from Martinez and others (2025).</attrdef>
+        <attrdefs>Martinez and others (2025); https://doi.org/10.5066/P13XTCTM</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>Northeast through Midwest</edomv>
+            <edomvd>Site is within the Northeast through Midwest aggregated region, as defined by Martinez and others (2025).</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Southeast</edomv>
+            <edomvd>Site is within the Southeast aggregated region, as defined by Martinez and others (2025).</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Western</edomv>
+            <edomvd>Site is within the Western aggregated region, as defined by Martinez and others (2025).</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>High Plains</edomv>
+            <edomvd>Site is within the High Plains aggregated region, as defined by Martinez and others (2025).</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Region_nam</attrlabl>
+        <attrdef>The hydrologic region of each site from Martinez and others (2025).</attrdef>
+        <attrdefs>Martinez and others (2025); https://doi.org/10.5066/P13XTCTM</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>Northeast</edomv>
+            <edomvd>Site is within the Northeast hydrologic region, as defined by Martinez and others (2025).</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Atlantic Coast</edomv>
+            <edomvd>Site is within the Atlantic Coast hydrologic region, as defined by Martinez and others (2025).</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Tennessee-Missouri</edomv>
+            <edomvd>Site is within the Tennessee-Missouri hydrologic region, as defined by Martinez and others (2025).</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Gulf Coast</edomv>
+            <edomvd>Site is within the Gulf Coast hydrologic region, as defined by Martinez and others (2025).</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Midwest</edomv>
+            <edomvd>Site is within the Midwest hydrologic region, as defined by Martinez and others (2025).</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Souris-Red-Rainy</edomv>
+            <edomvd>Site is within the Souris-Red-Rainy hydrologic region, as defined by Martinez and others (2025).</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Great Lakes</edomv>
+            <edomvd>Site is within the Great Lakes hydrologic region, as defined by Martinez and others (2025).</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Mississippi Embayment</edomv>
+            <edomvd>Site is within the Mississippi Embayment hydrologic region, as defined by Martinez and others (2025).</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Texas</edomv>
+            <edomvd>Site is within the Texas hydrologic region, as defined by Martinez and others (2025).</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>California-Nevada</edomv>
+            <edomvd>Site is within the California-Nevada hydrologic region, as defined by Martinez and others (2025).</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Columbia-Snake</edomv>
+            <edomvd>Site is within the Columbia-Snake hydrologic region, as defined by Martinez and others (2025).</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Pacific Northwest</edomv>
+            <edomvd>Site is within the Pacific Northwest hydrologic region, as defined by Martinez and others (2025).</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Northern High Plains</edomv>
+            <edomvd>Site is within the Northern High Plains hydrologic region, as defined by Martinez and others (2025).</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Central High Plains</edomv>
+            <edomvd>Site is within the Central High Plains hydrologic region, as defined by Martinez and others (2025).</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Southern High Plains</edomv>
+            <edomvd>Site is within the Southern High Plains hydrologic region, as defined by Martinez and others (2025).</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Southwest Desert</edomv>
+            <edomvd>Site is within the Southwest Desert hydrologic region, as defined by Martinez and others (2025).</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Central Rockies</edomv>
+            <edomvd>Site is within the Central Rockies hydrologic region, as defined by Martinez and others (2025).</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>USGSpcode</attrlabl>
+        <attrdef>5-digit USGS number used in NWIS to uniquely identify the constituent measured.</attrdef>
+        <attrdefs>USGS NWIS</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>Parameter Code Definition for Organics, Pesticides</codesetn>
+            <codesets>https://nwis.waterdata.usgs.gov/usa/nwis/pmcodes</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Water_Year</attrlabl>
+        <attrdef>Water year, October 1 to September 30, in format of four digit year.</attrdef>
+        <attrdefs>USGS</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>2013</rdommin>
+            <rdommax>2022</rdommax>
+            <attrunit>water year</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Activity_StartDate</attrlabl>
+        <attrdef>Surface water sample collection date in format of four-digit year, two-digit month, and two digit-day.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <udom>Surface water sample collection date in format of four-digit year, two-digit month, and two digit-day.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Result_Value_ug_L</attrlabl>
+        <attrdef>Detected pesticide concentration that is compared to the acute ALB concentration.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0.00001</rdommin>
+            <rdommax>137</rdommax>
+            <attrunit>microgram per liter</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Benchmark_Category</attrlabl>
+        <attrdef>Acute ALB category from EPA (2024).</attrdef>
+        <attrdefs>EPA (2024)</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>Acute Fish (ug/L)</edomv>
+            <edomvd>Acute freshwater vertebrates benchmark.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Acute Invertebrate (ug/L)</edomv>
+            <edomvd>Acute freshwater invertebrate benchmark.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Acute Nonvascular Plant (ug/L)</edomv>
+            <edomvd>Acute nonvascular plant benchmark.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>LOWEST Plant Benchmark (ug/L)</edomv>
+            <edomvd>The lowest of either the acute vascular or nonvascular plant benchmarks.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Acute Vascular Plant (ug/L)</edomv>
+            <edomvd>Acute vascular plant benchmark.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Acute aquatic-life criterion, CMC (ug/L)</edomv>
+            <edomvd>Acute aquatic-life criterion, criterion maximum concentration (CMC) benchmark.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Benchmark_Value_ug_L</attrlabl>
+        <attrdef>Acute ALB concentration from EPA (2024).</attrdef>
+        <attrdefs>EPA (2024)</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0.0014</rdommin>
+            <rdommax>500000</rdommax>
+            <attrunit>microgram per liter</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Exceed_Benchmark</attrlabl>
+        <attrdef>Acute ALB exceedance as a boolean value.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>FALSE</edomv>
+            <edomvd>Surface water pesticide concentration did not exceed the acute ALB concentration.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>TRUE</edomv>
+            <edomvd>Surface water pesticide concentration did exceed the acute ALB concentration.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Benchmark_Qualifier</attrlabl>
+        <attrdef>Benchmark qualifier from EPA (2024).</attrdef>
+        <attrdefs>EPA (2024)</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>No benchmark qualifier.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>greater than</edomv>
+            <edomvd>Benchmark derived from a "greater-than" value and may overestimate toxicity.</edomvd>
+            <edomvds>EPA (2024)</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>less than</edomv>
+            <edomvd>Benchmark derived from a "less-than" value and may underestimate toxicity.</edomvd>
+            <edomvds>EPA (2024)</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Benchmark_Comment</attrlabl>
+        <attrdef>Comments related to the respective benchmark.</attrdef>
+        <attrdefs>EPA (2024)</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>No Data</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <udom>Comments related to the respective benchmark.</udom>
+        </attrdomv>
+      </attr>
+    </detailed>
+    <detailed>
+      <enttyp>
+        <enttypl>t5_ALB_chronic.txt</enttypl>
+        <enttypd>tab delimited text file of pesticide chronic ALB analysis.</enttypd>
+        <enttypds>Producer Defined</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>Pesticide_Site</attrlabl>
+        <attrdef>An identifier that represents the combined pesticide name and USGS site number.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <udom>An identifier that represents the combined pesticide name and USGS site number. Note that the two Illinois River sites (Illinois River at Valley City, IL and Illinois River at Florence, IL) were combined and processed as one site for all pesticide quality control and analyses steps and hence, this site is represented by one USGS site number (05586300) in this Pesticide_Site column throughout tables 2 through 7. For further details, see the site information data processing step (step 1).</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Pesticide_Name</attrlabl>
+        <attrdef>Pesticide parameter name.</attrdef>
+        <attrdefs>USGS NWIS</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>Parameter Code Definition for Organics, Pesticides</codesetn>
+            <codesets>https://nwis.waterdata.usgs.gov/usa/nwis/pmcodes</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Site_Abb</attrlabl>
+        <attrdef>The abbreviated USGS station name.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <udom>An abbreviated USGS station name created for analysis and plotting purposes. Note that the two Illinois River sites (Illinois River at Valley City, IL and Illinois River at Florence, IL) were combined and processed as one site for all pesticide quality control steps and analyses and hence, this site is represented by one abbreviated site name (Illinois R, IL). For further details, see the site information data processing step (step 1).</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>AggRegion_nam</attrlabl>
+        <attrdef>The aggregated conterminous U.S. region of each site from Martinez and others (2025).</attrdef>
+        <attrdefs>Martinez and others (2025); https://doi.org/10.5066/P13XTCTM</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>Northeast through Midwest</edomv>
+            <edomvd>Site is within the Northeast through Midwest aggregated region, as defined by Martinez and others (2025).</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>High Plains</edomv>
+            <edomvd>Site is within the High Plains aggregated region, as defined by Martinez and others (2025).</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Southeast</edomv>
+            <edomvd>Site is within the Southeast aggregated region, as defined by Martinez and others (2025).</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Western</edomv>
+            <edomvd>Site is within the Western aggregated region, as defined by Martinez and others (2025).</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Region_nam</attrlabl>
+        <attrdef>The hydrologic region of each site from Martinez and others (2025).</attrdef>
+        <attrdefs>Martinez and others (2025); https://doi.org/10.5066/P13XTCTM</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>Midwest</edomv>
+            <edomvd>Site is within the Midwest hydrologic region, as defined by Martinez and others (2025).</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Central High Plains</edomv>
+            <edomvd>Site is within the Central High Plains hydrologic region, as defined by Martinez and others (2025).</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Tennessee-Missouri</edomv>
+            <edomvd>Site is within the Tennessee-Missouri hydrologic region, as defined by Martinez and others (2025).</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Southern High Plains</edomv>
+            <edomvd>Site is within the Southern High Plains hydrologic region, as defined by Martinez and others (2025).</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Mississippi Embayment</edomv>
+            <edomvd>Site is within the Mississippi Embayment hydrologic region, as defined by Martinez and others (2025).</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Texas</edomv>
+            <edomvd>Site is within the Texas hydrologic region, as defined by Martinez and others (2025).</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Northeast</edomv>
+            <edomvd>Site is within the Northeast hydrologic region, as defined by Martinez and others (2025).</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Pacific Northwest</edomv>
+            <edomvd>Site is within the Pacific Northwest hydrologic region, as defined by Martinez and others (2025).</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Atlantic Coast</edomv>
+            <edomvd>Site is within the Atlantic Coast hydrologic region, as defined by Martinez and others (2025).</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Columbia-Snake</edomv>
+            <edomvd>Site is within the Columbia-Snake hydrologic region, as defined by Martinez and others (2025).</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Gulf Coast</edomv>
+            <edomvd>Site is within the Gulf Coast hydrologic region, as defined by Martinez and others (2025).</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>California-Nevada</edomv>
+            <edomvd>Site is within the California-Nevada hydrologic region, as defined by Martinez and others (2025).</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Souris-Red-Rainy</edomv>
+            <edomvd>Site is within the Souris-Red-Rainy hydrologic region, as defined by Martinez and others (2025).</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Great Lakes</edomv>
+            <edomvd>Site is within the Great Lakes hydrologic region, as defined by Martinez and others (2025).</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Southwest Desert</edomv>
+            <edomvd>Site is within the Southwest Desert hydrologic region, as defined by Martinez and others (2025).</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>USGSpcode</attrlabl>
+        <attrdef>5-digit USGS number used in NWIS to uniquely identify the constituent measured.</attrdef>
+        <attrdefs>USGS NWIS</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>Parameter Code Definition for Organics, Pesticides</codesetn>
+            <codesets>https://nwis.waterdata.usgs.gov/usa/nwis/pmcodes</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Water_Year</attrlabl>
+        <attrdef>Water year, October 1 to September 30, in format of four digit year.</attrdef>
+        <attrdefs>USGS</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>2013</rdommin>
+            <rdommax>2022</rdommax>
+            <attrunit>water year</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Rolling_Mean_End_Date</attrlabl>
+        <attrdef>The end date of the n-day rolling mean computation, where n is determined by the chronic ALB.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <udom>Format of four-digit year, two-digit month, and two digit-day.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>n_Day</attrlabl>
+        <attrdef>Specifies the window size for the rolling mean, which represents the average of the data points over a period of 'n' consecutive days.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>4</rdommin>
+            <rdommax>60</rdommax>
+            <attrunit>day</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Rolling_Mean_ug_L</attrlabl>
+        <attrdef>The concentration average over a period of 'n' consecutive days, calculated as described in Stone and others (2014).</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0.00462</rdommin>
+            <rdommax>47.7</rdommax>
+            <attrunit>microgram per liter</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Benchmark_Category</attrlabl>
+        <attrdef>Chronic ALB category from EPA (2024).</attrdef>
+        <attrdefs>EPA (2024)</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>Chronic Invertebrate (ug/L)</edomv>
+            <edomvd>Chronic freshwater invertebrate benchmark.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Chronic Fish (ug/L)</edomv>
+            <edomvd>Chronic freshwater vertebrates benchmark.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Chronic aquatic-life criterion, CCC (ug/L)</edomv>
+            <edomvd>Chronic aquatic-life criterion, criterion continuous concentration (CCC) benchmark.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Benchmark_Value_ug_L</attrlabl>
+        <attrdef>Chronic ALB concentration from EPA (2024).</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0.00025</rdommin>
+            <rdommax>130</rdommax>
+            <attrunit>microgram per liter</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Exceed_Benchmark</attrlabl>
+        <attrdef>Chronic ALB exceedance as a boolean value.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>TRUE</edomv>
+            <edomvd>Surface water pesticide concentration did exceed the chronic ALB concentration.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>FALSE</edomv>
+            <edomvd>Surface water pesticide concentration did not exceed the chronic ALB concentration.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Benchmark_Qualifier</attrlabl>
+        <attrdef>Benchmark qualifier from EPA (2024).</attrdef>
+        <attrdefs>EPA (2024)</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>No benchmark qualifier.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <udom>Qualifier that provides additional information about benchmarks, if available.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Benchmark_Comment</attrlabl>
+        <attrdef>Comments related to the respective benchmark.</attrdef>
+        <attrdefs>EPA (2024)</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>No data.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <udom>Comments related to the respective benchmark.</udom>
+        </attrdomv>
+      </attr>
+    </detailed>
+    <detailed>
+      <enttyp>
+        <enttypl>t6_HH_bnchmrk.txt</enttypl>
+        <enttypd>tab delimited text file of pesticide human health benchmark analysis.</enttypd>
+        <enttypds>Producer Defined</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>Pesticide_Site</attrlabl>
+        <attrdef>An identifier that represents the combined pesticide name and USGS site number.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <udom>An identifier that represents the combined pesticide name and USGS site number. Note that the two Illinois River sites (Illinois River at Valley City, IL and Illinois River at Florence, IL) were combined and processed as one site for all pesticide quality control and analyses steps and hence, this site is represented by one USGS site number (05586300) in this Pesticide_Site column throughout tables 2 through 7. For further details, see the site information data processing step (step 1).</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Pesticide_Name</attrlabl>
+        <attrdef>Pesticide parameter name.</attrdef>
+        <attrdefs>USGS NWIS</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>Parameter Code Definition for Organics, Pesticides</codesetn>
+            <codesets>https://nwis.waterdata.usgs.gov/usa/nwis/pmcodes</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Site_Abb</attrlabl>
+        <attrdef>The abbreviated USGS station name.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <udom>An abbreviated USGS station name created for analysis and plotting purposes. Note that the two Illinois River sites (Illinois River at Valley City, IL and Illinois River at Florence, IL) were combined and processed as one site for all pesticide quality control steps and analyses and hence, this site is represented by one abbreviated site name (Illinois R, IL). For further details, see the site information data processing step (step 1).</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>AggRegion_nam</attrlabl>
+        <attrdef>The aggregated conterminous U.S. region of each site from Martinez and others (2025).</attrdef>
+        <attrdefs>Martinez and others (2025); https://doi.org/10.5066/P13XTCTM</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>Northeast through Midwest</edomv>
+            <edomvd>Site is within the Northeast through Midwest aggregated region, as defined by Martinez and others (2025).</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Southeast</edomv>
+            <edomvd>Site is within the Southeast aggregated region, as defined by Martinez and others (2025).</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>High Plains</edomv>
+            <edomvd>Site is within the High Plains aggregated region, as defined by Martinez and others (2025).</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Western</edomv>
+            <edomvd>Site is within the Western aggregated region, as defined by Martinez and others (2025).</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Region_nam</attrlabl>
+        <attrdef>The hydrologic region of each site from Martinez and others (2025).</attrdef>
+        <attrdefs>Martinez and others (2025); https://doi.org/10.5066/P13XTCTM</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>Northeast</edomv>
+            <edomvd>Site is within the Northeast hydrologic region, as defined by Martinez and others (2025).</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Atlantic Coast</edomv>
+            <edomvd>Site is within the Atlantic Coast hydrologic region, as defined by Martinez and others (2025).</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Tennessee-Missouri</edomv>
+            <edomvd>Site is within the Tennessee-Missouri hydrologic region, as defined by Martinez and others (2025).</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Gulf Coast</edomv>
+            <edomvd>Site is within the Gulf Coast hydrologic region, as defined by Martinez and others (2025).</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Midwest</edomv>
+            <edomvd>Site is within the Midwest hydrologic region, as defined by Martinez and others (2025).</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Souris-Red-Rainy</edomv>
+            <edomvd>Site is within the Souris-Red-Rainy hydrologic region, as defined by Martinez and others (2025).</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Great Lakes</edomv>
+            <edomvd>Site is within the Great Lakes hydrologic region, as defined by Martinez and others (2025).</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Northern High Plains</edomv>
+            <edomvd>Site is within the Northern High Plains hydrologic region, as defined by Martinez and others (2025).</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Central High Plains</edomv>
+            <edomvd>Site is within the Central High Plains hydrologic region, as defined by Martinez and others (2025).</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Southern High Plains</edomv>
+            <edomvd>Site is within the Southern High Plains hydrologic region, as defined by Martinez and others (2025).</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Mississippi Embayment</edomv>
+            <edomvd>Site is within the Mississippi Embayment hydrologic region, as defined by Martinez and others (2025).</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Texas</edomv>
+            <edomvd>Site is within the Texas hydrologic region, as defined by Martinez and others (2025).</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Central Rockies</edomv>
+            <edomvd>Site is within the Central Rockies hydrologic region, as defined by Martinez and others (2025).</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Southwest Desert</edomv>
+            <edomvd>Site is within the Southwest Desert hydrologic region, as defined by Martinez and others (2025).</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>California-Nevada</edomv>
+            <edomvd>Site is within the California-Nevada hydrologic region, as defined by Martinez and others (2025).</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Columbia-Snake</edomv>
+            <edomvd>Site is within the Columbia-Snake hydrologic region, as defined by Martinez and others (2025).</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Pacific Northwest</edomv>
+            <edomvd>Site is within the Pacific Northwest hydrologic region, as defined by Martinez and others (2025).</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>USGSpcode</attrlabl>
+        <attrdef>5-digit USGS number used in NWIS to uniquely identify the constituent measured.</attrdef>
+        <attrdefs>USGS NWIS</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>Parameter Code Definition for Organics, Pesticides</codesetn>
+            <codesets>https://nwis.waterdata.usgs.gov/usa/nwis/pmcodes</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Water_Year</attrlabl>
+        <attrdef>Water year, October 1 to September 30, in format of four digit year.</attrdef>
+        <attrdefs>USGS</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>2013</rdommin>
+            <rdommax>2022</rdommax>
+            <attrunit>water year</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Sample_Count</attrlabl>
+        <attrdef>Count of sample measurements included in the annual mean pesticide concentration.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>8</rdommin>
+            <rdommax>33</rdommax>
+            <attrunit>count</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Annual_Mean_ug_L</attrlabl>
+        <attrdef>Annual time-weighted mean pesticide concentration, further details regarding the calculation of this value can be found in Hinman and others (2025)/</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0.00033</rdommin>
+            <rdommax>19.4</rdommax>
+            <attrunit>microgram per liter</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Annual_Mean_Note</attrlabl>
+        <attrdef>Comments related to the calculated annual mean pesticide concentration.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <udom>Comments related to the calculated annual mean pesticide concentration.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Benchmark_Category</attrlabl>
+        <attrdef>Human health benchmark category and unit from Smith and Nowell (2024).</attrdef>
+        <attrdefs>Smith and Nowell (2024)</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>Chronic Noncancer HHBP (micrograms/L)</edomv>
+            <edomvd>EPA chronic noncancer human health benchmarks for pesticides</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>MCL (micrograms/L)</edomv>
+            <edomvd>EPA maximum contaminant level.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Noncancer HBSL (micrograms/L)</edomv>
+            <edomvd>USGS noncancer health-based screening level.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Carcinogenic HHBP (micrograms/L) (1 in 1 million)</edomv>
+            <edomvd>EPA carcinogenic human health benchmarks for pesticides for a one-in-one million cancer risk range.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Carcinogenic HHBP (micrograms/L) (1 in 10,000)</edomv>
+            <edomvd>EPA carcinogenic human health benchmarks for pesticides for a one-in-ten thousand cancer risk range.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Cancer HBSL (micrograms/L) (1 in 1 million)</edomv>
+            <edomvd>USGS cancer health-based screening level for a one-in-one million cancer risk range</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Cancer HBSL (micrograms/L) (1 in 10,000)</edomv>
+            <edomvd>USGS cancer health-based screening level for a one-in-ten thousand cancer risk range</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Benchmark_Value_ug_L</attrlabl>
+        <attrdef>Human health benchmark from Smith and Nowell (2024).</attrdef>
+        <attrdefs>Smith and Nowell (2024)</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0.06</rdommin>
+            <rdommax>15000</rdommax>
+            <attrunit>microgram per liter</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Exceed_Benchmark</attrlabl>
+        <attrdef>Human health benchmark exceedance as a boolean value.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>FALSE</edomv>
+            <edomvd>Surface water pesticide annual mean concentration did not exceed the human health benchmark concentration.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>TRUE</edomv>
+            <edomvd>Surface water pesticide annual mean concentration did exceed the human health benchmark concentration.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Benchmark_Comment</attrlabl>
+        <attrdef>Comments that provide additional information about some benchmarks.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>No Data</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <udom>Comments that provide additional information about some benchmarks.</udom>
+        </attrdomv>
+      </attr>
+    </detailed>
+    <detailed>
+      <enttyp>
+        <enttypl>t7_pest_trends.txt</enttypl>
+        <enttypd>tab delimited text file of pesticide trends analysis.</enttypd>
+        <enttypds>Producer Defined</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>Pesticide_Site</attrlabl>
+        <attrdef>An identifier that represents the combined pesticide name and USGS site number.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <udom>An identifier that represents the combined pesticide name and USGS site number. Note that the two Illinois River sites (Illinois River at Valley City, IL and Illinois River at Florence, IL) were combined and processed as one site for all pesticide quality control and analyses steps and hence, this site is represented by one USGS site number (05586300) in this Pesticide_Site column throughout tables 2 through 7. For further details, see the site information data processing step (step 1).</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Pesticide_Name</attrlabl>
+        <attrdef>Pesticide parameter name.</attrdef>
+        <attrdefs>USGS NWIS</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>Parameter Code Definition for Organics, Pesticides</codesetn>
+            <codesets>https://nwis.waterdata.usgs.gov/usa/nwis/pmcodes</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Site_Abb</attrlabl>
+        <attrdef>The abbreviated USGS station name.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <udom>An abbreviated USGS station name created for analysis and plotting purposes. Note that the two Illinois River sites (Illinois River at Valley City, IL and Illinois River at Florence, IL) were combined and processed as one site for all pesticide quality control steps and analyses and hence, this site is represented by one abbreviated site name (Illinois R, IL). For further details, see the site information data processing step (step 1).</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>AggRegion_nam</attrlabl>
+        <attrdef>The aggregated conterminous U.S. region of each site from Martinez and others (2025).</attrdef>
+        <attrdefs>Martinez and others (2025); https://doi.org/10.5066/P13XTCTM</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>Northeast through Midwest</edomv>
+            <edomvd>Site is within the Northeast through Midwest aggregated region, as defined by Martinez and others (2025).</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Southeast</edomv>
+            <edomvd>Site is within the Southeast aggregated region, as defined by Martinez and others (2025).</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>High Plains</edomv>
+            <edomvd>Site is within the High Plains aggregated region, as defined by Martinez and others (2025).</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Western</edomv>
+            <edomvd>Site is within the Western aggregated region, as defined by Martinez and others (2025).</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Region_nam</attrlabl>
+        <attrdef>The hydrologic region of each site from Martinez and others (2025).</attrdef>
+        <attrdefs>Martinez and others (2025); https://doi.org/10.5066/P13XTCTM</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>Northeast</edomv>
+            <edomvd>Site is within the Northeast hydrologic region, as defined by Martinez and others (2025).</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Atlantic Coast</edomv>
+            <edomvd>Site is within the Atlantic Coast hydrologic region, as defined by Martinez and others (2025).</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Tennessee-Missouri</edomv>
+            <edomvd>Site is within the Tennessee-Missouri hydrologic region, as defined by Martinez and others (2025).</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Central High Plains</edomv>
+            <edomvd>Site is within the Central High Plains hydrologic region, as defined by Martinez and others (2025).</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Mississippi Embayment</edomv>
+            <edomvd>Site is within the Mississippi Embayment hydrologic region, as defined by Martinez and others (2025).</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>California-Nevada</edomv>
+            <edomvd>Site is within the California-Nevada hydrologic region, as defined by Martinez and others (2025).</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Columbia-Snake</edomv>
+            <edomvd>Site is within the Columbia-Snake hydrologic region, as defined by Martinez and others (2025).</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Pacific Northwest</edomv>
+            <edomvd>Site is within the Pacific Northwest hydrologic region, as defined by Martinez and others (2025).</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Gulf Coast</edomv>
+            <edomvd>Site is within the Gulf Coast hydrologic region, as defined by Martinez and others (2025).</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Midwest</edomv>
+            <edomvd>Site is within the Midwest hydrologic region, as defined by Martinez and others (2025).</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Great Lakes</edomv>
+            <edomvd>Site is within the Great Lakes hydrologic region, as defined by Martinez and others (2025).</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Northern High Plains</edomv>
+            <edomvd>Site is within the Northern High Plains hydrologic region, as defined by Martinez and others (2025).</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Southern High Plains</edomv>
+            <edomvd>Site is within the Southern High Plains hydrologic region, as defined by Martinez and others (2025).</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Texas</edomv>
+            <edomvd>Site is within the Texas hydrologic region, as defined by Martinez and others (2025).</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Central Rockies</edomv>
+            <edomvd>Site is within the Central Rockies hydrologic region, as defined by Martinez and others (2025).</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>USGSpcode</attrlabl>
+        <attrdef>5-digit USGS number used in NWIS to uniquely identify the constituent measured.</attrdef>
+        <attrdefs>USGS NWIS</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>Parameter Code Definition for Organics, Pesticides</codesetn>
+            <codesets>https://nwis.waterdata.usgs.gov/usa/nwis/pmcodes</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Trend_Period</attrlabl>
+        <attrdef>The trend period in water years, October 1 to September 30, in format of four-digit year hyphen four-digit year.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>2013 - 2022</edomv>
+            <edomvd>Trend period of record spans from water year 2013 to 2022.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>2013 - 2021</edomv>
+            <edomvd>Trend period of record spans from water year 2013 to 2021.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Seasons_Percent_Censored</attrlabl>
+        <attrdef>Pesticide trend seasonal start months, if applicable, combined with the percentage of the seasons that were censored during the trend period.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>&gt; 80% seasons censored</edomv>
+            <edomvd>Greater than 80 percent of the trend seasons were censored concentrations, trend was not analyzed and seasonal start months not applicable. However, the Kaplan-Meier concentration is still reported.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Dec/Mar/June/Sept &lt; 40% seasons censored</edomv>
+            <edomvd>Less than 40 percent of the trend seasons were censored concentrations. Trend was analyzed with the Tau statistic and the Theil-Sen slope reported. Seasonal start months were December, March, June, and September.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>Dec/Mar/June/Sept 40%-80% seasons censored</edomv>
+            <edomvd>Forty to eighty percent of the trend seasons were censored concentrations. Trend was analyzed and only the Tau statistic was reported. Seasonal start months were December, March, June, and September.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Tau</attrlabl>
+        <attrdef>Seasonal Kendall Test Tau statistic. For detailed steps taken to produce this statistic reference process step 7.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>No Data</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <rdom>
+            <rdommin>-0.684</rdommin>
+            <rdommax>0.731</rdommax>
+            <attrunit>unitless</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>P_Value</attrlabl>
+        <attrdef>Seasonal Kendall Test p-value. For detailed steps taken to produce this statistic reference process step 7.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>No Data</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <rdom>
+            <rdommin>0.0002</rdommin>
+            <rdommax>1.0</rdommax>
+            <attrunit>unitless</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>ThielSen_Slope_ug_L_yr</attrlabl>
+        <attrdef>Seasonal Kendall Test Thiel-Sen slope, a representation of the median slope of all pairwise comparisons through the data. For detailed steps taken to produce this statistic reference process step 7.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>NA</edomv>
+            <edomvd>No Data</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <rdom>
+            <rdommin>-0.06331</rdommin>
+            <rdommax>0.344</rdommax>
+            <attrunit>microgram per liter per year</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>KM_Trend_Conc_rmk</attrlabl>
+        <attrdef>Remark code for Kaplan-Meier concentration that indicates if censored "&lt;" or detected.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>&lt;&lt; empty cell &gt;&gt;</edomv>
+            <edomvd>Detected Kaplan-Meier concentration.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>&lt;</edomv>
+            <edomvd>Censored Kaplan-Meier concentration; below reporting level.</edomvd>
+            <edomvds>Producer defined</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>KM_Trend_Conc_ug_L</attrlabl>
+        <attrdef>Kaplan-Meier concentration. For detailed steps taken to produce this trend concentration reference process step 7.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0.0008</rdommin>
+            <rdommax>10.0</rdommax>
+            <attrunit>microgram per liter</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>KM_Pct_Seasonal_ND</attrlabl>
+        <attrdef>Percentage of seasonal median Kaplan-Meier concentrations that were censored. Calculated as the number of censored seasons divided by the total number of seasons.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>100</rdommax>
+            <attrunit>percentage</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>KM_Pct_Seasonal_NA</attrlabl>
+        <attrdef>Percentage of seasonal median Kaplan-Meier values excluded (NA), as a result of data quality process steps 2 or 7.</attrdef>
+        <attrdefs>Producer Defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>57.5</rdommax>
+            <attrunit>percentage</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntper>GS ScienceBase</cntper>
+          <cntorg>U.S. Geological Survey</cntorg>
+        </cntperp>
+        <cntaddr>
+          <addrtype>mailing address</addrtype>
+          <address>Denver Federal Center, Building 810, Mail Stop 302</address>
+          <city>Denver</city>
+          <state>CO</state>
+          <postal>80225</postal>
+          <country>United States</country>
+        </cntaddr>
+        <cntvoice>1-888-275-8747</cntvoice>
+        <cntemail>sciencebase@usgs.gov</cntemail>
+      </cntinfo>
+    </distrib>
+    <distliab>Unless otherwise stated, all data, metadata and related materials are considered to satisfy the quality standards relative to the purpose for which the data were collected. Although these data and associated metadata have been reviewed for accuracy and completeness and approved for release by the U.S. Geological Survey (USGS), no warranty expressed or implied is made regarding the display or utility of the data on any other system or for general or scientific purposes, nor shall the act of distribution constitute any such warranty.</distliab>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>Digital Data</formname>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>https://doi.org/10.5066/P1NDXVYD</networkr>
+              </networka>
+            </computer>
+          </onlinopt>
+        </digtopt>
+      </digform>
+      <fees>None</fees>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20260421</metd>
+    <metc>
+      <cntinfo>
+        <cntperp>
+          <cntper>Sara E. Breitmeyer</cntper>
+          <cntorg>U.S. Geological Survey, Pennsylvania Water Science Center</cntorg>
+        </cntperp>
+        <cntpos>Hydrologist</cntpos>
+        <cntaddr>
+          <addrtype>mailing address</addrtype>
+          <address>408 Boot Road</address>
+          <city>Downingtown</city>
+          <state>PA</state>
+          <postal>19335</postal>
+          <country>US</country>
+        </cntaddr>
+        <cntvoice>202-640-1187</cntvoice>
+        <cntemail>sbreitmeyer@usgs.gov</cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+  </metainfo>
+</metadata>

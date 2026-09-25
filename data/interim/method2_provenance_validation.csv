@@ -1,0 +1,11 @@
+check,value,status
+input_activity_rows,12896,PASS
+unique_activities,12896,INFO
+environmental_variables,6,PASS
+expected_provenance_rows,77376,INFO
+actual_provenance_rows,77376,PASS
+duplicate_activity_variable_rows,0,PASS
+activities_not_having_six_records,0,PASS
+missing_values_without_reason,0,PASS
+parameter_codes_default_assumption,77376,INFO
+source_station_not_retained,0,INFO
